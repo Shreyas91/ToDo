@@ -7,3 +7,5 @@ https://www.sparkfun.com/pages/accel_gyro_guide?_ga=1.106176259.1411316880.14602
 http://bildr.org/2011/04/sensing-orientation-with-the-adxl335-arduino/
 http://bildr.org/2011/03/adxl345-arduino/
 
+http://www.differencebetween.net/technology/difference-between-gyroscope-and-accelerometer/
+http://www.livescience.com/40103-accelerometer-vs-gyroscope.html

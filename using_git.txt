@@ -11,7 +11,7 @@ git remote add origin https://github.com/Shreyas91/test.git or any other reposit
 git push -u origin master
 
 git fetch filename
-
+git log -p
 
 
 

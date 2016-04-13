@@ -1,6 +1,10 @@
 https://www.youtube.com/watch?v=YOMkQsLEACI
 LED Matrix DIGITAL CLOCK
 
+14 segment ..16 segment LEDs
+https://www.maximintegrated.com/en/app-notes/index.mvp/id/1883
+
+
 http://www.instructables.com/id/Arduino-Oscilloscope/
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+oscilloscope+buy
 http://meettechniek.info/embedded/arduino-analog.html
@@ -1373,3 +1377,40 @@ http://esbuzz.net/trends/watch/vid88mrHkPsiZzLI
 git
 https://git-scm.com/downloads/guis
 http://guides.beanstalkapp.com/version-control/git-on-windows.html
+
+LED and accelerometer
+http://www.vernier.com/engineering/arduino/projects/control-led-with-accelerometer/
+http://diyhacking.com/dot-matrix-display-hackpack/
+https://www.youtube.com/watch?v=PHQol87WYaI
+http://hackaday.com/2012/04/25/3-axis-accelerometer-with-led-bar-displays/
+http://forum.tinycircuits.com/tiny-circuits/forum/index.php?topic=165.0
+http://arduino.stackexchange.com/questions/21774/accelerometer-axis-inputs-driving-three-rgb-led-strips-trinket-pro-5v
+https://forum.pjrc.com/threads/16469-looking-for-ideas-on-generating-RGB-colors-from-accelerometer-gyroscope
+http://johnny-five.io/examples/accelerometer-mma7361/
+
+
+Waterproof
+http://www.ebay.com/gds/How-to-Make-an-LED-Strip-Waterproof-/10000000205177821/g.html
+
+http://www.ecolocityled.com/category/led_tutorials
+
+http://www.instructables.com/id/Assembling-the-8x8-LED-Board-Kit/?ALLSTEPS
+https://www.google.co.in/?ion=1&espv=2#q=%22accelerometer%22+instructables+led+%22dotmatrix%22
+http://nut-bolt.nl/2012/rgb-led-strips/
+https://www.google.co.in/?ion=1&espv=2#q=creating+led+strip
+
+
+http://www.instructables.com/id/Build-a-huge-7-segments-8-digits-red-LED-display/?ALLSTEPS
+
+
+https://dynamodisplays.wordpress.com/2016/02/09/indoor-and-outdoor-led-displays/
+http://www.electronics-lab.com/project/24x6-led-matrix-control-circuit/
+https://www.maximintegrated.com/en/app-notes/index.mvp/id/4208
+https://www.youtube.com/watch?v=pB9d3X24IA4
+http://blog.akkit.org/2010/05/23/8x8-led-matrix-controller/
+https://www.youtube.com/watch?v=mQh9sWU6DyU
+http://www.ledlightpcb.com/pcb-3088782-metal-core-led-tube-pcb-assembly-led-panel-pcb-boards-75ra-or-80ra.html
+http://saturnelectronics.com/thermal_pcb_design_led_signup
+http://makingsociety.com/2013/03/the-worlwide-list-of-open-source-hardware-online-stores/
+http://www.open-electronics.org/top-5-wireless-ways-to-communicate-with-your-controller/
+http://www.open-electronics.org/

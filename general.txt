@@ -1,0 +1,7 @@
+http://www.circuitstoday.com/tag/most-popular-circuits
+http://www.piclist.com/images/www/hobby_elec/e_ic.htm
+https://arduino-info.wikispaces.com/Popular-ICs
+https://www.reddit.com/r/arduino/comments/1e6wzw/what_the_most_common_ics_for_hobbyists/
+https://en.wikibooks.org/wiki/Practical_Electronics/ICs
+http://www.electronicspoint.com/threads/most-commonly-used-ics-for-lab.21512/
+https://forums.adafruit.com/viewtopic.php?f=8&p=69426
