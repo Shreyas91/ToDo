@@ -1,0 +1,9 @@
+https://learn.sparkfun.com/tutorials/accelerometer-basics
+https://hackaday.io/projects/tag/accelerometer
+https://hackaday.io/project/1517-arduino-anytracer
+https://www.indiegogo.com/projects/arduino-gps-gsm-anytracer#/
+https://hackaday.io/project/7487-invisible-pen
+https://www.sparkfun.com/pages/accel_gyro_guide?_ga=1.106176259.1411316880.1460299614
+http://bildr.org/2011/04/sensing-orientation-with-the-adxl335-arduino/
+http://bildr.org/2011/03/adxl345-arduino/
+
