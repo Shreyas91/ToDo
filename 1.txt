@@ -1,0 +1,27 @@
+sdvnskfjdnksdfj
+
+
+Digital trainer kit, Relay, Potentiometer, CRO etc,.
+Franchise...Niranjan etc,.
+IOT key
+
+Legally no problem in our concept
+	w.r.t hardware
+	w.r.t OS(Linux disros) ,,,has kannada versions also.
+Problem is stock availability...once this clears..big players may come into picture
+Windows CE OS is the only option...there might some legal problems here
+	Have to see Windows 10 IOT core
+
+Can't patent in this form
+add few things and patent it..be quick in it..
+
+Is patent needed for this concept?
+Dealing with local bigger players...
+	Do things silently..don't make noise...
+	Add some extra features..i.e have some your own IP..
+		have something that's really tough and complex to implment
+		as well it should have good user value.
+
+IOT is the hotcake
+Arduino nano is cost effective..Raspberry pi 0
+encash both.

@@ -1,0 +1,309 @@
+Boards Targeted
+	Beaglebone
+	Raspberry Pi
+	ARM
+	Arduino Uno
+	Leave AtMega, PIC or such smaller boards...They will make things complex
+		Do them only if you really free and really interested
+	Leave FPGA..Because needs VHDL to learn
+MIPS, MSP430, GPU
+https://beagleboard.org/project
+http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/overview.page
+http://www.ti.com/ww/en/launchpad/launchpads-msp.html
+https://en.wikipedia.org/wiki/List_of_common_microcontrollers
+http://wonderfulengineering.com/10-best-microcontroller-boards-for-hobbyists-and-engineers/
+
+Things that are most important
+	Environment Setup(Doing all in windows and in linux)
+	Basic Codes (LED ON OFF, LED Toggle)
+	Complex codes on elementary operations 
+		{Timer, motor control, 
+		 Memory card (SDcard, RAM) interface for image processing, 
+		 Video Camera interfacing for image processing,
+		 Serial Communication(Ethernet + bluetooth), Zigbee...controller and co-ordinator, RF}
+	Connecting to internet(through GPRS, Ethernet) {Local + Global}
+
+Some important but less used
+	GPS
+	Website, Webpage
+	Matlab interfacing
+
+Projects to understand the syllabus
+Projects to create product
+=================================================================================================
+=================================================================================================
+
+Month 1 - 	Setting up environment FOR ALL BOARDS, IDE interface to all boards
+			Basic controlling things, Pin ON OFF, Toggling with delay, Relay, Driver Boards Usage
+			Document step by step instructions to them at industry level(IL), Prepare PPT to IL
+			Burn this month's works to a DVD
+				(all softwares, drivers, codes, documentations, other resources)
+Month 2 - 	Motor Interfacing(left, right, front, Back) motion control 
+				(through h/w buttons, wireless control(later)) FOR ALL BOARDS
+			Basic sensors interfacing FOR ALL BOARDS 
+			PIR, Ultrasonic,temperature, Buzzers, Microphone, RFID, LDR
+			Document step by step instructions to them at industry level, Prepare PPT to IL
+			Burn this month's works to a DVD
+				(all softwares, drivers, codes, documentations, other resources)
+Month 3	-	Serial interfacing, Bluetooth, Zigbee..controller + coordinator, RF, Ethernet
+			Document step by step instructions to them at industry level, Prepare PPT to IL
+Month 4	- 	Internet, GSM, GPRS, WiFi, via bluetooth through mobile/PC internet(tethering)
+Month 5	- 	Camera & Memory card(SDcard, RAM) interface for IP, A/D, D/A, LED Screen, LCD Screen
+Month 6 - 	Complex sensors
+			Solar Cells, Photo Sensors, Accelorometers, dimmer circuits, 
+			Thermal imaging, Electronic Compass
+Month 7++ - Others...
+			GPS, USB Control, Touch Screen(capacitive and resistive), Speaker.
+.	 
+.
+Continue like this with other things
+.
+.
+
+Every month's work could be a
+	Workshop's topic(2 day or 3 day)	
+	or a Module in EC's ESDP
+
+Module's complexity varies from college to college
+	Haalu bekaadavarige haalu
+	Majjige bekaadavarige majjige
+	Neeru bekaadavarige neeru
+
+Finish the basic ones and importants ones in complex things first
+Goto field for execution
+While in field, do the complex ones parallely
+
+
+Mainly digital things (MCU Coding) 
+Minimal analog work(soldering, Transistors, FETs, Opamps etc,.){Because time consuming}
+
+
+Perspective --> everything at the indusry level
+Not all things needs to be done by us, collobrate wherever its worth
+=================================================================================================
+=================================================================================================
+Other things (important after few years)
+	1. that are simple and less stressed
+		Using Different types of switches,
+		Non Electronic essential Suplemenetaries:
+			PCB Boards, Bends, Cardboards, Solder,
+			Project box making,	giving aesthic look to project - a demo, 
+
+		General Simulation Software usages for different simulators - Basics
+		Some spy projects - frequency detection of the mobile, decoding the transmitted message
+		Basics: Transistors, Diodes, Transformers, Opamps, FETs/MOSFETs		
+		
+	2. that are complex
+		Android basics
+		labview interface, 
+		Robotic arm control	
+		Control System Projects
+		Routing protocols burning to routers
+		Antenna Control Basics
+		Example WSN(for visualization of how a WSN looks)
+		Examples on FPGA, CMOS
+=================================================================================================
+=================================================================================================
+When we prepare to ALL the above, 
+	we can sell it to ANYBODY -- school kids, diploma, Engg, M.tech, Industry people
+	we will be UNBEATABLE(Yes..its takes time to finish all the above.. and THAT'S THE BEAUTY OF
+		IT.. Because thats what makes us unbeatable...All it needs is continuous dedicated work
+		for 2-3 years. It justs needs us to cross the river once...on the other side we have a 
+		beautiful land)
+		(Most of the people waste their 2-3 years of life to prepare for IAS with an 
+		 UNGARUANTEED success and most of them(99%) will fail and waste those years..
+		 whereas us, rather than doing that, we will be INVESTING those years on to our 
+		 GARUANTEED bright future)
+=================================================================================================
+=================================================================================================
+Some thoughts
+
+Workshops on 
+	IOT, Image Processing, Boards Comparison, Communication Technologies Comparison,
+	latex, poster design, CS for EC students(Client-Server, Basic Webpages, Basic Database etc,.)
+	How to box the project to look like an endproduct
+	Choose a board - Demo on using ALL the features that a board presents
+	latest trends in electronics (for final year students, industry people, entreprenaurs)
+Tutorials
+	Modules for general BE EC & TC
+	Modules specific for M.Tech Branches
+	Modules specific for technologies like IOT, Image Processing, Energy Harversting
+Workshop materials on major current topics(recent trends)
+Project work guidance workshops
+	(All elementary/Basic operations...none specific project algorithm/task implementation)
+=================================================================================================
+=================================================================================================
+Note:
+At the end of any session, create the zeal to have a paper under their name.
+Create clients for Journal Work
+	(All these things discussed above need JUST ONE TIME preparation...so those things doesn't
+	consume your time in long run...AT THIS TIME start to take JOURNAL WORK...i.e., finish all
+	the workshop/ESDP materials...then goto JOURNAL WORK and INDUSTRY LEVEL PROJECT WORKS)
+Say we can give service of supplying any paper in IEEE + Springer + Elsevier
+=================================================================================================
+=================================================================================================
+Target Audiences/2nd persons
+	Engg. Colleges
+	Industry Peoples (To train new recruits, To train new companies' staff)
+=================================================================================================
+=================================================================================================
+Possibilites( People call us for)
+	Workshops
+	Tutorials - elonged workshops, ESDP
+	People will also call for setting up the environment itself for sure
+	Removers of strucking points in projects
+		(only guiding + pointing to or giving some resources(related example codes))
+	Industries call us to train their staff
+	One point contact for all technical stuff 
+		(to supply materials, to help in publishing, to help in projects packaging by giving
+		 related contact points, providing platforms to demonstrate their work, to direct the 
+		 people in need to right industry persons or academic persons)
+		 Basically, bridge between Bangalore and Non-Bangalore...or rather bridge between the
+		 sinks and sources
+	For arranging Industry visits for students
+=================================================================================================
+=================================================================================================
+Thought Transfers
+	Demo on identifying the project oppurtunities by OBSERVING the real world.
+		that is --> Sensing of oppurtunities spectrum Ex,. Thottilu thugoo machine
+	Decomposing the products to small elementary operations(i.e., simplify complex things)
+		ex. trimmer = oscillator+motor, sprinkler = servomotor + relay, Car's key = digital 
+		encoder + RF tx., Google eye = camera interfacing + custom MCU(small size) + placing
+		it gives students a feeling that,YES,Even great things are also made of simple stuff only
+	Interfacing electronics to daily usable home objects - TV, DVD, Fridge, Fan, cycle/byke, car,
+		Spectacles etc,. (i.e putting the electronics to practical usage)
+		Ex. tachometer ->  you can use it to find cycle/byke speed, Fan's RPM, Motor's RPm etc,.
+	Basic Computer design - (Keyboard + Mouse + LCD Screen or Screen with COM Port + 
+		Some FAMILIAR MCU...ex, using Beagle bone to create a computer(Awesome!!!))
+	
+	Show some vintage electronic stuff, i.e,. show evolution of electronics.
+		ex. Show the older to newer generation mouses & explain the difference in working of them
+	Give a demo of the small projetcs that were conducted by Jobs and Gates that made them.
+	  (Yes... projects that made them famous are small and simple when compared to today's 
+	   projects... take MORAL points out of this observation)
+	Design and demo of china products like card readers, LED bulb control, clocks, mosquito bats,
+		calling bells etc,....To create small entreprenurs(under our shadow).
+	e-mail writing
+=================================================================================================
+=================================================================================================
+Mission and Vision
+
+To understand electronics better
+To understand electronics in a practical way
+Thinking and working like an engineer
+Better marks/grades
+Higher chances in getting placed in good companies
+=================================================================================================
+=================================================================================================
+Higher end goals
+Certification Programs(like CCNA certification.Create a brand for your certification in long run)
+Consulting Projectians...(Only problem solvers not entire project commitments)
+Industry Projects(Ex. Making an company's office an IOT environment)
+Collabrating with foriegn universities - Start with arabic countries, Malasia, England, US.
+=================================================================================================
+=================================================================================================
+Smart schools
+
+Models of syed
+Collect from internet
+	Animation files related to school science and Maths topics
+	Pictures --||--
+	Videos --||--
+See syllabus of International Schools and provide animations for all the topics
+	if not available, create animation videos(self or purchase)
+Aptitude tutorials
+nali kali + handwriting + other soft skills
+=================================================================================================
+=================================================================================================
+Diploma OBE
+
+Shortened versions of all the above makes OBE
+=================================================================================================
+=================================================================================================
+Things thay may not be possible
+
+GATE Tutorials
+CET Physics Tutorials
+=================================================================================================
+=================================================================================================
+Sandeep Sir
+
+Reviewer for journal papers
+Advisory committee member for Vignana Taranga
+He will be active participants in vignana tharanga (+ maybe Sripathy Sir)
+As a gudie to industry level projects
+	Ex. project -- creating IOT environment in office
+		He will guide us in develoing code or he himself may write code
+		We do rest of the work(marketing, peripheral interfacing, giving it a product look etc,.)
+		i.e,. he will do the CORE work and we do the remaining...he will be the brain, we will be
+		the hands and legs.
+=================================================================================================
+=================================================================================================
+Investment(minimum andru)
+
+1 Set of all boards
+USB Cables, Jumper wires.
+LEDs, Breadboards, tools(screw driver, wire cutter)
+1 set of sensors, motors, camera etc,.
+=================================================================================================
+=================================================================================================
+Money prinicples
+
+Cost all services higher...because the work deserves it.
+don't reduce the cost even for those who are willing to pay
+minimum cost only for students who are humble or badavaru
+i say overcharge those who does ganchali
+charge even for the free codesamples that are available in internet
+	you are not responsible for their ignorance.
+	if they know about it,then only reduce the cost.
+=================================================================================================
+=================================================================================================
+Things to be organized 
+
+EDUIMPULSE. Name = ?.. register web domain.
+Demo on some of the latest technologies - flexible electronics
+Summarize TED talks, Khan academy videos
+Electronics fun projects
+LED on a arm of the fan to display the required text
+PPT animation, word software features, Gif + Animation Creation
+Literature i/ps, Music, Drama,
+Basic necessary Medical Knowledge
+	basically things to avoid doing
+	what may be the possible effects if you do X
+Carpenting, Welding etc,.
+Video Processing
+Visualize all BE EC Concepts using animation.
+Torrents
+NS2, Omnett etc,.
+Decompose the complex things to simple elementry operations - clock, printer, trimmer, sprinkler,
+calling bell, alarm, create pendrive, oscillators to cover whole spectrum, simple LAN controller
+implemetation, Simple router implementation, 
+Demonstrating Buoyancy principle
+Gametheory, Bitcoins, WSN, Share Market, torrents, economic pricniples, neural n/ws, routing
+protocols, n/wing principles
+PCB manufacturing <--> Collabrating with a PCB Company
+Utilize JC student chapter.
+=================================================================================================
+=================================================================================================
+
+
+Become members of some socities - IEEE, EMB, Reviewers for some small journals
+Readying small PCB boards like Relay boards,...
+
+
+Arduino Pro Mini Atmega 328p(Compatible) Board smaller than Nano,UNO Rs.195
+Arduino nano
+The Wino Board
+tinyduino
+trinket
+https://punchthrough.com/bean
+https://www.hackster.io/punchthrough/products/lightblue-bean
+
+https://www.kickstarter.com/projects/qtechknow/qduino-mini-arduino-compatible-battery-charger-and
+
+
+https://www.tiny-circuits.com/products/tiny-duino.html
+https://tiny-circuits.com/tinyduino_overview
+https://www.tiny-circuits.com/tinyscreen.html
+https://www.tiny-circuits.com/products/tiny-duino.html
+http://www.allaboutcircuits.com/news/arduino/

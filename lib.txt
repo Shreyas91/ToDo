@@ -1,0 +1,18 @@
+sudo apt-get update && sudo apt-get upgrade
+sudo apt-get install python-smbus ipython bluetooth bluez-utils \
+python-cwiid python-scipy python-numpy python-pygame \
+python-setuptools libsdl-dev
+wget http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/resources/RPi.GPIO-0.3.1a.zip
+unzip RPi.GPIO-0.3.1a.zip
+cd RPi.GPIO-0.3.1a 
+sudo python setup.py install
+cd ..
+
+wget http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/resources/i2c.py
+sudo mv i2c.py /usr/local/lib/python2.7/dist-packages/i2c.py
+
+wget http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/resources/imgproc.zip
+unzip imgproc.zip
+cd library 
+sudo make install
+cd ..

@@ -1,0 +1,1375 @@
+https://www.youtube.com/watch?v=YOMkQsLEACI
+LED Matrix DIGITAL CLOCK
+
+http://www.instructables.com/id/Arduino-Oscilloscope/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+oscilloscope+buy
+http://meettechniek.info/embedded/arduino-analog.html
+
+https://www.arduino.cc/en/Main/Boards
+https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
+http://lilypadarduino.org/?page_id=1673
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+lilypad+projects
+http://www.instructables.com/howto/arduino+nano/
+https://www.hackster.io/arduino/projects?page=2&sort=trending
+
+
+
+SignBoards
+http://www.instructables.com/id/48x8-SCROLLING-MATRIX-LED-DISPLAY-USING-ARDUINO-CO/
+http://www.icatchdisplays.com/technology/
+http://www.displaysled.com/products/outdoor/
+http://www.instructables.com/id/Make-a-24X6-LED-matrix/
+http://www.instructables.com/id/Make-a-giant-LED-sign/
+http://www.justdial.com/Bangalore/name-board-led-manufacturers
+http://www.instructables.com/answers/I-need-helpguide-in-creating-a-Led-Name-Plate-for/
+https://www.youtube.com/watch?v=Q9_2QDnT3Hs&feature=youtu.be
+https://www.facebook.com/photonplay/
+https://www.facebook.com/groups/1020525317958853/
+http://scuola.arduino.cc/lesson/LVEVK1a/Using_SMS_messages_to_control_LED_color
+https://www.youtube.com/watch?v=b2bvWArORSc
+https://www.photonplay.com/display-systems/
+https://www.photonplay.com/vms-variable-message-signs/
+https://www.swarco.com/en/Products-Services/Traffic-Management/Urban-Traffic-Management/LED-Variable-Message-Signs
+
+
+
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+variable+message+signs+design+raspberry
+https://www.google.co.in/webhp?hl=en#hl=en&q=led+name+board+using+arduoino
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=awesome+led+sign+boards+design
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+programmable++digital+signs
+https://forum.arduino.cc/index.php?topic=301637.0
+http://xibo.org.uk/
+http://xibo.org.uk/manual/en/index.html
+https://www.google.co.in/search?q=Xibo&oq=Xibo&aqs=chrome..69i57j69i60l3&sourceid=chrome&ie=UTF-8
+http://www.makeuseof.com/tag/weekend-project-build-giant-led-pixel-display/
+http://www.solderlab.de/index.php/software/glediator
+https://www.google.co.in/search?q=ArtNet+data&oq=ArtNet+data&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://en.wikipedia.org/wiki/Art-Net
+https://www.google.co.in/search?q=implementation+of+DMX512-A&oq=implementation+of+DMX512-A&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=arduino+implementation+of+DMX512-A+
+http://playground.arduino.cc/DMX/DMXShield
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+dmx+sign+boards
+http://makezine.com/2011/11/01/light-sequencing-and-decoding-dmx-with-an-arduino/
+http://playground.arduino.cc/DMX/Opendmx
+https://www.youtube.com/results?q=arduino+dmx+sign+boards
+https://www.google.co.in/search?q=DMX+shield&oq=DMX+shield&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8
+http://art-net.org.uk/
+http://www.solderlab.de/index.php/hardware/matrix-controller-board
+https://www.adafruit.com/products/332
+http://www.instructables.com/id/Build-Your-Own-Programmable-LED-QR-Code/
+http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&langId=-1&productId=2159146&storeId=10001&CID=INSP2159146
+http://www.displaysled.com/download/
+http://rhino-led-dot-matrix-sign-board-software.software.informer.com/download/
+
+
+http://xibo.org.uk/
+http://www.makeuseof.com/tag/weekend-project-build-giant-led-pixel-display/
+http://www.makeuseof.com/tag/author/jbruce/
+http://www.makeuseof.com/tag/arduino-buying-guide-board-get/
+http://www.solderlab.de/index.php/software/glediator
+http://www.solderlab.de/index.php/hardware/matrix-controller-board
+https://www.google.co.in/search?q=ArtNet+data&oq=ArtNet+data&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://en.wikipedia.org/wiki/Art-Net
+https://www.google.co.in/search?q=implementation+of+DMX512-A&oq=implementation+of+DMX512-A&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=arduino+implementation+of+DMX512-A+
+http://playground.arduino.cc/DMX/DMXShield
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+dmx+sign+boards
+http://makezine.com/2011/11/01/light-sequencing-and-decoding-dmx-with-an-arduino/
+http://playground.arduino.cc/DMX/Opendmx
+https://www.youtube.com/results?q=arduino+dmx+sign+boards
+https://www.google.co.in/search?q=DMX+shield&oq=DMX+shield&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8#q=arduino+dmx+shield+buy
+https://store.arduino.cc/product/T040060
+https://www.tindie.com/products/Conceptinetics/25kv-isolated-dmx-512-shield-for-arduino-rdm-capable-r2/
+https://www.tindie.com/products/Conceptinetics/25kv-isolated-dmx-512-shield-for-arduino-rdm-capable-r2/
+http://www.amazon.com/Arduino-TinkerKit-Master-Shield-T140060/dp/B00EIB4ZF8
+http://art-net.org.uk/
+
+http://www.scanlite.co.uk/technical/led-pixel-pitch/
+https://en.wikipedia.org/wiki/DMX512
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=what%20is%20pixel%20pitch%20in%20led
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=64x32+dot+matrix
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=64x16+dot+matrix+arduino
+http://www.instructables.com/id/64x16-RED-LED-Marquee/
+https://forum.arduino.cc/index.php?topic=222334.15
+
+16*64 is good i think
+http://www.alibaba.com/product-detail/Remote-control-led-small-displays-Indoor_597740220.html?spm=a2700.7724857.29.3.zXXsP6&s=p
+
+
+http://www.tested.com/art/makers/453665-how-get-started-programmable-rgb-led-strip-lighting/
+https://learn.adafruit.com/digital-led-belt
+http://www.solderlab.de/index.php/hardware/matrix-controller-board
+
+
+DMX Softwares
+http://www.displaysled.com/download/ (LED STUDIO)
+http://rhino-led-dot-matrix-sign-board-software.software.informer.com/download/
+http://www.aliexpress.com/item/New-LED-car-display-English-remote-control-LED-car-sign-LED-Programmable-Message-Sign-Pixel-7/32385346956.html?spm=2114.40010208.4.2.Y0GAMX
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino%20dmx%20projects
+http://www.open-electronics.org/arduino-dmx-shield-for-christmas-projects/
+https://store.arduino.cc/product/T040060
+
+
+http://www.instructables.com/id/Build-Your-Own-Programmable-LED-QR-Code/
+	http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&langId=-1&productId=2159146&storeId=10001&CID=INSP2159146
+	
+
+DOT Matrix
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dot+matrix+display+using+arduino
+http://www.instructables.com/id/48x8-SCROLLING-MATRIX-LED-DISPLAY-USING-ARDUINO-CO/
+http://www.instructables.com/id/LED-Dot-Matrix-Display-1/
+http://www.instructables.com/id/Using-a-Dot-Matrix-LED-with-an-Arduino-and-Shift-R/
+http://blog.rhesoft.com/2015/01/28/tutorial-how-to-use-dot-led-matrix-display-with-arduino/
+http://playground.arduino.cc/Main/LEDMatrix
+http://www.engineersgarage.com/contribution/dot-matrix-display-using-arduino?page=1
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dot+matrix+display+64+x+16++buy&tbs=ctr:countryIN&cr=countryIN
+http://www.aliexpress.com/w/wholesale-led-dot-matrix-display.html
+http://www.aliexpress.com/item/3-75-Unit-Board-64-16-Dot-Matrix-LED-Display-Screen-F3-75-Module-304-76mm/32354931460.html?spm=2114.40010208.4.108.75lqmH
+http://www.aliexpress.com/item/P5-Indoor-red-dot-matrix-led-display-panel-high-clear-best-for-indoor-text-display-488/32287011056.html?spm=2114.40010208.4.171.75lqmH
+
+
+
+Signboards..3d letters
+http://www.motivatesolutions.in/led-sign-board.html
+https://www.google.co.in/search?q=Acrylic+Letter+LED+Sign+Board&oq=Acrylic+Letter+LED+Sign+Board&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/watch?v=8gyv3bPE5OU
+https://www.youtube.com/watch?v=gLLeGfnxLSU
+http://www.motivatesolutions.in/acrylic-3d-letters.html
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=acrylic+letter+cutting
+http://www.geminisignletters.com/sign-letters/cut-plastic-letters/
+https://mail.google.com/mail/u/0/#inbox?compose=153e7f00487d9183
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=3d%20letters%20design%20online
+https://www.sculpteo.com/en/workshops/create/text/
+http://www.picturetopeople.org/text_generator/others/3d/3d_text.html
+http://www.creatingonline.com/image_editing/3d_textmaker.htm
+http://www.3dpictor.com/3d_text_index.php
+http://cooltext.com/
+http://www.fatpaint.com/en/logomaker/free-logo-maker-text-generator-3d-graphic-design
+http://www.flamingtext.in/logo/Design-3D-Text
+
+
+Signage
+http://www.geminisignletters.com/sign-letters/cut-plastic-letters/
+http://signagemonster.com/3D-letters-signage.html
+http://signagemonster.com/index.html
+http://signagemonster.com/products.html
+https://in.pinterest.com/pin/207376757817664590/
+https://in.pinterest.com/liuzhaodesign/signage-design/
+https://in.pinterest.com/carcian/laser-cut-signs/
+http://www.howdesign.com/design-creativity/incredible-signage-design/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=acrylic+letter+cutting
+http://www.motivatesolutions.in/led-sign-board.html
+https://www.google.co.in/search?q=Acrylic+Letter+LED+Sign+Board&oq=Acrylic+Letter+LED+Sign+Board&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/watch?v=8gyv3bPE5OU
+https://www.youtube.com/watch?v=gLLeGfnxLSU
+http://www.motivatesolutions.in/acrylic-3d-letters.html
+https://www.google.co.in/search?q=sign+designer&oq=sign+designer&aqs=chrome..69i57j0l5.5343j0j4&sourceid=chrome&ie=UTF-8#q=vector+sign+designer+software
+https://www.youidraw.com/#drawingapp
+https://www.youidraw.com/#logocreatorapp
+https://www.smartdraw.com/downloads/
+http://www.easysign.nl/mainwebv1/home.aspx
+http://dir.indiamart.com/impcat/led-signs.html
+
+
+
+
+
+http://noisybox.net/electronics/LED_sign
+http://www.aliexpress.com/item/Indoor-F3-75-P4-75-Single-Red-color-LED-dot-matrix-module-304-76mm-64-16/1721794648.html
+https://www.youtube.com/watch?v=-s57VDISAXI
+https://www.youtube.com/playlist?list=PL0lfYG4JsKqhvbrqJ8eP2gQqMTRmt_iXC
+https://www.youtube.com/playlist?list=PL200ysXDe4LN448mhG7hdN8ZokmOKeMGz
+https://www.youtube.com/playlist?list=PL0bplW9z30yYgnc8hOp1zKzveLk8iPvDq
+https://www.youtube.com/playlist?list=PLkyWowuu4KSk1Usl7mwQSartT1ZFCGV2i
+https://www.youtube.com/watch?v=PNQ8R1Ptvs4&index=1
+https://www.youtube.com/results?search_query=control+a+LED+Matrix+with+Glediator+%2B+Arduino&page=2
+https://www.youtube.com/playlist?list=PLDMWEQ98M5vOCd6fcR_vVjdPWIpRh2lSv
+https://www.youtube.com/watch?v=5MbFwnQlEZU
+
+
+ws2801..ws2812...ws2812B strip + Glediator software....prduct?(ICs are visib;e)
+dmx...higher end
+matrix of numbers
+
+
+
+LED matrix
+using Max7219
+https://play.google.com/store/apps/details?id=mobi.dzs.android.BLE_SPP_PRO&hl=en
+http://embedded-lab.com/blog/portable-bluetooth-enabled-scrolling-led-matrix-display-part-1/
+http://embedded-lab.com/blog/portable-bluetooth-enabled-scrolling-led-matrix-display-part-2/
+https://d3s5r33r268y59.cloudfront.net/datasheets/3519/2014-11-01-02-54-42/AssemblyInstructions_EasyMatrix_V1.0.pdf
+http://www.display-leds.com/2.3-inch-8x8-LED-Dot-Matrix-p53698617.html
+or simply cascade two http://www.aliexpress.com/item/Free-Shipping-MAX7219-Dot-Matrix-Module-For-Arduino-Microcontroller-4-In-One-Display-with-5P-Line/32597603008.html?spm=2114.40010208.4.65.bt6luA
+led 6cm x 6cm  <-- dimension
+http://www.aliexpress.com/item/3MM-8-8-LED-dot-matrix-display-module-8X8-dot-matrix-module-common-anode-1088BS-highlighted/32288297211.html?spm=2114.30010308.3.11.Sbl3E0&ws_ab_test=searchweb201556_1,searchweb201602_1_10017_10005_10006_10034_10021_507_10022_10020_10018_10019,searchweb201603_7&btsid=e1fe659e-af02-47f6-a1c3-d170b87232e9
+Building Dot Matrix Graphic Panels with the 
+https://www.maximintegrated.com/en/app-notes/index.mvp/id/1033
+MAX7219 Based LED Matrix Chain
+http://www.aliexpress.com/item/New-original-LED-Display-8x8-Dot-Matrix-Common-Anode-Red-1-9mm-20mmx20mm-15-Pcs-Per/2021320726.html?spm=2114.30010308.3.20.Sbl3E0&ws_ab_test=searchweb201556_1,searchweb201602_1_10017_10005_10006_10034_10021_507_10022_10020_10018_10019,searchweb201603_7&btsid=e1fe659e-af02-47f6-a1c3-d170b87232e9
+http://www.aliexpress.com/item/Free-Shipping-800pcs-dupont-cable-jumper-wire-dupont-line-male-to-male-dupont-line-20cm-1P/1699335351.html?spm=2114.40010508.4.32.LoEDF3
+http://www.ebay.in/itm/151964092786?aff_source=Sok-Goog
+https://www.tindie.com/products/rajbex/easy-matrix-an-open-source-cascadable-8x8-led-matrix-module-kit/
+http://www.instructables.com/id/Arduino-SPI-7-Bi-color-LED-Matrix-Scrolling-Text-D/
+https://www.google.co.in/search?q=cascadable+8x8+LED&oq=cascadable+8x8+LED&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=cascadable+8x8+LED+alibaba
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=8x8%20led%20matrix%20with%20max7219
+https://www.google.co.in/search?q=MAX7219+Red+Dot+Matrix+Module&oq=MAX7219+Red+Dot+Matrix+Module&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://www.arduino.cc/en/Tutorial/RowColumnScanning
+	http://www.instructables.com/id/DIY-Home-LED-transit-sign/
+Daisy chaining warnings
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=driving+2+rows+8x8+led+dot+matrices
+	https://www.maximintegrated.com/en/app-notes/index.mvp/id/1033
+	http://www.instructables.com/id/Multiple-LED-Matrixes-with-Arduino/
+	https://www.google.co.in/search?q=Building+Dot+Matrix+Graphic+Panels+with+the&oq=Building+Dot+Matrix+Graphic+Panels+with+the&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8#q=Dot+Matrix+Graphic+Panels+with+the+max7219
+	https://www.google.co.in/search?q=LED+Matrix+Chain&oq=LED+Matrix+Chain&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=daisy+chaining+limit+
+	http://forum.arduino.cc/index.php?topic=3251.0
+	https://www.reddit.com/r/SpaceBuckets/comments/3k2a70/can_you_daisy_chain_led_strips_if_so_how_many/
+	http://electronics.stackexchange.com/questions/21623/chaining-limit-for-shift-registers-in-large-led-matrix
+	http://electronics.stackexchange.com/questions/49110/large-led-matrix
+http://www.instructables.com/id/DIY-LED-Sign-with-MAX7219-Dot-Matrix-Module-STM8S0/
+http://forum.arduino.cc/index.php?topic=21819.180
+https://www.youtube.com/watch?v=YOMkQsLEACI
+LED Matrix DIGITAL CLOCK
+http://chioszrobots.com/2014/08/01/64x16-dot-matrix-led-diy-red-arduino-projects-robots/
+http://www.instructables.com/id/LED-Sign/
+http://www.instructables.com/id/Custom-LED-Sign/
+http://www.instructables.com/id/LED-Acrylic-Glass-Sign/
+http://www.societyofrobots.com/robotforum/index.php?topic=10200.0
+http://www.instructables.com/id/LED-Backlit-Sign-1/
+http://www.instructables.com/id/Yet-Another-Edge-Lit-LED-Sign/
+http://www.instructables.com/id/LED-Lit-Acrylic-Sign/
+http://www.instructables.com/id/Acrylic-LED-sign/
+http://www.instructables.com/id/Make-an-LED-Acrylic-Sign/
+http://www.instructables.com/id/Backlit-LED-Lightbox-Sign/
+http://www.instructables.com/id/CNC-Backlit-LED-Sign/
+http://www.instructables.com/id/LED-Backlit-Sign-Made-From-a-Free-Flashlight/
+http://www.instructables.com/id/Edge-Lit-LED-Sign/
+http://www.instructables.com/id/Stailess-Steel-Outdoor-Led-Sign/
+http://www.instructables.com/id/LED-lit-Sign-Intro/
+http://www.instructables.com/id/Build-a-Side-lit-Acrylic-Sign-at-TechShop/
+http://www.instructables.com/id/Illuminated-Sign/
+http://www.instructables.com/id/RGB-LED-Sculpture/
+
+Types of products available today in market, their manufacturers, their prices
+https://www.google.co.in/?ion=1&espv=2#q=led%20dot%20matrix%20suppliers%20bangalore
+http://dir.indiamart.com/impcat/led-dot-matrix-display.html
+http://www.indiamart.com/acronautomation/led-displays.html#led-dot-matrix-
+http://www.indiamart.com/cybernetics-hyderabad/display-clock.html#gps-synchronized-clock
+http://www.indiamart.com/cybernetics-hyderabad/display-system.html#dot-matrix-led-display-system
+http://www.indiamart.com/shoba-adds/sign-board.html#acrylic-sign-board
+http://www.indiamart.com/shoba-adds/
+http://dir.indiamart.com/impcat/andon-display-systems.html
+http://www.indiamart.com/aishwaryaevent/
+http://www.indiamart.com/cybernetics-hyderabad/display-system.html#dot-matrix-led-display-system
+http://www.indiamart.com/reolite/pro-lighting-solutions.html#outdoor-p10-led-dot-matrix-display-module
+http://www.indiamart.com/shreearchi/dot-matrix-display.html#dot-matrix-display
+https://www.google.co.in/#q=Andon+Display+System&tbm=isch&imgrc=_
+https://www.google.co.in/#q=Modbus+Protocol
+https://www.google.co.in/#q=RS485
+
+https://www.quora.com/Which-is-the-best-b2b-website-in-India-apart-from-Indiamart
+
+7 segment displays
+http://www.aliexpress.com/w/wholesale-2-inch-7-segment-led-display.html
+http://www.shopclues.com/max7219-nixie-tube-8-digits-led-display-module-for-arduino.html?sid=1234567&p_id=83089098&ag=Laptop+Accessories&ref=paidsearch&gclid=Cj0KEQjwrZ24BRC098fr-OqnuMkBEiQAKQ9lgB6oPLH-6m7fIc7jg-2ZMT2k3hVjwOc3bRacyuRpp0MaAj6u8P8HAQ&gclsrc=aw.ds
+http://dir.indiamart.com/impcat/seven-segment-display.html
+http://www.sunrisesemiconductor.in/seven-segment-led-display.html#seven-segment-led-display
+https://www.google.co.in/#q=4+inches+7+segment+display+buy&tbm=isch&imgdii=t5LM7IKnDeH1OM%3A%3Bt5LM7IKnDeH1OM%3A%3BX2cwfWSHvpa0CM%3A&imgrc=t5LM7IKnDeH1OM%3A
+	https://www.google.co.in/?ion=1&espv=2#q=how%20to%20drive%20large%207%20segment%20displays
+	http://electronics.stackexchange.com/questions/39943/driving-a-large-7-segment-display-using-a-micro-controller
+	http://www.mouser.in/ProductDetail/Texas-Instruments/TLC5916INE4/?qs=sGAEpiMZZMsE420DPIasPooIeIm0f6XqBnwnNFIuvQE%3d
+	http://forum.allaboutcircuits.com/threads/help-driving-a-5-inches-7-segment-display.84261/
+	http://www.evilmadscientist.com/2009/giant-seven-segment-displays/
+http://www.instructables.com/id/Make-your-own-15x10-RGB-LED-Matrix/ glediator
+
+lcd character displays
+1 x 8 Characters	1 x 12 Characters	1 x 16 Characters
+2 x 8 Characters	2 x 12 Characters	2 x 16 Characters	2 x 20 Characters	2 x 24 Characters
+2 x 40 Characters
+4 x 16 Characters	4 x 20 Characters	4 x 40 Characters
+Can buy them at http://www.newhavendisplay.com/lcd-character-c-2.html
+				https://www.sparkfun.com/products/256
+https://www.google.co.in/#q=4+X+20+LCD
+https://accounts.google.com/ServiceLogin?service=mail&passive=true&rm=false&continue=https://mail.google.com/mail/&ss=1&scc=1&ltmpl=default&ltmplcache=2
+https://www.arduino.cc/en/Tutorial/HelloWorld?from=Tutorial.LiquidCrystal
+https://www.arduino.cc/en/Tutorial/LiquidCrystalDisplay
+
+
+
+http://www.ebay.in/itm/151961810499?aff_source=Sok-Goog
+
+Acrylyic Signage
+http://www.indiamart.com/shoba-adds/sign-board.html#acrylic-sign-board
+https://www.google.co.in/#q=Acrylic+Sign+Board.
+http://www.indiamart.com/shoba-adds/sign-board.html#display-sign-board
+
+Andon Display system
+https://www.google.co.in/#q=Andon+Display+System
+https://www.london-electronics.com/andon-displays.php
+https://en.wikipedia.org/wiki/Andon_(manufacturing)
+
+Display Clocks
+http://www.indiamart.com/cybernetics-hyderabad/display-clock.html#gps-synchronized-clock
+
+https://en.wikipedia.org/wiki/Modbus
+
+LEDSignage using Ws2819
+https://www.youtube.com/watch?v=e-rdgB_19Fg
+https://www.youtube.com/watch?v=XdJ8xGNb6rc
+http://www.pixel-leds.com/products/239-DIY-ws2812b-pixel-RGB-LED-display-screen.html
+https://www.youtube.com/watch?v=PfNPaUlzAWg
+https://www.youtube.com/watch?v=4ASBnhwY_pg
+https://www.youtube.com/watch?v=6qzRQ0Hsj3Q&nohtml5=False
+https://www.youtube.com/watch?v=VAa4duqMrgs
+https://www.youtube.com/watch?v=Q9_2QDnT3Hs
+https://www.google.co.in/?espv=2#q=WS2812B+signage&tbm=isch&imgrc=SujaZRZgrAsr5M%3A
+
+using shift registers
+http://www.amazon.in/Programmable-Display-Message-Controller-Business/dp/B01CGECBAO?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=3c292d36-3023-4084-b3f1-4fd819982485
+http://www.ebay.co.uk/bhp/scrolling-message-board
+http://www.amazon.in/Android-Bluetooth-Scrolling-LED-Display/dp/B01750VES4?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=3c292d36-3023-4084-b3f1-4fd819982485
+http://www.amazon.in/s/ref=bl_dp_s_web_976419031?ie=UTF8&node=976419031&field-brandtextbin=Graylogix
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=how+to+make+industry+level+scrolling+sign+boards
+https://www.google.co.in/search?q=how+to+make+industry+level+scrolling+sign+boards&espv=2&biw=1242&bih=585&ei=g44EV7DZA43luQSP5o3QCg&start=10&sa=N#q=led+scrolling+message+display+board+project
+http://www.engineersgarage.com/contribution/moving-led-display-project-report-code
+http://www.npeducations.com/2011/11/simple-led-message-scrolling-display.html
+http://www.npeducations.com/2011/11/simple-led-message-scrolling-display.html
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+led+matrix+shift+register
+http://www.instructables.com/id/LED-matrix-using-shift-registers/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=large+led+matrix+shift+reg+and+arduino
+http://www.instructables.com/id/Beginner-tutorial-Controlling-LED-matrix-with-2-59/
+http://embedded-lab.com/blog/making-a-8x40-led-matrix-marquee-using-shift-registers/
+
+
+Acrylic Boards lit with LEDs
+
+HUB75 connections
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=hub75%20led
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+signboard
+http://www.seeedstudio.com/forum/viewtopic.php?p=16247
+http://www.seeedstudio.com/wiki/Rainbowduino_v3.0#Using_with_RGB_LED_Matrix
+http://forum.arduino.cc/index.php?topic=132745.15
+https://123led.wordpress.com/colorduino/
+http://www.instructables.com/id/Colorduino-Scrolling-Text/
+
+https://www.youtube.com/watch?v=-l09hAqXgKo&nohtml5=False
+https://www.youtube.com/watch?v=tPrO4Gg0kNM
+https://mbled.wordpress.com/software/
+https://www.youtube.com/watch?v=T9pmubyft9c
+https://www.youtube.com/watch?v=89KxxpmMhi4&nohtml5=False
+http://lesson.worldvid.ru/?watch=rgb+board
+http://e2e.ti.com/blogs_/b/powerhouse/archive/2016/02/26/driving-leds-topology-matters
+http://e2e.ti.com/blogs_/b/powerhouse/archive/2014/09/30/a-bright-idea-tps92411-led-driver
+http://electronicdesign.com/components/develop-automotive-rgb-led-interior-lighting-system
+
+
+http://www.instructables.com/howto/msp430+led+sign/
+http://www.instructables.com/tag/type-id/category-technology/channel-leds/
+https://www.google.co.in/search?q=TLC5951&oq=TLC5951&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=msp430+sign+board
+https://www.google.co.in/search?q=msp430+sign+board&biw=1242&bih=585&tbm=isch&imgil=dIBz_9FJriR5EM%253A%253B_X4pT0AKzKBZmM%253Bhttp%25253A%25252F%25252Fwww.instructables.com%25252Fid%25252FDIY-LED-Sign-with-MAX7219-Dot-Matrix-Module-STM8S0%25252F&source=iu&pf=m&fir=dIBz_9FJriR5EM%253A%252C_X4pT0AKzKBZmM%252C_&usg=__cdW9uyp6ZQ1uU0YJwDQIgYSl4zA%3D#tbm=isch&tbs=rimg%3ACXSAc_1_1RSa4kIjj7m5GAfNt0vhmSMr2WEOlDbMOBz8PsCJybS6COrnPmxjEvOT2F56h1lBhajtyBu_1mqcthWKMCZVSoSCfubkYB823S-EeDTwvwqAcQXKhIJGZIyvZYQ6UMRp9a55xdlcdcqEglsw4HPw-wInBFhftirQADWiyoSCZtLoI6uc-bGEefujRHtrQhnKhIJMS85PYXnqHURtsLFvQ7KDXUqEgmUGFqO3IG7-RF_1yeTAduHpiioSCapy2FYowJlVEQecU4vzgqH2&q=msp430%20sign%20board&imgrc=sI_miu5cnUEkGM%3A
+
+http://www.instructables.com/id/Easy-bluetooth-controlled-scrolling-text/
+
+https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/how-the-matrix-works
+
+
+GOAL COMPANY
+http://lighting.cree.com/applications
+https://www.photonplay.com/products/
+http://www.alpha-american.com
+http://www.megasigninc.com/versa-scrolling-led-window-sign/
+http://www.mrled.cn/products.html
+http://www.rotapanel.com/led-technology-3.php
+http://www.advantageledsigns.com/led-sign-products/
+https://www.youtube.com/user/megasigninc/videos
+Digital stands are LCD ones
+http://brightledsigns.com/custom/theme/vehicles
+	TRANSIT DISPLAYS 
+		Bus 
+			Next Stop Displays 
+			Bus Shelter Display Systems 
+			Bus destination display systems 
+		Train/metro
+			Train platform displays 
+			Next Stop displays 
+			PIDS (Passenger information display systems) 
+ 		Ferry
+		Airport 
+			FIDS (Flight information display system)
+			Check-in counter displays 
+
+	TOLL MANAGEMENT EQUIPMENTS
+		UFD (User Fare Displays)
+		Digital Traffic Lights 
+		OHLS (Over Head Lane Signs)
+		Fog Lights 
+	ELECTRONIC LED DISPLAY &SIGNS
+		Led Ticker Tapes
+		Industrial Electronic Marquee Signs
+		Advertisement Displays
+			Single Colour 
+			Full Colour Video displays 
+			Programmable Led Signs 
+			Scrolling Led Signs 
+	PARKING GUIDANCE EQUIPMENTS
+		Bay Display 
+		Floor Vacancy Display 
+		Parking Controllers 
+	SPORTS SCOREBOARDS 
+	INDUSTRIAL DISPLAYS
+		Production Status Displays
+		Environmental Display Systems 
+		Safety Scoreboards and Displays 
+		Industrial Clocks 
+		Nema Marquee Signs 
+	DATA LOGGERS AND DATA TERMINALS 
+	TRAFFIC DISPLAYS
+		VMS (Variable Message Signs)
+		Solar Powered VMS & DMS
+		Mobile VMS 
+		Lane Control Signs City Traffic Control Signs (CTCS)
+		Radar Speed Signs 
+
+ITS SOLUTIONS (INTELLIGENT TRAFFIC SOLUTIONS)
+	ITS Solutions (Intelligent traffic solutions) 
+	VMS (Variable Message Signs) 
+	Solar Powered VMS & DMS
+	Lane Control Solutions
+	City Traffic Control Signs (CTCS) 
+RAIL/METRO TRANSIT SOLUTIONS 
+INDUSTRIAL AUTOMATION
+	Truck/Vehicle Queuing System Custom Automation Solutions 
+CENTRALISED DISPLAY SYSTEMS
+PARKING MANAGEMENT SYSTEM
+PARKING GUIDANCE SYSTEM
+PRODUCT DESIGN AND DEVELOPMENT TOLL MANAGEMENT SOLUTIONS 
+ITS TRAFFIC SOLUTIONS 
+AIRPORT SOLUTIONS 
+BUS TRANSIT SOLUTIONS 
+TAILOR MADE SOLUTIONS 
+
+Name Badge or slogan display for tradeshows, exhibitions, conventions, promotions and
+advertisings,Taking on the upper clothes,T shirts good for ceremony and marketing event,
+Price card,Supermarket Products,Promotional licensing,Nightclubs,Bars,Tournaments,
+Concerts,KTV,Tourist attractions,Cafes,Auction houses,Banks,Supermarkets,Airports and 
+other attendant digit number fans
+
+http://www.affordableled.com/
+
+Kannada language support
+	https://en.wikipedia.org/wiki/UTF-8
+	UTF-8 String, for LED Dot Matrix
+	International characters
+	http://forum.arduino.cc/index.php?topic=45377.0
+	http://symbolcodes.tlt.psu.edu/bylanguage/kannadachart.html
+	http://www.coderanch.com/t/545156/java/java/kannada-indian-language-utf-unicode
+Other INDIAN Languages support
+Storing messages
+images
+Animations
+Speed variable
+Brightness variable
+Different Fonts
+Plastic + Aluminium alloy packaging
+Communication modes: wireless(Bluetooth, WiFi), Wired(Ethernet, Modbus, RS485, USB etc,.)
+http://www.alpha-american.com/literature-networking-and-connectivity.html
+Control thorugh PC, Android/MAC/Basic, Internet
+http://www.ebay.com/itm/LED-Programmable-Scrolling-Name-Message-Badge-Tag-Digital-Display-English-M2-/131474218525
+http://ledpixelart.com/
+http://www.plasma2002.com/partyscroller/
+
+led matrix + parchment paper + opaque black acrylic sheet
+https://www.youtube.com/watch?v=m7FC4oq5nus
+https://www.google.co.in/?ion=1&espv=2#q=ioio+mint+board
+https://www.google.co.in/#q=ioio++board
+
+LED Art
+https://www.youtube.com/watch?v=RvgASzxLeN8&nohtml5=False
+https://www.youtube.com/watch?v=-l09hAqXgKo .. instead of floor..have it on wall
+Infinity mirror 
+
+circular led
+https://www.youtube.com/watch?v=cu6kMsd_Y8M
+http://www.thingiverse.com/thing:623073
+http://www.instructables.com/id/Circular-LED-Display/
+
+Traffic signs
+
+https://en.wikipedia.org/wiki/Light-emitting_diode#Applications
+
+Available Modules:
+Public Interaction: Interface your LED sign to the Internet through your website. By only embedding two lines of code, you’ll have everything you need on the front-end to accept feedback—without interrupting the flow of your other active modules. Includes optional notification of messages by email and/or to its own Twitter feed.
+Stock Quotes: Define the stocks you want to watch and keep tabs on them through the ticker. (Stock quotes are on a 20-minute delay, so DON’T use it for determining whether to execute a trade.)
+Weather: Get Current Conditions for your ZIP code, as well as Local Forecasts for two days out.
+RSS Feeds: Define your feed and scan whatever headlines you feel like staying abreast of.
+Twitter Recapping: Create an account for your sign on Twitter and, in combination with the Public Interaction module, display both current and archived messages sent to your sign. Or, if you prefer, display your personal feed instead.
+Time/Date Display & Synchronization: For those, like me, without proper serial clock chips inside their Alpha or Betabrite unit, these functions will both display and regularly synchronize your time and date (on supported models).
+Basecamp Integration*: If you’re a user of Basecamp by 37signals, keep track of the latest activity through this module. Especially useful for Project Managers.
+IMAP Inbox Check*: Check how many unread messages you have, and how many messages you have total. This is pre-set to Gmail for your convenience.
+Hardware Functions Provided:
+
+Set Date/Time, Set Day of the Week, Set Time Format, Schedule Messages, Speaker On/Off, Generate Tone, Clear Priority Message (A0), Clear Non-Priority Memory (page or entirely), Soft Reset, Set Sequence (Data Reset), Update Sequence (Data Refresh)
+Includes the PHP RS-232 method (alphawrite.php), which requires the fantastic and included ‘php_serial.class.php’ by Rémy Sanchez (http://hyperthese.net/).
+Furthermore, unit resets and refreshes can be automated via a simple crontab (or its Windows equivalent) using the provided utilities.
+
+Supports the Alpha 1.0 protocol mostly, with a little (untested) 2.0 and 3.0
+Accommodates both paged sequences (AA-AZ) and PRIORITY Text (A0)
+Synchronizes the system clock on the unit with the server automatically
+Pulls in RSS feeds using Simplepie
+Pulls in Current Weather and the Local Forecast via Yahoo’s API
+Allows people visiting my site to enter messages without interrupting the flow of information (news, weather, time, etc.)
+Added basic administrative functions (soft reset, speaker on/off, clear memory, etc.)
+Added the ability to update a Twitter account with the last submitted message from the web. Sad.
+Added the ability to notify me by email when someone submits a message. Doubly sad.
+Updates every hour on the hour via a crontab which refreshes all the data
+
+Core functionalities
+o Unauthenticated user (No complex configuration required, uses the REST API15)
+ Display random, recent tweets from public users (default configuration)
+ Display latest tweet from one selected public user
+o Authenticated user (Using the REST API)
+ Show the latest tweet that would show up in the user’s timeline
+ Nice-to-have features
+o Unauthenticated user
+ Display tweets of selected users (scroll through them), not real-time but on some polling interval
+o Authenticated user (Using the REST API)
+ Show last X tweets from the user that was authenticated (scroll through them with some interval) – Advantage is more frequent polling
+ Show last X direct messages
+ Show Xth most recent favorite status for authenticated user
+o Authenticated user (Using the Streaming API15)
+ Show real-time updates from any public (or if allowed, protected) user
+ Display tweets based on keywords or hashtags
+ Display random tweets from the Streaming API’s constantly updating stream
+Display tweets based on geolocation
+ Display retweets of a particular chosen tweet
+ Unsupported features (mostly WRITE/POST functions)
+o Send direct messages to users
+o Post an update to Twitter through the sign
+o Follow new users
+o Get tweets from protected users who have not shared their tweets with the authenticated user
+
+
+The supported display modes can be seen below:
+ Auto (Random)
+ Flash
+ Hold
+ Interlock
+ Roll down
+ Roll up
+ Roll in
+ Roll out
+ Roll left
+ Roll right
+ Rotate
+ Slide
+ Snow
+ Sparkle
+ Spray
+ Starburst
+ Switch
+ Twinkle
+ Wipe down
+ Wipe up
+ Wipe in
+ Wipe out
+ Wipe left
+ Wipe right
+
+
+As far as the operating modes are concerned, the TweetSign can:
+ Get and display random tweets from the public timeline
+ Get and display tweets from a particular public user
+ Get and display tweets from an authorized user's timeline
+ Show the current trending topics on Twitter
+ Show the daily trending topics on Twitter
+ Show static text specified by
+
+
+create animation from websites or softwares(.swf)
+how to load animation to the signboards
+ex.http://www.flashvortex.com/Scrolling-LEDs-Generator
+
+Fonts
+http://www.fontspace.com/
+
+http://alphabrite.blogspot.in/
+
+
+Glediator .. Software
+http://www.solderlab.de/index.php/downloads
+https://github.com/neophob/PixelController
+http://www.live-leds.de/screens/
+http://www.madrix.com/en/home/download/madrix-software.html Demo version is free
+From chromateq ... led player 
+PRO DMX •LED Player •Studio DMX are softwares from chromateq
+http://www.megasigninc.com/digital-signage-software-101/
+http://eyetv.software.informer.com/
+https://sourceforge.net/projects/pixelcontroller/
+https://sourceforge.net/projects/dotmartix/?source=recommended
+https://sourceforge.net/projects/pure-data/?source=recommended
+https://sourceforge.net/directory/os:windows/?q=dot%20matrix%20led
+https://sourceforge.net/directory/os:windows/?q=dot%20matrix%20editor
+http://neophob.com/2011/09/pixelcontroller-universal-opensource-light-control-solution/
+http://www.nledshop.com/pixelmini/
+http://www.nledshop.com/pixelion/
+http://pixelinvaders.ch/
+https://www.google.co.in/#q=PixelController
+http://www.chromateq.com/44-chromateq-led-player-software.htm
+http://www.lightjams.com/pixelMapping.html
+
+http://www.megasigninc.com/versa-scrolling-led-window-sign/
+
+Teensy
+
+Party LED Boards
+https://www.youtube.com/watch?v=o0-UCv8W3F0
+https://www.youtube.com/watch?v=gzsuoY8Qm6U&nohtml5=False
+
+
+Internet-Enabled LED Sign
+https://www.youtube.com/watch?NR=1&v=goQFce5cqLs
+http://www.plasma2002.com/partyscroller/
+https://www.youtube.com/watch?v=BHRuMiLIsBU&feature=related
+https://op9.com/tag/alphabrite/
+https://www.youtube.com/watch?v=S2oBSWW-vZs&nohtml5=False
+
+
+Interfacing board to web
+
+LED signboard with RSS Feed
+
+https://www.google.co.in/#q=LED+Display+Control+Center
+
+
+http://www.alpha-american.com/p-alpha-4160c.html
+http://www.alpha-american.com/literature-software-applications.html
+http://www.alpha-american.com/literature-networking-and-connectivity.html
+http://www.alpha-american.com/signs.html
+http://www.alpha-american.com/software.html
+http://www.alpha-american.com/special-applications.html
+http://www.alpha-american.com/literature.html
+http://alpha-american.com/company-profile.html
+http://alpha-american.com/site-map-with-columns.html
+		One to Two Lines – The Alpha 4160C will display text and graphics on one or two lines.
+		Multicolor – Text and graphics may be displayed in colors chosen from a palette of three colors – red, green and yellow – or in three rainbow color combinations. Specifying the built-in Autocolor feature automatically and randomly changes the color of each screen of text.
+		16 to 80 Character Display – The Alpha 4160C will display sixteen 4.8-inch characters in one-line format. It will display fifty-two 2.1-inch characters or eighty 1.5-inch characters in two-line format.
+		28K Memory – The Alpha 4160C will store up to 28,000 bytes of messages and graphics. An inexpensive memory upgrade option is available to increase memory capacity to 60,000 bytes.
+		3 Character Sizes – Characters can be 1.5" (5 pixels), 2.1" (7 pixels), or 4.8" (16 pixels) high.
+		2 Character Fonts – Text can be displayed in two fonts – serif (fancy) or sans serif (block).
+		4 Character Widths – Text can be displayed in four widths – normal, wide, double-wide, or wide double-wide.
+		Fixed or Proportional – Text can be displayed using fixed or proportional spacing.
+		40 Character Styles – The choice of two fonts, three character heights, and three width codes provide twenty unique proportionally-spaced character styles and twenty unique fixed-width character styles:
+		4.8" Sans Serif Normal
+		4.8" Sans Serif Wide
+		4.8" Sans Serif Double-Wide
+		4.8" Sans Serif Wide Double-Wide
+		4.8" Serif Normal
+		4.8" Serif Wide
+		4.8" Serif Double-Wide
+		4.8" Serif Wide Double-Wide
+		2.1" Sans Serif Normal
+		2.1" Sans Serif Wide
+		2.1" Sans Serif Double-Wide
+		2.1" Sans Serif Wide Double-Wide
+		2.1" Serif Normal
+		2.1" Serif Wide
+		2.1" Serif Double-Wide
+		2.1" Serif Wide Double-Wide
+		1.5" Sans Serif Normal
+		1.5" Sans Serif Wide
+		1.5" Sans Serif Double-Wide
+		1.5" Sans Serif Wide Double-Wide
+		Store 81 Messages – The Alpha 4160C will hold up to 81 messages files at one time. Each message file can be any size. The Alpha 4160C dynamically allocates memory to each message file as needed up to the total amount of memory available.
+		Battery Backup – The Alpha 4160C has battery backup for messages. Messages are retained in memory for up to a month when the Alpha 4160C is powered off.
+		Sequence 128 Messages – Up to 128 messages files may be run in a sequence. Messages files may be listed more than once in the sequence.
+		Message Scheduling – Each message can display on its own schedule, automatically turning on and turning off at specified times on specified days without human or computer intervention. Each message can be programmed with the day and time to start running and the day and time to stop running. Daily recurring messages, such as Lunch Time Specials and Coffee Break Specials or messages coordinated with public transportation arrival and departure schedules, can turn on and turn off at the appropriate times each day. Safety-oriented messages, such as "Lift With Your Legs, Not With Your Back" or "Don't Forget To Wear Your Safety Goggles" can be scheduled to display at different times, instead of at the same time, to achieve maximum effect and variety.
+		Wireless Keyboard – The Alpha 4160C comes with a remote control keyboard. The remote control keyboard emits infrared light that controls many Alpha 4160C functions. The remote control keyboard can be used up to 30 feet away from the Alpha 4160C. It can be used to:
+		turn the Alpha 4160C on and off
+		turn off and on the programming keys beep feature
+		program messages
+		run messages
+		delete specific messages
+		insert display modes, special effects and features, and international characters into messages
+		compose dot graphic files and incorporate them into messages
+		set the message file run sequence
+		set the start and stop times and dates for each message file
+		set the time, day and date
+		clear display memory
+		password protect the messages
+		change the address of the Alpha 4160C
+		run the built-in diagnostic tests
+		Password Protection and Message Locking – These features are provided to prevent unauthorized messages or changes to messages in the Alpha 4160C.
+		International Character Set – Messages may contain all the upper and lower case letters (A - Z and a - z), the numbers 0 - 9, and the special characters:
+		! @ # $ % & * ( ) _ - + = | \ { } [ ] : ; ? ? < > , . ? / `
+		The following international characters and symbols may also be displayed:
+
+		International Characters and Symbols
+		These characters and symbols allow you to compose messages in more than one language, in English and in Spanish, for example, so you can display the messages in an alternating language message sequence.
+
+		25 Display Modes – The Alpha 4160C has 25 display modes that control how the characters of each message enter, display and exit. Using a variety of display modes in a message gives "eye-appeal" to the message:
+		Automode – Characters enter, display and exit under control of randomly selected display modes.
+		Roll (Up, Down, Left, Right, In, Out) – Characters move onto the display down from the top (Roll Down), up from the bottom (Roll Up), from the right end to the left (Roll Left), from the left end to the right (Roll Right), from the right and left ends to the center (Roll In), and from the center of the display to the right and left ends (Roll Out).
+		Wipe (Up, Down, Left, Right, In, Out) – Characters are revealed as each horizontal row or vertical column of pixels is lighted row by row or column by column – from the top row of the character down (Wipe Down), from the bottom row of the character up (Wipe Up), from the left column of the message to the right (Wipe Right), from the right column of the message to the left (Wipe Left), from the center column of the message to the right and left columns (Wipe Out), or from the right and left columns of the message to the center column (Wipe In).
+		Scroll – Characters move up onto the display from the bottom, and any displayed characters move up and off the display.
+		Rotate – Characters travel from right to left across the display in the familiar stock market ticker display mode.
+		Hold – Characters display without effects or motion for a specified length of time. The length of time the message stays on the screen is determined by the Speed code.
+		Flash – All characters blink on and off simultaneously several times.
+		Twinkle – The pixels of the displayed characters oscillate their intensity.
+		Sparkle – New characters appear as their pixels turn on randomly and pixels in existing characters randomly turn off.
+		Snow – Lighted pixels sprinkle down from the top pixel row, building new characters from the bottom up, like accumulating snow.
+		Interlock – The 2nd, 4th, and 6th horizontal rows of pixels in the characters move rapidly from the left end to the right, while the 1st, 3rd, 5th, and 7th horizontal rows of pixels move rapidly from the right end to the left, forming the message on the display.
+		Switch – Every other character, i.e., the 1st, 3rd, 5th, 7th, 9th, etc., moves onto the display from the top down, as the remaining characters move onto the display from the bottom up, pausing momentarily to display the message.
+		Slide – Characters slide rapidly across the display, one at a time, from right to left, building the message from left to right.
+		Spray – The pixels of characters move across the display from right to left in a spray effect, forming the characters from left to right.
+		Starburst – Several star-patterns display randomly, then form new characters, replacing any previously displayed characters.
+		6 Speeds – The Alpha 4160C has six Speed codes that control how long characters stay on the display in Hold mode, how long characters stay on the screen in the various Roll and Wipe modes, Interlock mode, etc. The fastest speed code is used with Hold mode to create user-designed animation effects.
+		9 Built-in Animations – The Alpha 4160C has nine built-in animations that can be inserted into messages as special effects:
+		Cherry Bomb – The fuse on a cherry bomb burns down, and the bomb explodes with a beep. The beep is an attention-getting Audible Alert when it is incorporated into a message.
+		Don't Drink and Drive – A car collides with a bubbling cocktail glass, tossing its passenger and displaying the message "Please Don't Drink and Drive."
+		Fireworks – Colorful firework patterns explode and cascade on the display.
+		No Smoking – A burning cigarette is extinguished, flipped with a finger and replaced with the international No Smoking symbol.
+		Running Animal – An animal resembling a horse runs across the display from right to left.
+		Slot Machine – A slot machine spins with random outcomes.
+		Turbo Car – A car appears and races across the display.
+		Thank You – "Thank You" is written in script from left to right.
+		Welcome – "Welcome" is written in script from left to right.
+		Automatic Message Centering – Messages are automatically centered on the Alpha 4160C display in all display modes, except when the Fixed Characters code is used. The Fixed Characters code left-justifies messages, and uses fixed (equal) character spacing from left to right. The primary use of the Fixed Characters code on the Alpha 4160C is to display similar fields of data on consecutive screens in the same pixel positions.
+		Display Graphics – The Alpha 4160C will display user-designed graphics and logos, up to 16x160 pixels each, with your messages. You can create and store graphics in the Alpha 4160C using the remote control keyboard, or you can use a computer and special software. Using a computer, compose or scan bitmap (.bmp) graphics and save the bitmap files on disk. Software, such as AlphaNet, can be used to send messages and graphics to the Alpha 4160C.
+		Display Custom Animations – The Alpha 4160C will display user-designed animations – sequences of user-designed bitmap graphic files. The animations may play alone, or they may be included with a text message.
+		Real-Time Clock – The Alpha 4160C has a built-in, battery backed up real-time clock. The time and date (day, month, year) can be set using either the remote control keyboard or using a computer with software that sends the computer?s time and date to the Alpha 4160C. The day, date and time are retained in Alpha 4160C memory for up to a month when the unit is powered off.
+		12- or 24-Hour Time Display – The Alpha 4160C can display the time of day in either 12-hour or 24-hour format.
+		5 Counters – The Alpha 4160C will automatically count up or down in any increment, updating every minute, hour or day. Up to five different counters may be active in your messages at the same time. Counting may begin at any value between 0 and 99999999. Messages can display the number of days, minutes or hours until a special event; the number of days or hours since a lost-time accident; or a numeric value that increments or decrements by the same amount every minute, hour or day.
+		Target Messages – Upon reaching specified Counter "target" values, specific target messages can be displayed automatically. For example, a message might display "10 DAYS WITHOUT AN ACCIDENT!" and on the next day automatically display "11 DAYS WITHOUT AN ACCIDENT!" followed by the target message: "A NEW RECORD... CONGRATULATIONS!"
+		Computer Connection – The Alpha 4160C may be attached to a wide variety of computers, control equipment and communication devices.
+		Supports Multiple Communications Protocols – The Alpha 4160C supports multiple communication protocols. RS232 and RS485 and two RJ11 attachment ports are standard features. Ethernet and POCSAG attachment options are also offered. Numerous cable, network, wireless and modem connectivity options are supported by the Alpha 4160C – click here for more information.
+		Address Each Display – Each Alpha 4160C can be given a unique address, so that messages and data may sent by computer or control devices to different displays on the same cable, wireless channel, modem phone number or TCP/IP address. 255 addresses are available, and the Alpha 4160C address may be set or changed easily with the remote control keyboard or using a computer and special software. The Alpha 4160C enclosure does not have to be opened.
+		Message Verification and Error Checking – Built-in features ensure that messages are received accurately when a computer or control equipment sends messages or data to the Alpha 4160C by cable.
+		Priority Message – The Alpha 4160C has a 125-byte Priority message file that can be activated by special programming. When the Priority message file is activated, all other message files that are currently running stop being displayed. When the Priority message is terminated, the other messages resume displaying.
+		Audible Alert – A Tone feature may be invoked to beep the Alpha 4160C as needed. Several tone control programming options are built-in.
+		Program with both Computer and Keyboard – The Alpha 4160C may be programmed by computer and by remote control keyboard without either the computer or the remote control keyboard disrupting the messages programmed by the other device. You may define how much of the storage capacity of the Alpha 4160C is reserved for programming by the remote control keyboard. You can also allow or deny remote control keyboard access to message files transmitted to the Alpha 4160C by computer.
+		Non-Blinking String File Updates – The Alpha 4160C supports "String Files" and real-time updating of String Files without blinking the messages displayed on the sign. String files are memory areas set aside in sign memory by special programming. One use of String Files is to store changing data being updated by an external device or computer. For example, the Alpha 4160C could be programmed to display five (or more) ACD statistics fields for each of ten (or more) ACD queues. As the real time values change for each of the 50 variables (5 x 10), the updated values can be transmitted into the Alpha 4160C instantly, without causing the Alpha 4160C to blink and without affecting the information currently being displayed. String Files can also be used to save sign memory. For example, if the same data is displayed multiple times within a message, the data can be stored once in a String File and recalled from its String File location each time it is needed.
+		Nested Commands – For programmers writing control sequences using native sign communication protocol, multiple commands can be repeated or "nested" within a transmission frame.
+		Clear Memory Easily – When debugging and testing software and messages features, the remote control keyboard can be used to clear the memory of the sign quickly and conveniently, without opening the Alpha 4160C enclosure or taking it down from where it is mounted. Clearing memory removes all messages, graphic files and the password that have been programmed into the Alpha 4160C.
+		Supports Wireless Applications – The Alpha 4160C supports POCSAG or pager transmission format. It can be programmed for wireless applications.
+		Wireless News and Sports Service – The Alpha 4160C can be equipped with a wireless broadcast receiver that will display the latest news headlines, financial market summaries, sports information and scores, in addition to your own messages. The receiver and news service are extra charge options.
+		Update Firmware Easily – When new features or firmware improvements for the Alpha 4160C are announced by Adaptive Micro Systems, firmware upgrades may be purchased and easily installed. Alpha 4160C firmware is provided on a chip conveniently mounted in a chip carrier that literally snaps into a socket inside the Alpha 4160C enclosure. An access panel is provided.
+		Keyboard Programming Manual – A programming manual describing how to use the remote control keyboard is provided with the Alpha 4160C. It is well-written, well-organized and easy to use. It includes tutorial exercises and feature reference tables. A Spanish translation of the manual is available. Both English and Spanish manuals may be downloaded at no charge.
+		Technical Assistance and Support – Ongoing limited customer assistance for installation issues and technical support are provided by Alpha-American Programmable Signs at no additional charge.
+		Programming Assistance and Training – Our experienced instructors and technicians are available by telephone or on site in your location.
+		Internet Support – Both the manufacturer, Adaptive Micro Systems, and distributor, Alpha-American Programmable Signs, have informative web sites.
+		110 or 230V – The Alpha 4160C is completely solid-state. It has a removable power cord, and it plugs into a standard 120V AC electrical outlet. For a more attractive installation, if possible, locate your electrical outlet out of sight behind the Alpha 4160C or above the drop ceiling, if the Alpha 4160C is being mounted near the ceiling.
+		Attractive Enclosure – The Alpha 4160C has an attractive Eurostyle case design that will compliment any business environment.
+		Mounting Hardware – Each Alpha 4160C includes mounting hardware for wall, ceiling and counter installations. Back-to-back mounting hardware for ceiling-mounted configurations is available as an extra charge option.
+		Two Year Warranty – The Alpha 4160C has a one-year USA factory warranty. Alpha-American Programmable Signs extends the warranty to two years for our customers. After the two-year warranty expires, the Alpha 4160C will be repaired and returned for a flat rate that includes return shipping.
+		Alpha 4160C Specifications
+
+		AMS Part #: 1018-1112
+		Display Array: 160 pixels wide x 16 pixels high
+		Number of Lines: 1 or 2
+		Character Sizes: 4.8" (12.2 cm), 2.1" (5.3 cm) and 1.5" (3.9 cm)
+		Maximum Number of Characters on Sign Display:
+		14 to 20 characters in 4.8-inch character format.
+		26 characters per line in 2.1-inch character format.
+		40 characters per line in 1.5-inch character format.
+		Display Memory: 28,000 bytes; may be expanded to 60,000 bytes.
+		Pixel Size (diameter): 0.2" (.05 cm)
+		Pixel (LED) Colors: Red, Green, Yellow, Rainbow 1, Rainbow 2 and Mix
+		Center-to-Center Pixel Spacing (Pitch): .3" (.8 cm)
+		Character Set: Block (sans serif); Decorative (serif); Upper and Lower case; Normal, Wide and Double-Wide
+		Automatic Centering – Messages center in any mode, except when Fixed Characters is specified. Fixed Characters left justifies messages in any mode.
+		Power: 120 VAC ± 10%. 180 watts max. 230 VAC model available.
+		Power Cord Length: 10 feet (3 m)
+		Keyboard: Handheld, Eurostyle, Infrared-Wireless, Remote operated
+		Case Material: Extruded aluminum with molded plastic end caps.
+		Display Area Size: 48" L x 4.8" H (121.9 cm L x 12.2 cm H)
+		Case Size: 52.1" L x 5.5" D x 7.7" H (132.3 cm L x 14. cm D x 19.6 cm H)
+		Weight: 24.5 lbs (11.2 kg) including display, power cord and remote control keyboard.
+		Limited Warranty: Two-year parts and labor, factory servicing (see comments above).
+		Agency Approvals:
+		120 VAC Model: Listed to ANSI/UL 1950-Second Edition (US) and CAN/CSA-22.2 No. 950-M89 (Canada)
+		230 VAC Model: Complies with EN 60950: 1992 (Europe) and AS/NZS 3260-1993 (Australia/New Zealand)
+		FCC Part 15 Class A
+		CE Marked
+		Operating Temperature: 32? to 120?F, 0? to 49?C
+		Humidity Range: 0% to 95% non-condensing
+		Enclosure: Standard enclosure – no NEMA rating. NEMA 2 enclosure – available as an option.
+		Current Firmware Revision
+		Related Accessories and Replacement Parts
+
+		Remote Control Keyboards
+		Alpha Remote Keyboard (with English labels) with 4 AAA Batteries Included
+		Remote Control Keyboard (with Spanish labels) with 4 AAA Batteries Included
+		Message Loader with 9V Battery and 3' Cable
+		RS232 Connectivity Items
+		25' RS232 6-conductor Modular Cable with RJ11-06 connectors on each end
+		RS232 Serial Adapter (DB25F to RJ11-06) for 25-pin Serial Ports
+		RS232 Serial Adapter (DB9F to RJ11-06) for 9-pin Serial Ports
+		RS232 Serial Adapter (DB25M to RJ11-06) for Modem use
+		RS232 Serial Adapter (DB25M to DB9F) Gender changer for 9-pin Serial Port
+		RS232 Serial Adapter (DB25F to DB9M) Gender changer for 25-pin Serial Port
+		25' RS232 6-conductor Modular Cable with RJ11-06 connectors on each end
+		50' RS232 6-conductor Modular Cable with RJ11-06 connectors on each end
+		6-Conductor RJ11 Coupler for connecting RS232 Cables together (Maximum 50' length)
+		RS485 Connectivity Items
+		RS232 to RS485 Converter Box III with two End of Line Terminators (without Power Adapter)
+		Converter Box AC Adapter, USA, 10W 120VAC Input 9V Output
+		Converter Box AC Adapter, European, 14W 230VAC Input 9V Output
+		Converter Box AC Adapter, United Kingdom, 14W 240VAC Input 9V Output
+		10' RS232 Serial Cable, Type A9, DB9F to DB9M for Converter Box to PC
+		10' RS232 Serial Cable, Type B9, DB25M to DB9M for Converter Box to Modem
+		1000' Spool of Shielded RS485 Network Cable
+		100' Spool of Shielded RS485 Network Cable
+		RS485 Modular Network Adapter – Connects RS485 Modular Cable to Shielded RS485 Network Cable
+		8' RS485 Cable with Ferrite Core; have RJ11-04 jacks on each end
+		1' RS485 Cable with Ferrite Core; have RJ11-04 jacks on each end
+		8' RS485 Cable with three RJ11-04 jacks for back-to-back Alpha sign configurations
+		End of line Terminator for Converter Box III and Alpha RS232 port
+		Network Repeater Box
+		Alpha Ethernet Adapter Kits and Components
+		Alpha Ethernet Adapter – 10 Base T Serial Server
+		Alpha Ethernet Adapter – DB25F to RJ11 Connector
+		Alpha Ethernet Adapter Cable
+		MSS100 Ethernet Serial Server – 10/100 Base
+		MSS485 Ethernet Serial Server – 10 Base
+		Alpha Discrete Input Interface Kit and Components
+		Alpha Discrete Input Interface CPU Module
+		Alpha Discrete Input Interface Power Supply
+		Alpha Discrete Input Interface Kit (Sink Mode)
+		Additional Input Module (Sink Mode)
+		Alpha Discrete Input Interface Kit (Source Mode)
+		Additional Input Module (Sink Mode)
+		Wireless Broadcast Receiver and News Service
+		Firmware Update
+		Back-to-back Mounting Brackets
+		230 VAC Power
+		Packing Materials – Carton and Styrofoam
+		Related Documentation
+
+		Alpha 4000 Series Brochure – Summary
+		Alpha Get the Message Catalog (includes all Alpha models)
+		Alpha Remote Control Keyboard Programming Manual (English)
+		Alpha Remote Control Keyboard Programming Manual (Spanish)
+		Alpha Communications Protocol Manual
+		Wiring Diagram for Modular Network Adapter
+		Alpha Series Sign Installation Instruction Manual
+		Networking Alpha Signs Manual
+		Two- and Three-Sided Sign Installation Instructions
+		How to Change Firmware in Alpha 4000 LED Series Signs
+		Software Available
+
+		Alpha Messaging
+		AlphaNet (Windows)
+		Alpha Remote Messaging
+		Alpha Marquee ActiveX Control
+		Alpha ACD Call Center Statistics and Messaging
+		Alpha WebView and Messaging
+		Alpha WebTicker and Messaging
+		Alpha ProductionView and Messaging
+		Alpha Broadcast Service and Messaging
+		Alpha Theater Display System
+		AlphaNet Plus II (DOS)
+		Custom Applications
+		Technical Support
+
+		Hardware:
+		From Distributor, Alpha-American Programmable Signs
+		From Manufacturer, Adaptive Micro Systems
+		Software:
+		From Alpha-American Programmable Signs
+		From Adaptive Micro Systems
+		From other sign software providers
+
+https://www.pinterest.com/pin/413909021977747550/
+
+Presenation templates
+https://www.repeatsoftware.com/DigitalSignage.aspx
+https://www.repeatsoftware.com/DigitalSignagePresentationSamples.aspx
+https://www.repeatsoftware.com/Buy.aspx
+
+
+http://www.slideshare.net/kashyapshah11/gsm-based-campus-display-system-project-report
+
+Glediator mostly serial
+Max7219 dotmatrix leds ..SPI interface
+one soln. Serial to SPI converter (Through code or through hardware)
+https://www.google.co.in/?ion=1&espv=2#q=convert+serial+to+spi+arduino
+http://electronics.stackexchange.com/questions/8398/using-an-arduino-to-read-data-from-serial-device-then-send-data-over-bluetooth
+http://forum.arduino.cc/index.php?topic=48397.0
+
+
+Open source hardware ... LED Controller
+http://www.solderlab.de/index.php/hardware/universal-interface-board
+
+
+http://area3001.com/projects/video_window/
+http://opendmx.net/index.php/OLA_LED_Pixels
+
+https://www.pinterest.com/pin/413909021977747550/
+
+There are a lot of controller that support one of the protocols Jinx! can use. Artnet and sACN 
+for example are well known standards. Simply try a google search for it.
+http://www.live-leds.de/user-jinxscripts/
+https://en.wikipedia.org/wiki/Architecture_for_Control_Networks
+https://en.wikipedia.org/wiki/Art-Net
+
+https://www.google.co.in/?ion=1&espv=2#q=text+font+for+led+scrolling+sign
+https://www.google.co.in/?ion=1&espv=2#q=glediator+different+font+messages
+https://www.google.co.in/?ion=1&espv=2#q=max7219+arduino+different+%22font%22+
+http://forum.arduino.cc/index.php?topic=120911.0
+
+
+http://www.live-leds.de/features/
+
+
+Glediator can drive led installations made of:
+	our true color matrix driver boards,
+	stripes & matrices made of WS2801 pixels,
+	stripes & matrices made of WS2811 / WS2812 pixels (also called Neo-pixels),
+	any light installation that receives ArtNet data, as well as
+	any light installation that receives TPM2 & TPM2.Net data.
+	On this page (external link) you will find a lively discussion about Glediator and ongoing progress (became a really long thread meanwhile).
+
+Glediator Forum
+http://www.ledstyles.de/ftopic18739.html
+
+https://www.google.co.in/?ion=1&espv=2#q=dmx%20controller%20arduino
+http://playground.arduino.cc/Learning/DMX
+https://code.google.com/archive/p/tinkerit/wikis/DmxSimple.wiki
+http://sonicrobots.com/2013/01/24/midi-to-dmx-arduino-control-shield/
+http://www.tinker.it/
+
+
+The Artnet protocol is capable to spread partial data to different IP addresses. 
+This is the usual way big matrices are fed. (http://www.solderlab.de/index.php/software/glediator)
+http://forum.arduino.cc/index.php?topic=19506.0
+
+
+
+http://www.instructables.com/id/Make-a-Massive-4096-LED-Display-for-Retro-Pixel-Ar/
+
+*******
+http://www.solderlab.de/index.php/hardware/universal-interface-board
+http://www.edn.com/design/led/4432914/How-to-design-LED-signage-and-LED-matrix-displays--Part-1
+http://www.instructables.com/id/Build-a-better-RGB-LED-controller/
+
+https://www.superbrightleds.com/cat/controllers/
+
+PCB Manufacturing
+https://www.google.co.in/?ion=1&espv=2#q=pcb%20manufacturer%20bangalore
+http://www.emnics.com/
+http://www.siennaecad.com/
+http://www.capronics.com/
+http://www.sclpcb.com/strengths
+http://www.justdial.com/Bangalore/PCB-Manufacturers/ct-1000022618
+http://www.capronics.com/aboutus.html
+http://www.sunraysindia.in/services.html
+
+Can Govt. Employee start a company...or be director of some company.. or can have business
+https://www.google.co.in/?ion=1&espv=2#q=can+government+employee+start+a+company
+
+
+http://www.edn.com/electronics-blogs/benchtalk/4441809/My-kingdom-for-a-12V-adapter
+
+
+Type of Signage					2001	2002	2003
+Fluorescent						47.3%	46.9%	46.3%
+HID (High Intensity Display)	1.9%	2.4%	2.0%
+Incandescent					2.0%	1.9%	1.8%
+LED								3.9%	6.2%	7.2%
+Neon							43.0%	41.3%	41.7%
+Others							1.9%	1.2%	0.9%		
+
+Digital Standees (http://budgetsigns.co.in/digital-media/)
+https://www.google.co.in/#q=Digital+Standees
+
+Billboard
+advertising TV billboard
+
+
+http://www.etulipa.com/
+http://www.channelbender.com/letterform/
+
+http://budgetsigns.co.in/the-signage/
+http://rohinisigns.com/products.html
+******** http://www.signs.org/EducationEvents/ISASignAcademy/OnlineLearning.aspx
+******** www.signs.org
+******** http://www.signs.org/Resources/EducationalSignVideos.aspx
+http://www.thesigngroup.co.uk/2015/12/01/sign-industry-statistics/
+http://www.digitalsignagetoday.com/
+http://www.digitalsignagetoday.com/whitepapers/
+http://www.signindustry.com/led/
+
+
+http://www.nanolumens.com/where-are-we-the-digital-signage-industry-going
+https://www.google.co.in/search?q=Sign+Industry+Statistics&tbm=isch&imgil=g4JosYshXd48zM%253A%253BrD5RnJK13dizzM%253Bhttp%25253A%25252F%25252Fwww.nanolumens.com%25252Fwhere-are-we-the-digital-signage-industry-going&source=iu&pf=m&fir=g4JosYshXd48zM%253A%252CrD5RnJK13dizzM%252C_&usg=__vUYfTf5L3d6kmUUou1MwTRxwIKM%3D#imgrc=g4JosYshXd48zM%3A
+https://www.google.co.in/#q=Sign+Industry+Statistics
+
+
+Budget Signs				Mumbai		www.budgetsigns.co.in	 		 
+Gautam Art					New Delhi	www.gautamart.com	 	 
+Jahnvi Advertising Agency	Jaipur				 		 
+Marcon Digiprints Pvt. Ltd.	Mumbai		www.marcondigiprints.com	 		 
+Rohini Signs PVT. LTD.		Pune					 		 
+Stratojet					Delhi	 
+
+http://www.thesigngroup.co.uk/services/
+http://www.weloveleds.co.uk/
+http://www.thesigngroup.co.uk/gallery/
+http://www.weloveleds.co.uk/24v_PSU_s/1912.htm
+http://www.sepco-solarlighting.com/products
+
+http://www.edn.com/?itc=ref-true
+https://books.google.com.my/books?id=ka6Byqp4iEUC&pg=PT165&dq=personalized+digital+signage&hl=en&sa=X&redir_esc=y#v=onepage&q=personalized%20digital%20signage&f=false3
+
+http://www.edn.com/electronics-blogs/led-zone/4441545/Solving-invisible-flicker-
+http://www.edn.com/electronics-blogs/ssl-and-backlighting/4399628/Why-Does-Flicker-Matter-
+http://www.edn.com/electronics-products/electronic-product-reviews/other/4440332/LED-drivers-ensure-flicker-free-dimming-for-white-and-color-mixing-LED-bulbs
+https://www.facebook.com/TheFrustratedIndian?fref=nf
+
+http://www.edn.com/electronics-blogs/benchtalk/4441809/My-kingdom-for-a-12V-adapter
+
+http://www.edn.com/electronics-blogs/led-zone/4441644/Lighting--where-the-ceiling-meets-the-cloud
+http://www2.cree.com/smartcast-landing-page
+
+
+https://www.dmoz.org/Business/Business_Services/Signage/Digital/
+http://www.zingdigitalmedia.com/publicsector/products.aspx
+Dynamic digital signage can grab a customer's attention and influence their decision.
+Eliminates the high cost of creating and distributing print ad campaigns.
+Can be instantly and infinitely updated with new content via our global admin system from anywhere in the world.
+Owners can earn money with their digital signage network by selling advertising space.
+Manage your digital content distribution from a web based centralised management console.
+Display rich high definition media including Video, Flash, Audio, RSS and images.
+Reliable technology for fast delivery and trusted continuous operation.
+Modular infrastructure - add as many displays as you want.
+Transfer schedules and contents to one or a group of displays.
+Display live information like news, weather, emergency statements etc.
+
+
+Data loggers may be needed for large LED signboards
+https://learn.sparkfun.com/tutorials/building-large-led-installations?_ga=1.258456266.1910791321.1456988714
+http://www.megasigninc.com/smd-high-resolution-indoor-led-display/
+http://www.megasigninc.com/premier-outdoor-led-sign/
+https://www.youtube.com/watch?v=6iHTbGsnI8Q
+https://www.youtube.com/watch?v=Sq8SxVDO5wE&nohtml5=False *****
+https://www.youtube.com/user/mikeselectricstuff/videos
+
+https://www.youtube.com/watch?v=-pDBwO4odxw
+https://www.youtube.com/watch?v=oIh6InjPWuc
+
+
+https://learn.sparkfun.com/tutorials/large-digit-driver-hookup-guide?_ga=1.225213146.1910791321.1456988714
+https://learn.sparkfun.com/tutorials/rgb-panel-hookup-guide?_ga=1.225213146.1910791321.1456988714
+
+Simple way of controlling
+http://ledpixelart.com/pixelv2board/
+
+https://learn.sparkfun.com/tutorials/rgb-panel-jumbotron?_ga=1.251951049.1910791321.1456988714
+
+There are numerous companies that provide large varieties of open-source electronics such as 
+	Sparkfun
+	Adafruit
+	
+http://www.instructables.com/id/LED-Throwies/
+
+https://www.sparkfun.com/search/tutorials?term=LED+Controller&page=3 continue from here
+
+Modular LED Matrix
+Modular LED Display system
+https://github.com/LEDgoes/
+https://github.com/LEDgoes/Firmware57
+https://github.com/LEDgoes/DisplayBoard
+
+
+Arduino Libraries
+Displays and LEDs:
+https://www.arduino.cc/en/Reference/Libraries
+GFX - base class with standard graphics routines (by Adafruit Industries)
+GLCD - graphics routines for LCD based on the KS0108 or equivalent chipset.
+Improved LCD library fixes LCD initialization bugs in official Arduino LCD library
+LedControl - for controlling LED matrices or seven-segment displays with a MAX7221 or MAX7219.
+LedControl - an alternative to the Matrix library for driving multiple LEDs with Maxim chips.
+LedDisplay - control of a HCMS-29xx scrolling LED display.
+Matrix - Basic LED Matrix display manipulation library
+PCD8544 - for the LCD controller on Nokia 55100-like displays (by Adafruit Industries)
+Sprite - Basic image sprite manipulation library for use in animations with an LED matrix
+ST7735 - for the LCD controller on a 1.8", 128x160 TFT screen (by Adafruit Industries)
+
+http://fastled.io/  & Pixelgroup library
+FastLED is a fast, efficient, easy-to-use Arduino library for programming addressable LED strips
+and pixels such as WS2810, WS2811, LPD8806, Neopixel and more
+https://github.com/FastLED/FastLED/wiki/Chipset-reference
+
+http://www.wayoda.org/arduino/ledcontrol/index.html
+
+7 segment displays can be controlled by
+LedControl library of Arduino
+
+
+See LED section of Arduino main libray list
+http://playground.arduino.cc/Main/LibraryList
+
+https://learn.adafruit.com/memories-of-an-arduino/optimizing-program-memory
+
+http://mindworks.shoutwiki.com/wiki/LED_Video_Player
+
+Digital Signage
+http://www.sixteen-nine.net/2015/11/17/options-free-digital-signage-software/
+http://www.digitalsignage.com/_html/start_page.html
+
+http://www.adaptivedisplays.com/blog/bid/359649/Outdoor-LED-Sign-Troubleshooting-Power-Check
+
+
+ESP8266
+https://www.google.co.in/#q=ESP8266
+http://www.esp8266.com/
+http://www.esp8266.com/wiki/doku.php
+http://makezine.com/2015/04/01/esp8266-5-microcontroller-wi-fi-now-arduino-compatible/
+http://www.amazon.in/ESP8266-Serial-Wireless-Transceiver-Module/dp/B00O34AGSU?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=33349679-88f6-439d-8913-adc628c85f1f
+http://www.aliexpress.com/item/Free-shipping-ESP8266-serial-WIFI-wireless-module-wireless-transceiver/2031529724.html
+http://www.esp8266-projects.com/2015/04/esp8266-ultimate-devboard-finally.html
+
+
+Is surface mounted devices (cheaper and/or reliable and/or difficult to solder) than normal devices
+
+
+Instead having a board with single IC and single Dot matrix..
+Have board with 2 or 4 ICs and 4 Dot matrix
+https://www.google.co.in/search?q=easy+matrix+max7219&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj85NW-sYTMAhWDg6YKHZgRBTQQsAQIHQ#imgrc=ekgktGzLU11gaM%3A
+http://rogerrowland.blogspot.in/2014/12/pic-and-mix.html
+http://forums.parallax.com/discussion/88358/max7219-dot-matrix-project
+http://jollifactory.blogspot.in/2013/08/bi-color-led-matrix-driver-module-diy.html
+http://www.aliexpress.com/store/product/LED-Matrix-Link-MAX7219-LED-Display-Control-8-Digit-Dot-Matrix-Module-8X8-Matrix-Module/1818486_32455016208.html
+http://embedded-lab.com/blog/max7219-based-double-row-4-digit-seven-segment-led-display/
+http://embedded-lab.com/blog/introducing-a-new-serial-spi-8-digit-seven-segment-led-display-module-using-max7219/
+http://www.instructables.com/id/MAX7219-8-Digit-LED-Display-Module-Driver-for-ESP8/?ALLSTEPS
+
+
+Ready the schematic and board files for
+	4 dotmatrix accompayning board(1 row with 4 dotmatrices) for
+		5x7 dotmatrix
+		8x8 dotmatrix
+		7 segment display
+			2"
+			4"
+			6"
+			8" etc,.
+
+Learn Eagle
+https://www.google.co.in/?ion=1&espv=2#q=eagle%20tutorials
+http://www.cadsoftusa.com/training-service/tutorials/
+https://learn.sparkfun.com/tutorials/using-eagle-schematic
+https://learn.sparkfun.com/tutorials/using-eagle-board-layout
+http://www.jeremyblum.com/category/eagle-tutorials/
+
+
+Large 7 segment displays
+https://www.tindie.com/products/rajbex/serial-driver-for-large-seven-segment-led-display-modules/
+http://embedded-lab.com/blog/high-voltage-seven-segment-led-display-driver-with-spi-interface/
+
+
+opensource Led driver boards
+https://www.google.co.in/search?q=LED+driver&espv=2&biw=683&bih=321&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQgbzCvYTMAhXEK6YKHS6qCqEQ_AUIBigB#imgdii=YfeEq41Qx3WueM%3A%3BYfeEq41Qx3WueM%3A%3B6jdoJJUdYAB2DM%3A&imgrc=YfeEq41Qx3WueM%3A
+https://www.google.co.in/#q=open+source+led+driver
+http://www.open-ephys.org/cyclops/
+http://www.instructables.com/id/Open-Source-Microchip-LED-PWM-Driver-Project/
+http://www.limpkin.fr/index.php?post/2012/08/12/Current-controlled-boost-LED-driver-and-black-soldermasks
+https://www.sparkfun.com/products/13705
+http://www.tbideas.com/blog/design-of-the-led-driver/
+http://www.opensourcepartners.nl/~costar/leddimmer/
+http://embedded-lab.com/blog/high-voltage-seven-segment-led-display-driver-with-spi-interface/
+http://embedded-lab.com/blog/serial-four-digit-7-segment-led-display-module/
+http://www.futureelectronics.com/en/drivers/led-display-driver.aspx
+http://www.ergpower.com/SFLED-boards.html
+
+https://www.google.co.in/search?q=LED+driver&espv=2&biw=683&bih=321&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjQgbzCvYTMAhXEK6YKHS6qCqEQ_AUIBigB#tbm=isch&q=open+source+high+wattage+high+current+LED+driver&imgdii=SoVg62PH2heSvM%3A%3BSoVg62PH2heSvM%3A%3BgoLvlVBXO4AHwM%3A&imgrc=SoVg62PH2heSvM%3A
+https://www.google.co.in/?espv=2#q=open+source+high+wattage+high+current+LED+driver
+http://www.instructables.com/id/Universal-High-Power-LED-Driver-with-3D-printable-/
+http://www.ledsupply.com/blog/understanding-led-drivers/
+http://www.ledsupply.com/blog/guide-to-110v-ac-led-drivers/
+http://www.ledsupply.com/led-driver-selector
+
+
+Led display for christmas tree
+
+**************************************************************
+https://community.arm.com/groups/embedded/blog/2014/05/23/led-video-panel-at-maker-faire-2014
+https://forum.pjrc.com/threads/26943-LED-Video-Panel-from-Maker-Faire-questions
+https://forum.pjrc.com/search.php?searchid=1286946
+http://www.pjrc.com/teensy/td_libs_OctoWS2811.html
+https://www.youtube.com/watch?v=M5XQLvFPcBM
+https://www.youtube.com/watch?v=QyDKCo7LeSc&nohtml5=False
+http://howtoleddisplay.blogspot.in/
+normal Arduino boards don't have the DMA feature.  They also don't have enough memory.  You need Teensy3 for this
+http://www.deskontrol.net/blog/arduino-based-artnet-node-for-led-pixels/
+
+if you use libraries like OctoWS2811 or SmartMatrix or the Teensy Audio library, there's nothing equivalent on Arduino
+http://labs.teague.com/?workbench=teensy-vs-arduino
+https://learn.sparkfun.com/tutorials/getting-started-with-the-teensy
+
+http://arduino.stackexchange.com/questions/221/what-can-i-do-if-i-run-out-of-flash-memory-or-sram
+https://learn.adafruit.com/memories-of-an-arduino/you-know-you-have-a-memory-problem-when-dot-dot-dot
+https://www.pjrc.com/teensy/teensy31.html
+
+https://www.google.co.in/?ion=1&espv=2#q=casing%20makers%20india
+http://dir.indiamart.com/impcat/case-making-machine.html
+http://www.indiamart.com/maalakshmimachine/hard-case-making-machines.html#hard-case-making-machine
+
+
+auto on off
+alarm...ex..fire alaram
+use RTC
+sensor related to light
+msg transfer from android, mac, basic, PC etc,.
+waterproof
+temperature controller
+
+seqencing of msgs is different at differnet times of the day
+audible msg
+LEDs  multi-color (red/yellow/green)
+message content
+	Words can be upper or lower case, standard, bolded, condensed or expanded, with selectable sizes
+	Messages can be static, flashing, or scrolling with a variety of appearance/transition options
+Ceiling mounting
+wall mounting
+Hanging
+100 mm VESA (Video Electronics Standards Association) mounting holes
+
+https://www.google.co.in/#tbs=ptso:us&tbm=pts&q=led+scroll+text
+https://www.google.co.in/patents/US20080278422?dq=led+scroll+text&hl=en&sa=X&ved=0ahUKEwiZ0cayw4nMAhXRc44KHY2HBLUQ6AEIGzAA
+https://www.google.co.in/patents/US20100125807?dq=led+scroll+text&hl=en&sa=X&ved=0ahUKEwiZ0cayw4nMAhXRc44KHY2HBLUQ6AEIWjAJ
+
+
+https://vimeo.com/32898673
+AHRS / head-tracking using SparkFun 9DOF Razor IMU or 9DOF Sensor Stick - via USB and Bluetooth
+
+https://www.google.co.in/?ion=1&espv=2#q=mp4%20to%20.dat%20converter
+https://www.reddit.com/r/arduino/comments/2sr0rc/max7219_led_matrix_not_working_correctly/
+http://www.electroschematics.com/10510/arduino-8-8-led-matrix/
+https://www.pjrc.com/teensy/td_libs_Matrix.html
+
+Proteus
+http://www.theengineeringprojects.com/2015/12/scrolling-text-led-matrix-8x8-using-arduino-proteus-isis.html
+http://i2.wp.com/www.theengineeringprojects.com/wp-content/uploads/2015/12/Scrolling-Text-on-LED-Matrix-8x8-using-Arduino-in-Proteus-ISIS.jpg
+http://www.theengineeringprojects.com/2015/03/arduino-projects.html
+http://isis-proteus.blogspot.in/2012/09/isis-proteus-projects.html
+
+http://www.delorie.com/pcb/docs/gs/gs.html
+https://en.wikibooks.org/w/index.php?title=Practical_Electronics/PCB_Layout&action=history
+
+
+3D board view
+https://www.google.co.in/#q=EAGLE+3D
+https://eagleup.wordpress.com/
+http://3dbrdviewer.cytec.bg/
+https://www.youtube.com/watch?v=PJfypAYDa5w
+www.simplifiedsolutionsinc.com
+
+sch -> board -> emn,emp -> 3d -> mcad software to verify whether PCB fits properly in its casing
+http://www.cadforum.cz/cadforum_en/qaID.asp?tip=2331
+
+
+----------didn't work-------------------
+https://www.youtube.com/watch?v=BUl828AW0TE
+old method ...eagle 3d..google sketch up
+https://www.element14.com/community/thread/36725/l/eagle3d-povray?displayFullThread=true
+http://www.instructables.com/id/Render-3D-images-of-your-PCBs-using-Eagle3D-and-PO/?ALLSTEPS
+https://www.youtube.com/watch?v=OZLU4828RpY&nohtml5=False
+http://makezine.com/2008/03/17/eagle3d-povray-circuit-bo/
+Install eagle3d
+open .brd file -> run ulp -> c/progfilesx86/eagle3d/ulp/3d41.ulp
+-> set to board path -> all without logo -> all default settings -> socketed -> generate pov files
+install povray 
+open pov files and genrate image
+-----------------------------------------
+Layer by layer LIVE - EagleCAD to Fusion 360
+https://www.youtube.com/watch?v=QjyWp5BAAVM
+
+
+Web-Enabled LED Display
+(server free solution)
+http://www.ipdisplays.com/
+
+https://www.hackster.io/chrisloris/web-connected-8x8-scrolling-led-display-5bdcb7
+https://www.youtube.com/watch?v=dFZTRz-IZDQ
+
+have a demo video on website
+
+http://www.capterra.com/digital-signage-software/
+
+SignIndustry.com - The Online Magazine for the Sign Trade.
+
+http://www.signindustry.com/led/articles/2013-06-03-Find-Money-In-Your-Adveritisng-Budget-for-LED-Signs.php3
+http://www.signindustry.com/led/articles/2006-09-01-LB-LED_Billboards2.php3
+
+http://www.planar.com/
+
+https://github.com/Boomerific/rpi-rgb-led-matrix
+
+
+http://www.instructables.com/id/Build-Starling-a-Modular-WiFi-Enabled-LED-Display-/?ALLSTEPS
+https://hackaday.io/project/8502-starling-a-modular-internet-connected-led-display
+https://www.crowdsupply.com/explore-embedded/starling
+https://www.youtube.com/playlist?list=PLRuRKN7_FVgsHG2HzmH6ZJzQU8k1sgcN1&nohtml5=False
+	Starling displaying IND vs SA live score
+	starling twitter feed display
+https://www.youtube.com/watch?v=J7gzTREdU-I&index=3&list=PLRuRKN7_FVgsHG2HzmH6ZJzQU8k1sgcN1&nohtml5=False
+The Protocol (MQTT): I wanted to make the display real time. Using HTTP for initial tests showed that it was slow and had lot of overhead. The request response structure isn't simply enough especially on slow networks. Hence I tried MQTT. It works beautifully even on slow networks and where bandwidth is a concern. The MQTT works on publish, subscribe model. The complexity is in the broker (the server), the apps, the display hardware are all the clients. The clients can simply subscribe to a Topic and receive messages. The broker does all the hard work of authentication and authorization. I will speak more about this later.
+	(https://hackaday.io/post/28135)
+
+
+https://github.com/search?utf8=%E2%9C%93&q=led+matrix
+	
+http://www.electronicsinfoline.com/pin/35211/
+http://www.limpkin.fr/index.php?post/2016/02/18/High-Voltage-Power-Supply-for-Nixie-Tubes
+
+https://learn.adafruit.com/connecting-a-16x32-rgb-led-matrix-panel-to-a-raspberry-pi/experimental-python-code
+
+5x5 Font on a 8x8 Matrix
+https://www.youtube.com/watch?v=9pwLPmbJgd8
+
+
+***** http://www.best-microcontroller-projects.com/max7219.html
+
+https://www.youtube.com/watch?v=gf08yGofzEY
+https://www.youtube.com/watch?v=elWFlsdGkXI&nohtml5=False
+https://www.youtube.com/watch?v=-1JvQra3vsU
+
+
+gamma correction
+
+https://www.youtube.com/watch?v=OXksCLmsjOQ
+https://www.youtube.com/watch?v=5MbFwnQlEZU
+
+https://www.youtube.com/watch?v=n974jV3cJAU
+https://www.youtube.com/watch?v=dJQAZsNwcv4&nohtml5=False
+
+Interactive RGB LED modules
+
+http://www.madmapper.com/controlling-led-strips-from-madmapper/
+http://www.ecolocityled.com/category/dmx_led_tutorial
+
+http://www.coolneon.com/software/ ******
+
+http://screenhub.com/
+https://www.hackster.io/jay_uk/letterbot-0c86ac?offset=5&ref=similar&ref_id=7623
+https://www.google.co.in/#q=Web-Enabled+LED+Display&start=40
+https://www.google.o.in/?ion=1&espv=2#q=internet%20control%20scrolling%20led
+https://www.google.cco.in/?ion=1&espv=2#q=led+matrix+indian++alphabet+letter
+http://forum.arduino.cc/index.php?topic=7384.0
+
+
+http://www.justdial.com/Bangalore/LED-Display-Board-Manufacturers/ct-1000691970
+http://www.justdial.com/Chennai/LED-Display-Board-Manufacturers/ct-1000000935
+http://www.ledscrollingdisplay.in/indoor-led-scrolling-display.php#indoorled
+
+http://wealoneonearth.blogspot.in/2013/02/diy-tinymarquee-attiny24-based.html
+
+http://esbuzz.net/trends/watch/vid88mrHkPsiZzLI
+
+
+git
+https://git-scm.com/downloads/guis
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
