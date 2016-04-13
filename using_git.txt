@@ -1,0 +1,36 @@
+http://guides.beanstalkapp.com/version-control/git-on-windows.html
+
+after public key is genrated by the gitbash, copy it.
+goto github --> settings --> shh keys --> paste and save
+
+goto you rrequired folder
+git init
+git add filename
+git commit or git commit -m "first commit"
+git remote add origin https://github.com/Shreyas91/test.git or any other repository
+git push -u origin master
+
+git fetch filename
+
+
+
+
+Finding your username in the URL of remote repositories
+If you have any local copies of personal repositories you have created or forked, you can check the URL of the remote repository.
+Tip: This method only works if you have an original repository or your own fork of someone else's repository. If you clone someone else's repository, their username will show instead of yours. Similarly, organization repositories will show the name of the organization instead of a particular user in the remote URL.
+cd YOUR_REPOSITORY
+# Change directories to the initialized Git repository
+git remote -v
+origin  https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git (fetch)
+origin  https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git (push)
+
+OR 
+
+git config --get remote.origin.url
+http://stackoverflow.com/questions/4089430/how-can-i-determine-the-url-that-a-local-git-repository-was-originally-cloned-fr
+
+Finding your username in your user.name configuration
+During set up, you may have set your username in Git. If so, you can review the value of this configuration setting:
+git config user.name
+# View the setting
+YOUR_USERNAME
