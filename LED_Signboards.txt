@@ -381,6 +381,7 @@ https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/how-the-matrix-works
 
 GOAL COMPANY
 http://lighting.cree.com/applications
+http://ledpro.in/
 https://www.photonplay.com/products/
 http://www.alpha-american.com
 http://www.megasigninc.com/versa-scrolling-led-window-sign/
@@ -1414,3 +1415,39 @@ http://saturnelectronics.com/thermal_pcb_design_led_signup
 http://makingsociety.com/2013/03/the-worlwide-list-of-open-source-hardware-online-stores/
 http://www.open-electronics.org/top-5-wireless-ways-to-communicate-with-your-controller/
 http://www.open-electronics.org/
+
+
+=================================================================================================
+http://www.sitepoint.com/displaying-images-on-a-dot-matrix-led-display-with-node-js/
+http://www.sitepoint.com/web-apis-on-arduino-lcd/
+
+https://missionpinball.com/docs/howto/smartmatrix-rgb-dmd/
+https://missionpinball.com/mpf/
+
+https://forum.arduino.cc/index.php?topic=260320.0
+http://sotvorimvmeste.ru/viewtopic.php?f=33&t=194
+http://forum.freetronics.com/viewtopic.php?f=26&t=5754
+
+http://www.freetronics.com.au/products/dot-matrix-display-32x16-red#.Vw8W7XForIU
+http://forum.freetronics.com/viewtopic.php?f=26&t=704
+http://forum.freetronics.com/viewforum.php?f=26
+http://www.instructables.com/id/Stand-for-Freetronics-Dot-Matrix-Display/?ALLSTEPS
+https://github.com/freetronics/DMD/blob/master/examples/dmd_latin_chars/dmd_latin_chars.ino
+https://www.google.co.in/#q=Codepage+layout+kannada
+https://en.wikipedia.org/wiki/Indian_Script_Code_for_Information_Interchange
+http://www.adebenham.com/category/arduino/dmd/
+
+https://blog.adafruit.com/2012/07/02/great-scott-delorean-inspired-time-circuit-clock-with-adafruit-gear/
+http://www.electronics-lab.com/project/dot-matrix-led-running-display-v2-0/
+
+https://www.youtube.com/watch?v=rNdQjEiKsmY
+https://www.youtube.com/watch?v=KxiKmuGoCsc
+https://www.youtube.com/watch?v=4esZ0h-FEjM
+https://www.youtube.com/watch?v=qLSgAjUwD2M
+https://www.youtube.com/watch?v=-n7plPdw2gc
+
+
+*****
+http://makezine.com/projects/adventures-building-custom-raspberry-pi-led-display/
+https://github.com/wil7ang/LEDMatrix
+=================================================================================================
