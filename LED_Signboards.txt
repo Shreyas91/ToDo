@@ -1451,3 +1451,30 @@ https://www.youtube.com/watch?v=-n7plPdw2gc
 http://makezine.com/projects/adventures-building-custom-raspberry-pi-led-display/
 https://github.com/wil7ang/LEDMatrix
 =================================================================================================
+***************** 	https://github.com/search?l=C%2B%2B&q=led&type=Repositories&utf8=%E2%9C%93
+					https://github.com/search?l=Arduino&q=led&type=Repositories&utf8=%E2%9C%93
+https://github.com/search?utf8=%E2%9C%93&q=led
+https://github.com/search?l=C&q=led&type=Repositories&utf8=%E2%9C%93
+https://github.com/x37v/led_wall
+http://dorkbotpdx.org/blog/armatronix/led_video_wall
+https://github.com/sn4k3/LedClock
+https://github.com/HelsinkiHacklab/ledmatrix
+https://github.com/voltaic/LED_matrix
+https://github.com/Troynica/led-heart
+https://github.com/RemcoMagielse/LED
+https://github.com/lixinliang/led
+http://lixinliang.github.io/led/tests/index.html
+=================================================================================================
+http://www.instructables.com/member/ChromationSystems/
+http://www.chromationsystems.com/10x10infkit.html
+http://www.instructables.com/id/10-x-10-LED-Infinity-Mirror/
+http://www.chromationsystems.com/store/index.php?main_page=product_info&cPath=68&products_id=306
+http://www.instructables.com/id/10-x-10-LED-Infinity-Mirror/
+=================================================================================================
+http://embeddedsoftdev.blogspot.in/p/arduino.html
+https://en.wikipedia.org/wiki/Dot-matrix_display
+https://en.wikipedia.org/wiki/Fourteen-segment_display
+https://en.wikipedia.org/wiki/History_of_display_technology#Flip-flap.2Fdisc_display
+https://en.wikipedia.org/wiki/Flip-disc_display
+https://en.wikipedia.org/wiki/LED_display
+https://en.wikipedia.org/wiki/Sixteen-segment_display
