@@ -1493,3 +1493,60 @@ https://www.youtube.com/watch?v=gZXOyiwjzaU
 https://www.youtube.com/watch?v=T72Bi3kTqYg
 https://www.youtube.com/watch?v=tTCyyzF9k3o
 https://www.youtube.com/watch?v=eSXEH2XDjS8
+
+Reference Design
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reference%20design%20led%20dotmatrix%20driver
+http://www.ti.com/lsds/ti/power-management/signage-linear-overview.page?DCMP=signage&HQS=signage
+snvy010.pdf
+http://www.ti.com/analog/docs/selectionguides.tsp
+
+
+
+
+PC Software
+Convert text or graphics into Bitmap file
+Bitmap file
+contains the bitmap data which can be played on LED screen
+USB Flash Drive
+Bitmap file is copied from PC to the USB flash drive
+Vinco USB Host
+USB flash drive is connected to Vinco USB host
+LED Panel
+Firmware reads the bitmap files and displays the frames on the LED screen
+
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+display+dot+matrix+vhdl+code
+http://www.scienceprog.com/24x24-led-dot-matrix-display-control/
+http://svv.on.ufanet.ru/matrix.htm
+https://www.google.co.in/search?q=Unicode+dot+matrix+font+generation+tool&oq=Unicode+dot+matrix+font+generation+tool&aqs=chrome..69i57j69i61&sourceid=chrome&ie=UTF-8
+http://bitmap2lcd.com/blog/tag/dot-matrix-font/
+https://forums.xilinx.com/t5/CPLDs-Archived/need-of-vhdl-code-for-led-matrix/td-p/169452
+http://www.best-microcontroller-projects.com/led-dot-matrix-display.html
+
+
+Timer to set the dipaly on and off ..uses RTC may be.
+	option for manual override of timer 
+Display only if you detect a person or object.
+
+smaller boards that run on the power from arduino itself
+Buffer drivers may be needed for higher power applications
+
+Learn VHDL programming, needed outdoor big screens
+
+kmplayer/VCD li songplay aaguvaaga contimuous random graphics barutalla, get those in bitmap
+
+Frame the smaller size LED boards
+Infinite mirrors
+
+Change animations if someone comes near
+
+http://www.instructables.com/id/PIXEL-Interactive-LED-Art/ <--- *****
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=animation+to+bitmap+pixel+display
+http://www.nutsvolts.com/blog/post/building_your_own_bitmaps_and_animation_for_the_128x64_graphics_kit
+https://www.google.co.in/search?q=lower+resolution+animation&oq=lower+resolution+animation&aqs=chrome..69i57.8159j0j7&sourceid=chrome&ie=UTF-8
+http://giphy.com/search/low-resolution
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=animations%20for%20pixel%20displays
+http://www.tested.com/art/makers/455872-maker-project-rgb-led-animated-pixel-box/
+https://www.google.co.in/search?espv=2&biw=1093&bih=514&q=pixel+animation+software&revid=1908260582&sa=X&ved=0ahUKEwjZv8Pb9ZDMAhXQT44KHYs_ChgQ1QIIWSgA
+https://www.google.co.in/search?espv=2&biw=1093&bih=514&q=pixel+animation+maker&revid=1908260582&sa=X&ved=0ahUKEwjZv8Pb9ZDMAhXQT44KHYs_ChgQ1QIIWigB
+http://www.piskelapp.com/
