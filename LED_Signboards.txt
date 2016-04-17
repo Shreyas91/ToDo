@@ -387,6 +387,7 @@ http://lighting.cree.com/applications
 http://ledpro.in/
 https://www.photonplay.com/products/
 http://www.alpha-american.com
+http://www.factorydisplay.co.in/document-display-systems.html
 http://www.megasigninc.com/versa-scrolling-led-window-sign/
 http://www.mrled.cn/products.html
 http://www.rotapanel.com/led-technology-3.php
@@ -1714,3 +1715,45 @@ http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6748090&url=http%3A%2F%2Fi
 http://www.tandfonline.com/doi/abs/10.1080/19439962.2013.824055
 https://www.google.com/patents/US20140218943
 https://www.google.com/patents/US8766885
+
+hypnotic patterns on LED Display
+Pack in as many optical illusions as possible
+
+Authentication feature
+http://www.factorydisplay.co.in/document-display-systems.html
+
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=xilinx%20fpga%20programming%20languages
+http://www.xilinx.com/training/courses.htm#LAN
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=vhdl+vs+verilog+vs+systemverilog
+http://electronicdesign.com/what-s-difference-between/what-s-difference-between-vhdl-verilog-and-systemverilog
+https://www.quora.com/Whats-the-difference-between-Verilog-and-VHDL
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=difference+between+xilinx+and+altera&tbs=qdr:y
+http://blog.kevmod.com/2015/04/quick-report-altera-vs-xilinx-for-hobbyists/
+https://curtis.io/others-work/open-tooling-for-fpgas/
+https://www.quora.com/What-are-the-differences-between-Xilinx-FPGAs-and-Microsemi-FPGAs
+https://www.quora.com/Now-that-Intel-has-acquired-Altera-where-does-that-leave-Xilinx
+https://www.quora.com/What-are-the-major-differences-between-Xilinx-and-Altera-FPGAs
+http://www.differencebetween.net/technology/difference-between-xilinx-and-altera/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=difference+in+programming+for+xilinx+and+altera&start=10
+https://www.element14.com/community/thread/20605/l/some-fpga-beginner-questions?displayFullThread=true
+https://forums.xilinx.com/t5/Spartan-Family-FPGAs/Xilinx-vs-Altera-why-such-a-big-difference-in-area-used/td-p/324207
+http://www.edaboard.com/thread328940.html
+https://en.wikipedia.org/wiki/Altera_Quartus
+http://www.altera.com/products/software/products/quartus2/
+https://www.altera.com/support/support-resources/download/licensing/q-and-a.html#a_01
+http://dl.altera.com/15.1/?edition=standard&platform=windows&download_manager=direct
+
+
+https://www.altera.com/products/design-software/overview.html
+https://www.altera.com/products/design-software/fpga-design/quartus-prime/overview.html
+https://www.altera.com/downloads/download-center.html
+
+
+https://www.google.co.in/search?q=Quartus+Prime+crack&oq=Quartus+Prime+crack&aqs=chrome..69i57.439j0j4&sourceid=chrome&ie=UTF-8#q=Quartus+Prime+standard+crack
+http://prog3.com/sbdm/download/detail/cytechsunsong/9237277
+http://www.torrentchip.com/application/46636-altera-quartus-prime-151-design-software.html
+http://nitroflare.com/folder/8182/L28VyQVF1UHJpNTFT
+http://elenlink.com/archiver/?tid-1386.html
+http://elenlink.com/forum.php?mod=viewthread&tid=1386&page=1
+http://sharecsk.com/altera-quartus-prime-15-1-design-software/
