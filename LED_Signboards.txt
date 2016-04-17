@@ -1662,6 +1662,55 @@ http://link.springer.com/article/10.1007/s11554-013-0387-5#/page-1
 http://www.cqvip.com/qk/94689x/201101/36361605.html
 http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01666534
 
+http://moscow.sci-hub.io/857dd4aa9df2d043dd095e589c20b4cc/sriskanthan2002.pdf?download=true
+http://moscow.sci-hub.io/cdbd69fa78b1261a026fe61bc74e5f6d/10.1016@j.micpro.2016.02.007.pdf?download=true
+
 http://www.cyc-led.eu/Files/CycLED_D2_1_120507.pdf
 http://intranet.dei.uminho.pt/gdmi/galeria/temas/pdf/55738.pdf
 http://www.globesci.com/fileup/PDF/2012-01-009.pdf
+
+
+
+https://www.google.co.in/search?q=Low+Cost+FPGA+Kits&oq=Low+Cost+FPGA+Kits&aqs=chrome..69i57j0l5.319j0j9&sourceid=chrome&ie=UTF-8
+https://www.quora.com/What-is-the-best-affordable-FPGA-dev-kit-for-a-starter
+
+
+POV displays for byke wheels, Car wheels, Fans etc,.
+	custom message with custom colours.
+	should work for variable rotation speed
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pov+display+variable+speed
+http://www.instructables.com/id/Arduino-Simple-POV-Display/
+http://www.instructables.com/id/Magic-Wand-POV-Message-Display-using-Bluetooth-Mod/
+https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/jm787_dab355/jm787_dab355/
+http://www.instructables.com/id/ATtiny8545-POV-Display/
+
+https://www.google.co.in/?gfe_rd=cr&ei=5f8SV5bHKrLv8wfbuKD4Cw#q=FPGA+Large+LED+display
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=display+technology+journal+
+https://www.osapublishing.org/jdt/home.cfm
+http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9425
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=913719&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D913719
+http://www.journals.elsevier.com/displays/
+http://www.sciencedirect.com/science/article/pii/S0141938210000958
+http://www.sciencedirect.com/science/article/pii/S0141938214000717
+https://www.osapublishing.org/jot/abstract.cfm?id=73467
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5955158&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F30%2F5955152%2F05955158.pdf%3Farnumber%3D5955158
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6651766&url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel7%2F41%2F4387790%2F06651766.pdf%3Farnumber%3D6651766
+
+
+http://ira.lib.polyu.edu.hk/simple-search?query=&location=crisou
+
+
+*****
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=theses%20collection
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=theses%20repository
+
+DMD for elevators, escalators etc,.
+
+https://scholar.google.co.in/scholar?start=20&q=LED+dot+matrix+Sign+Board+System&hl=en&as_sdt=0,5&as_ylo=2012
+https://www.google.com/patents/US5990802
+https://www.google.com/patents/US5812105
+https://www.google.com/patents/US5450301
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6748090&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6748090
+http://www.tandfonline.com/doi/abs/10.1080/19439962.2013.824055
+https://www.google.com/patents/US20140218943
+https://www.google.com/patents/US8766885
