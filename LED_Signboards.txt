@@ -380,6 +380,8 @@ https://learn.adafruit.com/32x16-32x32-rgb-led-matrix/how-the-matrix-works
 
 
 GOAL COMPANY
+http://www.fullcolorled-display.com/products
+http://www.osram.com/osram_com/index.jsp
 Digital dream srilankan company..Franchise
 	https://www.youtube.com/watch?v=6M-APIOV_7w
 	https://www.youtube.com/user/digitaldreamlk/videos
@@ -1880,3 +1882,73 @@ https://en.wikipedia.org/wiki/Autodesk_Inventor
 http://torrentz.eu/search?q=Autodesk+Inventor
 http://torrentz.eu/5b18f58d5523b73245ce898e490ff987082a16b8
 http://torrentz.eu/fdc4461ba66875e0dfa141437896654ab5d872b9
+
+
+http://www.circuit-projects.com/led/Page-8.html
+http://www.instructables.com/id/32x16-LED-Matrix-Panel-and-Arduino/
+http://www.htldisplay.com/news/upcoming-events/161.html
+*** https://www.youtube.com/watch?v=clswrRkElgc
+https://www.youtube.com/results?search_query=make+smd+led+modules
+**************  http://www.globalsources.com/manufacturers/LED-Module.html
+				http://www.osram.com/osram_com/news-and-knowledge/led-home/professional-knowledge/technologies/led-modules/index.jsp
+
+
+https://www.youtube.com/watch?time_continue=42&v=wbDFPkPgez0
+http://www.instructables.com/id/Aurora-9x18-RGB-LED-art/
+
+***************************
+LED STRIP TYPES
+http://www.flexfireleds.com/pages/Comparison-between-3528-LEDs-and-5050-LEDs.html
+
+
+Custom packaging boxes
+https://www.google.co.in/?gfe_rd=cr&ei=voYWV4iYK8mL8QfjiLLQCQ#q=custom+boxes+with+logo
+https://www.google.co.in/search?q=custom+packaging&oq=custom+packa&aqs=chrome.0.0l2j69i57j0l3.2871j0j7&sourceid=chrome&ie=UTF-8#q=custom+packaging+boxes
+https://www.google.co.in/search?q=custom+packaging&oq=custom+packa&aqs=chrome.0.0l2j69i57j0l3.2871j0j7&sourceid=chrome&ie=UTF-8#q=custom+packaging&tbs=ctr:countryIN&cr=countryIN
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=8x8%20rgb%20dot%20matrix%20aliexpress
+https://www.sparkfun.com/products/retired/760
+https://www.sparkfun.com/tutorials/91
+http://www.ebay.com/itm/LED-RGB-Matrix-Screen-Module-Driver-Board-Full-color-8x8-Arduino-No-Dot-Matrix-/221822206417
+https://www.google.co.in/search?q=ISP+interface&oq=ISP+interface&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+
+******
+how to sell on Flipkart, Amazon, Snapdeal, ebay, global seller etc,.
+
+
+**********
+http://www.aliexpress.com/store/1239156?spm=2114.10010108.100005.1.nuiY3J
+http://www.fullcolorled-display.com/sale-6892549-adjustable-3528-smd-full-color-led-display-module-indoor-dot-matrix-32-16.html
+
+*********
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=alternative%20to%20aliexpress
+http://www.moreofit.com/similar-to/www.aliexpress.com/Top_10_Sites_Like_Aliexpress/
+
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=smd%20dip%20led%20display
+http://www.verypixel.com/blog/difference_between_DIP_and_SMD_LED_display.html
+https://www.linkedin.com/pulse/dip-smd-outdoor-led-display-better-linda-yu
+http://foxgolden.com/Article/whatarethedifference_1.html
+http://blog.messagemaker.co.uk/comparison-of-smd-and-dip-leds-for-use-in-large-format-led-screens/
+http://www.mydisplayscreen.com/smd-dip-dotmatrix.html
+http://www.cnledsourcing.com/more_news/9.html
+
+
+https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
+https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd
+https://documentation.circuitmaker.com/display/CMAK/From+Idea+to+Manufacture+-+Driving+a+PCB+Design+through+CircuitMaker
+
+**********
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cheapest%20led%20modules
+
+
+http://www.aliexpress.com/item/64x32-Outdoor-RGB-hd-p4-indoor-led-video-wall-P3-P4-P4-75-P5-P6/32577355215.html
+http://www.osram.com/osram_com/news-and-knowledge/led-home/professional-knowledge/technologies/led-modules/index.jsp
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=schematic+for+16x32+p4+%22SMD%22+led++module
+https://www.google.co.in/search?q=schematic+for+16x32+p10+%22SMD%22+led+board+PCB+module&espv=2&biw=1093&bih=514&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXhpfd3JrMAhVJC44KHbmvD_EQ_AUIBigB#imgrc=fXKFzWwmgRYUjM%3A
+http://www.fullcolorled-display.com/sale-7101790-mono-color-led-display-module-320mm-160mm-1r-pixel-ip65-led-modules-for-signs.html
+http://www.electronics-lab.com/project/dot-matrix-led-running-display-v2-0/
+https://www.google.co.in/search?q=schematic+for+SMD+led+PCB&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiFyoD225rMAhXQwI4KHVYEB3oQsAQIGg&dpr=1.25#imgrc=4RYp-8ZE2IDXKM%3A
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+module+schematic
+http://www.litewave.co.uk/page_224957.html
+http://www.codeforge.com/s/0/p10-led-module-schematic

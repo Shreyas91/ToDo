@@ -167,7 +167,15 @@ https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=t
 http://www.proquest.com/products-services/dissertations/Search-Engines-and-Your-Dissertation.html
 http://www.openthesis.org/
 
+************** http://www.globalsources.com/manufacturers/LED-Module.html
 
+
+****
+https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
+https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd
+https://documentation.circuitmaker.com/display/CMAK/From+Idea+to+Manufacture+-+Driving+a+PCB+Design+through+CircuitMaker
+
+http://www.instructables.com/id/Reverse-Engineering-1/
 
 
 Learn Eagle
