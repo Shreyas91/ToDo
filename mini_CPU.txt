@@ -169,6 +169,14 @@ http://www.openthesis.org/
 
 ************** http://www.globalsources.com/manufacturers/LED-Module.html
 
+Do networking projects on arduino, Raspberry pi...
+Nameserver, DNS, API 1 key, API 2, API 3
+Windows vs linux webhosting, database for website, google DNS, 
+
+
+Proxy server vs direct global IP
+Money
+1000 1001 1002 1003..delete previous values
 
 ****
 https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints

@@ -1593,6 +1593,7 @@ https://www.google.co.in/search?q=fpga+dot+matrix+display&espv=2&biw=1093&bih=51
 
 
 Infinity mirrors with krishna's animation for ISKON temple.
+Bars.. photoframe sized boards with some gifs
 
 https://www.google.co.in/search?q=Quartus&oq=Quartus&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=quartus+schematic+editor
 https://www.google.co.in/search?q=quartus&oq=quartus&aqs=chrome..69i57j69i59&sourceid=chrome&ie=UTF-8
@@ -1919,6 +1920,7 @@ how to sell on Flipkart, Amazon, Snapdeal, ebay, global seller etc,.
 **********
 http://www.aliexpress.com/store/1239156?spm=2114.10010108.100005.1.nuiY3J
 http://www.fullcolorled-display.com/sale-6892549-adjustable-3528-smd-full-color-led-display-module-indoor-dot-matrix-32-16.html
+http://www.mydisplayscreen.com/display-screen-indoor-p6-mm.html
 
 *********
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=alternative%20to%20aliexpress
@@ -1933,22 +1935,209 @@ http://blog.messagemaker.co.uk/comparison-of-smd-and-dip-leds-for-use-in-large-f
 http://www.mydisplayscreen.com/smd-dip-dotmatrix.html
 http://www.cnledsourcing.com/more_news/9.html
 
+If you want choose one low price but high brightness,the DIP is the best,you can reference our display screen outdoor p10,it use the DIP tech. If you want the brightness and the clarity and not concern the price, we recomand you choose SMD,please reference display screen indoor p6 mm
+if you want long working life and high quality,the Dot Matrix led displays is best,but sure,this is only for reference,when meet the real case,we will do a full and detail alalyze. 
+The price:  Dot Matrix > SMD > DIP 
+The brightness:  DIP > SMD > Dot Matrix 
+The working life:  Dot Matrix > SMD > DIP 
+The clarity of screen:  Dot Matrix led > SMD > DIP 
 
 https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
 https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd
 https://documentation.circuitmaker.com/display/CMAK/From+Idea+to+Manufacture+-+Driving+a+PCB+Design+through+CircuitMaker
 
+http://www.instructables.com/id/DIY-GLOWING-BUBBLE-LIGHT-How-to-Make-Your-Own-Futu/
+http://www.instructables.com/id/Reactive-Neopixel-Door-Lighting/
+
+Principal can see what's happening in each classroom.
+https://www.youtube.com/watch?v=rFPNWiB2iiQ
+
 **********
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=cheapest%20led%20modules
 
+*******
+http://www.indiamart.com/reolite/led-display-module.html#p8-indoor-smd-full-color-led-display-modules
+http://www.saimpexhk.com/smd-led-display.html
+http://dir.indiamart.com/impcat/smd-led-module.html (see for bangalore suppliers)
+http://dir.indiamart.com/impcat/outdoor-led-video-display.html
 
-http://www.aliexpress.com/item/64x32-Outdoor-RGB-hd-p4-indoor-led-video-wall-P3-P4-P4-75-P5-P6/32577355215.html
-http://www.osram.com/osram_com/news-and-knowledge/led-home/professional-knowledge/technologies/led-modules/index.jsp
-https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=schematic+for+16x32+p4+%22SMD%22+led++module
-https://www.google.co.in/search?q=schematic+for+16x32+p10+%22SMD%22+led+board+PCB+module&espv=2&biw=1093&bih=514&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXhpfd3JrMAhVJC44KHbmvD_EQ_AUIBigB#imgrc=fXKFzWwmgRYUjM%3A
-http://www.fullcolorled-display.com/sale-7101790-mono-color-led-display-module-320mm-160mm-1r-pixel-ip65-led-modules-for-signs.html
-http://www.electronics-lab.com/project/dot-matrix-led-running-display-v2-0/
-https://www.google.co.in/search?q=schematic+for+SMD+led+PCB&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiFyoD225rMAhXQwI4KHVYEB3oQsAQIGg&dpr=1.25#imgrc=4RYp-8ZE2IDXKM%3A
-https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+module+schematic
-http://www.litewave.co.uk/page_224957.html
-http://www.codeforge.com/s/0/p10-led-module-schematic
+16 pin FRC box header for interface
+http://makerflux.com/wiki/electronics-wiki/development_boards/arduino/arduino-projects/snake-game-with-an-8x8-led-matrix/
+
+
+Security
+program to binary hex file.. distribute only hex file
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino%20code%20binary%20file
+http://stackoverflow.com/questions/11607834/where-are-the-hex-files-compiled-by-arduino
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino%20burn%20hex%20files
+http://forum.arduino.cc/index.php?topic=293749.0
+http://www.hobbytronics.co.uk/arduino-xloader
+https://www.arduino.cc/en/Hacking/BuildProcess
+
+
+Avoiding illegal copying of code from arduino board...burning fuses..then you can't update things
+http://www.atmel.com/dyn/resources/prod_documents/doc1644.pdf
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=how%20to%20secure%20arduino%20code
+http://forum.arduino.cc/index.php?topic=5451.0
+http://electronics.stackexchange.com/questions/1920/securing-code-on-an-avr-arduino-and-delivering-updates
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=how%20to%20flash%20binary%20to%20arduino
+https://forum.arduino.cc/index.php?topic=364565.0
+
+
+create a binary hex file(arduino code) for each user
+that is the code will be same for every user but only the passphrase each code checks is a unique passphrase
+user 1: passphrase_1
+user 2: passphrase_2
+user 3: passphrase_3
+
+
+Startup -> setup
+	serial communication setup
+	write the passphrase(unique to that user) to some mem location
+
+loop
+	if(checkup_flag = 0) // checkup_flag is some mem location, such that mem location's default value is 0.
+							but shouldn't reset to default value on every bootup, i.e should retain previously written values
+		get the password from serial port(Bluetooth)
+		check it with passphrase
+			if(matched?)
+				checkup_flag = 1
+			else	
+				while(1);
+	else
+		Do things
+
+Give arduino to embedded c convert code
+ or arduino to assembly code
+		
+		
+otp memory arduino
+http://stackoverflow.com/questions/23096366/how-to-stop-a-loop-arduino
+can we have serial comm in setup mode
+http://playground.arduino.cc/Code/Password
+http://forum.arduino.cc/index.php?topic=44110.0
+http://www.indiamart.com/metroelectronics-ahmedabad/metal-clad-pcb.html#led-smd-module-pcb
+http://dir.indiamart.com/impcat/led-bulb.html
+http://stackoverflow.com/questions/23096366/how-to-stop-a-loop-arduino
+
+
+LED BULBS
+******
+http://www.gtiled.com/products/LED_light_SKD_kits_005.html
+
+http://www.instructables.com/id/How-to-drive-a-lot-of-LEDs-from-a-few-microcontrol/
+
+max7219 alternative
+https://github.com/2splat/arduino-TLC5926
+
+***********
+Basics
+http://www.led-star.com/LED%20display%20technology%20support/shownews.php?lang=en&id=72
+http://www.ledinside.com/knowledge/2009/12/led_driver_ic_2010a
+https://en.wikipedia.org/wiki/List_of_Arduino_boards_and_compatible_systems
+http://www.ledsmagazine.com/articles/print/volume-11/issue-4/features/specification/simplifying-the-sophisticated-led-driver-selection-made-easy.html
+
+
+analog dimming vs grayscale dimming ******
+http://www.etc.cmu.edu/projects/flux/?p=233
+http://playground.arduino.cc/Learning/TLC5940
+problems -> http://effluviaofascatteredmind.blogspot.in/2012/05/tlc5940-tlc5941-and-arduino.html
+http://playground.arduino.cc/Learning/TLC5940
+
+
+http://forum.arduino.cc/index.php?topic=22652.0
+
+
+****
+see product descryption
+http://www.alibaba.com/product-detail/programmable-led-sign-moving-led-message_1180911364.html?spm=a2700.7724857.4.6.Zpp9Dj&s=p
+http://www.aliexpress.com/item/96-96-pixels-960-960mm-Waterproof-cabinet-RGB-DIP-Full-color-P10-LED-display-screen-Waterproof/32576428326.html?spm=2114.30010308.3.1.4YaexM&ws_ab_test=searchweb201556_10,searchweb201602_5_10034_10033_507_10032_10020_10017_10005_10006_10021_10022_10009_10008_10018_10019,searchweb201603_6&btsid=86cce79d-941b-4b97-b480-fb78da468da8
+http://embedded-lab.com/blog/introducing-a-new-serial-spi-8-digit-seven-segment-led-display-module-using-max7219/
+http://www.htldisplay.com/news/Industry%20News/202.html
+
+
+LED Franchise
+http://visual.electro-matic.com/Our-Customers/Case-Studies/articleType/CategoryView/categoryId/8/Franchise-Signs
+http://www.compucareindia.com/led-display.aspx
+http://www.adi.tv/international/franchise-opportunities
+http://www.adi.tv/hire/markets/case-studies
+http://www.whichfranchise.co.za/listing/endee-out-indoor-billboards-franchise-opportunity/
+http://www.signarama.com/
+http://www.ledshopindia.com/franchise.php
+http://www.franchiseindia.com/brands/andstile.1828
+http://www.yesco.com/franchising/
+http://www.enbon.cn/en/case/franchise.html#.Vxr9JXForIU
+
+
+Aluminium cast
+http://www.dial4trade.com/manufacturers/shimoga/aluminum-base-pcb.htm
+
+LED Photo Frame
+http://dir.indiamart.com/impcat/led-photo-frame.html
++
+LED photo screen
+
+
+Prototype PCB Manufacturers
+http://www.epspcbonline.com/aboutus.php
+http://www.pcprocess.in/
+
+Attiny
+http://www.flipkart.com/robomart-atmega-16-project-board-controller-v-2-0/p/itme2u6xkmghc2gb
+http://www.flipkart.com/robomart-atmega-16-project-board-without-controller-v-2-0/p/itme2u6yy4za8qg3?pid=ETYE2U6YK9TB79GJ&otracker=reco_pp_same_toy_learningtoy_5&ppid=ETYE2U6XHGNGBMFM
+http://www.instructables.com/id/The-RRRRRRRRRRBA-or-What-They-Dont-Teach-You-in-/
+https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829?ref=part&ref_id=8233&offset=68
+http://www.instructables.com/id/Program-an-ATtiny-with-Arduino/
+http://www.instructables.com/id/How-to-program-attiny-using-arduino-uno/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=attiny+programmer
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=attiny+buy
+http://www.atmel.com/products/microcontrollers/avr/tinyavr.aspx
+http://www.instructables.com/id/Digispark-DIY-The-smallest-USB-Arduino/
+https://www.google.co.in/search?q=ATTINY85+Arduino+General+Micro+USB+Development&oq=ATTINY85+Arduino+General+Micro+USB+Development&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8#q=ATTINY85+Arduino+Micro+USB+Development
+
+
+STM32 arm with arduino ... industry standard for 32bit MCUs
+http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2046448.m570.l1313.TR0.TRC0.H0.TRS0&_nkw=STM32F103&_sacat=0
+http://www.stm32duino.com/
+http://forum.arduino.cc/index.php?PHPSESSID=gcrtbmsrs197f5u0b4brui9t55&topic=265904.0
+https://github.com/rogerclarkmelbourne/Arduino_STM32
+https://www.arduino.cc/en/Main/ArduinoBoardZero
+http://jeelabs.org/book/1545d/
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino%20compatible%20arm%20board
+https://www.google.co.in/search?q=ARM+STM32&oq=ARM+STM32&aqs=chrome..69i57j69i61j69i60l2&sourceid=chrome&ie=UTF-8#q=stm32+and+arduino+problems
+http://stm32duino.com/viewtopic.php?t=74
+http://www2.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f1-series/stm32f103/stm32f103cb.html
+
+
+LED Module supply
+http://www.linsnled.com/
+http://www.led-displays-china.com/products
+http://www.theledstudio.co.uk/custom-led-displays.html
+
+
+https://www.quora.com/profile/Micheal-6
+
+
+********
+http://www.instructables.com/id/A-Simple-LED-Dot-Matrix-Display-Anyone-Can-Make-An/
+
+
+**********************************************
+https://www.kickstarter.com/projects/magicpixel/magic-pixel-bluetooth-full-color-led-display?ref=project_link
+
+
+Give USB interface, SDCard interface, Bluetooth interface, wifi interface
+
+http://www.instructables.com/id/PIXEL-Interactive-LED-Art/
+http://www.instructables.com/id/Make-a-Massive-4096-LED-Display-for-Retro-Pixel-Ar/ ******
+http://www.instructables.com/id/How-To-Make-Pixel-Art/
+
+
+
+********
+http://www.magicpixel.eu/home/index.html <-- goal
+https://www.kickstarter.com/projects/magicpixel/magic-pixel-bluetooth-full-color-led-display/description
+http://www.instructables.com/id/A-Simple-LED-Dot-Matrix-Display-Anyone-Can-Make-An/
+
+
+http://www.instructables.com/id/Getting-Started-With-ATMEGA-Microcontrollers/
