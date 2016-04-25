@@ -2141,3 +2141,84 @@ http://www.instructables.com/id/A-Simple-LED-Dot-Matrix-Display-Anyone-Can-Make-
 
 
 http://www.instructables.com/id/Getting-Started-With-ATMEGA-Microcontrollers/
+
+
+Large LED Diaplay at cheaper rate
+search for cabinet led display in aliexpress
+
+
+LEDs Dip
+Dot matrix, High pixel pitch Dot matrix
+SMD
+Strips
+Readymade
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dip+soldering+service+bangalore
+http://www.sbtechindia.com/facilitiy.htm
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dip+soldering+bangalore
+
+https://www.youtube.com/watch?v=FmCnF80CtIk
+https://www.youtube.com/watch?v=59Io2Moz8G4
+https://www.youtube.com/results?search_query=pcb+assembly+process
+
+
+Do like Samsung magic info
+http://displaysolutions.samsung.com/solutions/lfdSolutions/magicInfo
+
+
+Keep in mind that these displays are designed to be driven by FPGAs or other high speed processors: they do not have built in PWM control of any kind. Instead, you're supposed to redraw the screen over and over to 'manually' PWM the whole thing. On a 16 MHz arduino, we managed to squeeze 12-bit color (4096 colors) with 40% CPU usage but this display would really shine if driven by any FPGA, CPLD, Propeller, XMOS or other high speed multi-core controller. The good news is that the display is pre-white balanced with nice uniformity so if you turn on all the LEDs its not a particularly tinted white.
+https://www.adafruit.com/products/607
+
+
+https://www.youtube.com/watch?v=vJyzqYfzAig
+https://www.youtube.com/watch?v=LyRyijx6fvo
+https://www.youtube.com/watch?v=V0HTuivOtzY
+https://www.youtube.com/watch?v=7dpQ9K8E0LM
+
+
+Moving date/time on LED display
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+large+digital+clock+day
+http://kevinrye.net/files/large_7_segment_clock_part1.php
+http://www.electroschematics.com/8921/digital-clock-with-arduino-and-ds1307/
+https://www.kickstarter.com/projects/albertclock/albertclock/description
+
+
+Daisy chain
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=daisy+chain+to+make+large+led+display
+https://www.adafruit.com/products/420
+https://learn.adafruit.com/adafruit-diy-led-video-wall/overview
+http://forum.arduino.cc/index.php?topic=180659.0
+http://linksprite.com/wiki/index.php5?title=LED_Matrix_Kit
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=daisy+chain+led+modules+row+wise
+http://forum.arduino.cc/index.php?topic=121510.0
+http://forum.arduino.cc/index.php?topic=293008.0
+https://www.google.co.in/search?q=%22daisy+chain+MAX7219%22&oq=%22daisy+chain+MAX7219%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=daisy+chain+MAX7219
+https://www.google.co.in/search?q=%22daisy+chain+MAX7219%22&oq=%22daisy+chain+MAX7219%22&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://forum.arduino.cc/index.php?topic=352223.0
+http://forum.arduino.cc/index.php?topic=293201
+http://blog.carr3r.com/content/public/upload/schema-matrix_0_o.png
+http://forum.arduino.cc/index.php?topic=293008.msg2048515#msg2048515
+https://www.google.com/patents/US20090121988
+http://www.jameco.com/Jameco/workshop/JamecoBuilds/ledmatrixbuild.html
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=daisy+chaining+over+rows+led+dot+matrix+display
+
+ht1632c
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ht1632c+scrolling+text
+https://www.google.co.in/search?q=ht1632c&espv=2&biw=1093&bih=514&source=lnms&tbm=vid&sa=X&ved=0ahUKEwju-ujm8KjMAhXRGI4KHfRKDOoQ_AUIBygC
+http://playground.arduino.cc/Main/HT1632C
+https://learn.adafruit.com/16x24-led-matrix/
+http://tinkerman.cat/tag/ht1632c/
+
+
+http://www.tvs-e.in/products-db.aspx
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bangalore%20signs
+
+Analog wall clock ge ledlit number part.
+Mixture of analog and digital clock
+
+http://ajantaworld.com/
+http://ajantaworld.com/index.php/products/home-appliances.html#/page/1
+http://ajantaworld.com/index.php/products/led-lighting/roof-lighting.html#
+http://ajantaworld.com/index.php/products/led-lighting/orcl.html
+

@@ -5,3 +5,6 @@ https://www.reddit.com/r/arduino/comments/1e6wzw/what_the_most_common_ics_for_ho
 https://en.wikibooks.org/wiki/Practical_Electronics/ICs
 http://www.electronicspoint.com/threads/most-commonly-used-ics-for-lab.21512/
 https://forums.adafruit.com/viewtopic.php?f=8&p=69426
+
+head tracking system
+Eyes/Head off the road? then turn on LEDs on the car
