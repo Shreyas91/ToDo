@@ -39,25 +39,28 @@ Digital advertisement stands
 
 
 LED Scroll Business model
-1. simple one time configured no additional effect scroller
-2. text changing using android and bluetooth
+1. Text + one time configured + Non Scrolling + Whole text string ON and OFF type
+2. - || - + Whole text string ON and OFF type + then Each letter On and OFF in series + Repeat
+3. simple one time configured no additional effect scroller
+4. text changing using android and bluetooth
 	Freely at first or
 	precode some serial keys(say,100) unique to each panel + send single serial passkey everytime they want to change the text
 	(Recurring income)
-3. text effects added (like chinese led softwares)
-4. Border effects added (like chinese led softwares)
-5. Divide the led panel size to submodules, and individual effects for these sub modules (like LEDShowTW software)
-6. custom animated text - one time (using after effects, premiere pro)
-7. custom animate text + some cool graphics (like starwar graphics)
-7. animated Gifs of their company (their advertisements availble online)
-8. videos
-9. change animation ..request sent to us.. we configure it via internet (wifi module on LED panel + wifi hotspot)
+5. Text entering and leaving effects added (like chinese led softwares)
+6. Border effects added (like chinese led softwares) + additional animations like pokemon following the text
+	or firecrackers burning after the text
+7. Divide the led panel size to submodules, and individual effects for these sub modules (like LEDShowTW software)
+8. custom animated text -> one time (using after effects, premiere pro)
+9. custom animated text + some cool graphics (like starwar graphics)
+10. animated Gifs of their company (their advertisements availble online)
+11. videos
+12. change animation ..request sent to us.. we configure it via internet (wifi module on LED panel + wifi hotspot)
 	(Recurring income) (add wifi module only if they esnt this kind of model + add extra cost for including this module)
 
 Software end
 Need to develop android apps
 Need to develop web interface to reconfigure the LED panels on rewuest (LED panels are connected at client end using wifi module)
-
+MCU Coding and testing
 
 Hardware end
 Modular control card (or STM32 Board)..such that it is easy to increase the display size
