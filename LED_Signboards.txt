@@ -6,8 +6,10 @@ Then while frustrated on non progress on the raspberry pi based minicpu, i was l
 	time it suddenly recalled in my head about the conversation we had in the tiffin centre. This was on April 5th.
 	From then i started to look LED display related things
 Github repo was started on April 13th (by that time, already few contents were there in this notes)
+[I had to write to tests for 2 subjects of M.tech (one test was postponed for me because of the bike mishap in which
+	i injured right leg)]
 
-I took a pause on works related to this from 30th April.
+I took a pause on works related to this from 30th April, to resume my M.Tech reated works on full scale.
 
 
 LED Scrolling text (schools, shops etc,.)
