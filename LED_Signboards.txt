@@ -79,7 +79,7 @@ Modular control card (or STM32 Board)..such that it is easy to increase the disp
 		https://forum.pjrc.com/threads/32674-Teensy-3-2-open-source-code-hardware
 		http://stm32duino.com/viewtopic.php?t=612
 		http://www.stm32duino.com/viewtopic.php?f=28&t=117
-		Everything of the Teensy 3.2 is readily available except the bootloader chip, see how to purchase only one of such 
+		Everything of the Teensy 3.2 is readily available except the bootloader chip, see how to purchase only one of such
 		kind from pjrc and clone the rest
 Current things
 Testing (Ageing, electric shock, lightening, Rain, Dust, Temperature, power variations)
@@ -211,7 +211,7 @@ https://store.arduino.cc/product/T040060
 
 http://www.instructables.com/id/Build-Your-Own-Programmable-LED-QR-Code/
 	http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10001&langId=-1&productId=2159146&storeId=10001&CID=INSP2159146
-	
+
 
 DOT Matrix
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dot+matrix+display+using+arduino
@@ -303,7 +303,7 @@ http://www.display-leds.com/2.3-inch-8x8-LED-Dot-Matrix-p53698617.html
 or simply cascade two http://www.aliexpress.com/item/Free-Shipping-MAX7219-Dot-Matrix-Module-For-Arduino-Microcontroller-4-In-One-Display-with-5P-Line/32597603008.html?spm=2114.40010208.4.65.bt6luA
 led 6cm x 6cm  <-- dimension
 http://www.aliexpress.com/item/3MM-8-8-LED-dot-matrix-display-module-8X8-dot-matrix-module-common-anode-1088BS-highlighted/32288297211.html?spm=2114.30010308.3.11.Sbl3E0&ws_ab_test=searchweb201556_1,searchweb201602_1_10017_10005_10006_10034_10021_507_10022_10020_10018_10019,searchweb201603_7&btsid=e1fe659e-af02-47f6-a1c3-d170b87232e9
-Building Dot Matrix Graphic Panels with the 
+Building Dot Matrix Graphic Panels with the
 https://www.maximintegrated.com/en/app-notes/index.mvp/id/1033
 MAX7219 Based LED Matrix Chain
 http://www.aliexpress.com/item/New-original-LED-Display-8x8-Dot-Matrix-Common-Anode-Red-1-9mm-20mmx20mm-15-Pcs-Per/2021320726.html?spm=2114.30010308.3.20.Sbl3E0&ws_ab_test=searchweb201556_1,searchweb201602_1_10017_10005_10006_10034_10021_507_10022_10020_10018_10019,searchweb201603_7&btsid=e1fe659e-af02-47f6-a1c3-d170b87232e9
@@ -493,74 +493,74 @@ http://www.advantageledsigns.com/led-sign-products/
 https://www.youtube.com/user/megasigninc/videos
 Digital stands are LCD ones
 http://brightledsigns.com/custom/theme/vehicles
-	TRANSIT DISPLAYS 
-		Bus 
-			Next Stop Displays 
-			Bus Shelter Display Systems 
-			Bus destination display systems 
+	TRANSIT DISPLAYS
+		Bus
+			Next Stop Displays
+			Bus Shelter Display Systems
+			Bus destination display systems
 		Train/metro
-			Train platform displays 
-			Next Stop displays 
-			PIDS (Passenger information display systems) 
+			Train platform displays
+			Next Stop displays
+			PIDS (Passenger information display systems)
  		Ferry
-		Airport 
+		Airport
 			FIDS (Flight information display system)
-			Check-in counter displays 
+			Check-in counter displays
 
 	TOLL MANAGEMENT EQUIPMENTS
 		UFD (User Fare Displays)
-		Digital Traffic Lights 
+		Digital Traffic Lights
 		OHLS (Over Head Lane Signs)
-		Fog Lights 
+		Fog Lights
 	ELECTRONIC LED DISPLAY &SIGNS
 		Led Ticker Tapes
 		Industrial Electronic Marquee Signs
 		Advertisement Displays
-			Single Colour 
-			Full Colour Video displays 
-			Programmable Led Signs 
-			Scrolling Led Signs 
+			Single Colour
+			Full Colour Video displays
+			Programmable Led Signs
+			Scrolling Led Signs
 	PARKING GUIDANCE EQUIPMENTS
-		Bay Display 
-		Floor Vacancy Display 
-		Parking Controllers 
-	SPORTS SCOREBOARDS 
+		Bay Display
+		Floor Vacancy Display
+		Parking Controllers
+	SPORTS SCOREBOARDS
 	INDUSTRIAL DISPLAYS
 		Production Status Displays
-		Environmental Display Systems 
-		Safety Scoreboards and Displays 
-		Industrial Clocks 
-		Nema Marquee Signs 
-	DATA LOGGERS AND DATA TERMINALS 
+		Environmental Display Systems
+		Safety Scoreboards and Displays
+		Industrial Clocks
+		Nema Marquee Signs
+	DATA LOGGERS AND DATA TERMINALS
 	TRAFFIC DISPLAYS
 		VMS (Variable Message Signs)
 		Solar Powered VMS & DMS
-		Mobile VMS 
+		Mobile VMS
 		Lane Control Signs City Traffic Control Signs (CTCS)
-		Radar Speed Signs 
+		Radar Speed Signs
 
 ITS SOLUTIONS (INTELLIGENT TRAFFIC SOLUTIONS)
-	ITS Solutions (Intelligent traffic solutions) 
-	VMS (Variable Message Signs) 
+	ITS Solutions (Intelligent traffic solutions)
+	VMS (Variable Message Signs)
 	Solar Powered VMS & DMS
 	Lane Control Solutions
-	City Traffic Control Signs (CTCS) 
-RAIL/METRO TRANSIT SOLUTIONS 
+	City Traffic Control Signs (CTCS)
+RAIL/METRO TRANSIT SOLUTIONS
 INDUSTRIAL AUTOMATION
-	Truck/Vehicle Queuing System Custom Automation Solutions 
+	Truck/Vehicle Queuing System Custom Automation Solutions
 CENTRALISED DISPLAY SYSTEMS
 PARKING MANAGEMENT SYSTEM
 PARKING GUIDANCE SYSTEM
-PRODUCT DESIGN AND DEVELOPMENT TOLL MANAGEMENT SOLUTIONS 
-ITS TRAFFIC SOLUTIONS 
-AIRPORT SOLUTIONS 
-BUS TRANSIT SOLUTIONS 
-TAILOR MADE SOLUTIONS 
+PRODUCT DESIGN AND DEVELOPMENT TOLL MANAGEMENT SOLUTIONS
+ITS TRAFFIC SOLUTIONS
+AIRPORT SOLUTIONS
+BUS TRANSIT SOLUTIONS
+TAILOR MADE SOLUTIONS
 
 Name Badge or slogan display for tradeshows, exhibitions, conventions, promotions and
 advertisings,Taking on the upper clothes,T shirts good for ceremony and marketing event,
 Price card,Supermarket Products,Promotional licensing,Nightclubs,Bars,Tournaments,
-Concerts,KTV,Tourist attractions,Cafes,Auction houses,Banks,Supermarkets,Airports and 
+Concerts,KTV,Tourist attractions,Cafes,Auction houses,Banks,Supermarkets,Airports and
 other attendant digit number fans
 
 http://www.affordableled.com/
@@ -595,7 +595,7 @@ https://www.google.co.in/#q=ioio++board
 LED Art
 https://www.youtube.com/watch?v=RvgASzxLeN8&nohtml5=False
 https://www.youtube.com/watch?v=-l09hAqXgKo .. instead of floor..have it on wall
-Infinity mirror 
+Infinity mirror
 
 circular led
 https://www.youtube.com/watch?v=cu6kMsd_Y8M
@@ -709,7 +709,7 @@ http://www.solderlab.de/index.php/downloads
 https://github.com/neophob/PixelController
 http://www.live-leds.de/screens/
 http://www.madrix.com/en/home/download/madrix-software.html Demo version is free
-From chromateq ... led player 
+From chromateq ... led player
 PRO DMX •LED Player •Studio DMX are softwares from chromateq
 http://www.megasigninc.com/digital-signage-software-101/
 http://eyetv.software.informer.com/
@@ -1015,7 +1015,7 @@ http://opendmx.net/index.php/OLA_LED_Pixels
 
 https://www.pinterest.com/pin/413909021977747550/
 
-There are a lot of controller that support one of the protocols Jinx! can use. Artnet and sACN 
+There are a lot of controller that support one of the protocols Jinx! can use. Artnet and sACN
 for example are well known standards. Simply try a google search for it.
 http://www.live-leds.de/user-jinxscripts/
 https://en.wikipedia.org/wiki/Architecture_for_Control_Networks
@@ -1048,7 +1048,7 @@ http://sonicrobots.com/2013/01/24/midi-to-dmx-arduino-control-shield/
 http://www.tinker.it/
 
 
-The Artnet protocol is capable to spread partial data to different IP addresses. 
+The Artnet protocol is capable to spread partial data to different IP addresses.
 This is the usual way big matrices are fed. (http://www.solderlab.de/index.php/software/glediator)
 http://forum.arduino.cc/index.php?topic=19506.0
 
@@ -1086,7 +1086,7 @@ HID (High Intensity Display)	1.9%	2.4%	2.0%
 Incandescent					2.0%	1.9%	1.8%
 LED								3.9%	6.2%	7.2%
 Neon							43.0%	41.3%	41.7%
-Others							1.9%	1.2%	0.9%		
+Others							1.9%	1.2%	0.9%
 
 Digital Standees (http://budgetsigns.co.in/digital-media/)
 https://www.google.co.in/#q=Digital+Standees
@@ -1114,12 +1114,12 @@ https://www.google.co.in/search?q=Sign+Industry+Statistics&tbm=isch&imgil=g4JosY
 https://www.google.co.in/#q=Sign+Industry+Statistics
 
 
-Budget Signs				Mumbai		www.budgetsigns.co.in	 		 
-Gautam Art					New Delhi	www.gautamart.com	 	 
-Jahnvi Advertising Agency	Jaipur				 		 
-Marcon Digiprints Pvt. Ltd.	Mumbai		www.marcondigiprints.com	 		 
-Rohini Signs PVT. LTD.		Pune					 		 
-Stratojet					Delhi	 
+Budget Signs				Mumbai		www.budgetsigns.co.in
+Gautam Art					New Delhi	www.gautamart.com
+Jahnvi Advertising Agency	Jaipur
+Marcon Digiprints Pvt. Ltd.	Mumbai		www.marcondigiprints.com
+Rohini Signs PVT. LTD.		Pune
+Stratojet					Delhi
 
 http://www.thesigngroup.co.uk/services/
 http://www.weloveleds.co.uk/
@@ -1175,10 +1175,10 @@ http://ledpixelart.com/pixelv2board/
 
 https://learn.sparkfun.com/tutorials/rgb-panel-jumbotron?_ga=1.251951049.1910791321.1456988714
 
-There are numerous companies that provide large varieties of open-source electronics such as 
+There are numerous companies that provide large varieties of open-source electronics such as
 	Sparkfun
 	Adafruit
-	
+
 http://www.instructables.com/id/LED-Throwies/
 
 https://www.sparkfun.com/search/tutorials?term=LED+Controller&page=3 continue from here
@@ -1388,7 +1388,7 @@ http://makezine.com/2008/03/17/eagle3d-povray-circuit-bo/
 Install eagle3d
 open .brd file -> run ulp -> c/progfilesx86/eagle3d/ulp/3d41.ulp
 -> set to board path -> all without logo -> all default settings -> socketed -> generate pov files
-install povray 
+install povray
 open pov files and genrate image
 -----------------------------------------
 Layer by layer LIVE - EagleCAD to Fusion 360
@@ -1428,7 +1428,7 @@ The Protocol (MQTT): I wanted to make the display real time. Using HTTP for init
 
 
 https://github.com/search?utf8=%E2%9C%93&q=led+matrix
-	
+
 http://www.electronicsinfoline.com/pin/35211/
 http://www.limpkin.fr/index.php?post/2016/02/18/High-Voltage-Power-Supply-for-Nixie-Tubes
 
@@ -1624,7 +1624,7 @@ http://www.best-microcontroller-projects.com/led-dot-matrix-display.html
 
 
 Timer to set the dipaly on and off ..uses RTC may be.
-	option for manual override of timer 
+	option for manual override of timer
 Display only if you detect a person or object.
 
 smaller boards that run on the power from arduino itself
@@ -2032,11 +2032,11 @@ http://www.mydisplayscreen.com/smd-dip-dotmatrix.html
 http://www.cnledsourcing.com/more_news/9.html
 
 If you want choose one low price but high brightness,the DIP is the best,you can reference our display screen outdoor p10,it use the DIP tech. If you want the brightness and the clarity and not concern the price, we recomand you choose SMD,please reference display screen indoor p6 mm
-if you want long working life and high quality,the Dot Matrix led displays is best,but sure,this is only for reference,when meet the real case,we will do a full and detail alalyze. 
-The price:  Dot Matrix > SMD > DIP 
-The brightness:  DIP > SMD > Dot Matrix 
-The working life:  Dot Matrix > SMD > DIP 
-The clarity of screen:  Dot Matrix led > SMD > DIP 
+if you want long working life and high quality,the Dot Matrix led displays is best,but sure,this is only for reference,when meet the real case,we will do a full and detail alalyze.
+The price:  Dot Matrix > SMD > DIP
+The brightness:  DIP > SMD > Dot Matrix
+The working life:  Dot Matrix > SMD > DIP
+The clarity of screen:  Dot Matrix led > SMD > DIP
 
 https://learn.sparkfun.com/tutorials/designing-pcbs-smd-footprints
 https://learn.sparkfun.com/tutorials/designing-pcbs-advanced-smd
@@ -2098,15 +2098,15 @@ loop
 		check it with passphrase
 			if(matched?)
 				checkup_flag = 1
-			else	
+			else
 				while(1);
 	else
 		Do things
 
 Give arduino to embedded c convert code
  or arduino to assembly code
-		
-		
+
+
 otp memory arduino
 http://stackoverflow.com/questions/23096366/how-to-stop-a-loop-arduino
 can we have serial comm in setup mode
@@ -2426,7 +2426,7 @@ DHL
 2016-04-25 16:55
 but u have said "US $1~2 / Kilogram" right?
 ues
-yes 
+yes
 thats for big orders
 minimum size of such orders?
 what is the minimum size of the order to avail the shipping costs of "US $1~2 / Kilogram"?
@@ -2443,7 +2443,7 @@ oh..ok
 yes
 ok..how can i link my order of those led modules to you?
 there is no option to import via you in the webpage of those led module boards..
-will need your supplier deliver it to our shenzhenw arehouse firstly 
+will need your supplier deliver it to our shenzhenw arehouse firstly
 2016-04-25 17:05
 ok
 you mean, i have to give the shipping address as your "shenzhenw arehouse "?
@@ -2478,12 +2478,12 @@ different weight has different weight
 dear
 oh...ok..
 can i get the exact quatation of your charges before i order the goods on alibaba?
-dear 
+dear
 i will specify the weight of the goods...
 yes sir...
-shipping service are not certain 
+shipping service are not certain
 due to different weight
-also 
+also
 I am not male
 oh sorry...
 ok, then it means.. i will get the exact picture of your charges only when you receive the goods..
@@ -2776,7 +2776,7 @@ http://www.samsung.com/us/business/by-industry/education-solutions/samsung-schoo
 
 
 
-Daisy chain memory 
+Daisy chain memory
 http://shukra.cedt.iisc.ernet.in/edwiki/Reading_and_writing_to_a_file_on_sd_card_using_stm32_discovery_kit
 http://mightydevices.com/?p=144
 http://electronics.stackexchange.com/questions/43006/solutions-for-implementing-a-usb-mass-storage-device
@@ -2805,7 +2805,7 @@ http://qubahq.com/2010/05/tutorial-scrolling-led-text/
 http://after-effects.wonderhowto.com/how-to/create-simple-scrolling-led-display-after-effects-383940/#
 
 Search terms
-led banner animation 
+led banner animation
 create animations for led banner
 Animated LED Signage
 led billboard scroll text animation
@@ -2829,7 +2829,7 @@ http://www.multitechav.com/
 http://www.creativebloq.com/photoshop/create-animated-banner-ad-31514568/2
 
 Adobe products
-http://www.adobe.com/in/products/catalog.html 
+http://www.adobe.com/in/products/catalog.html
 some of them are
 Adobe Premiere Pro CC
 Adobe After Effects
