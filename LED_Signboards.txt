@@ -1,3 +1,42 @@
+LED Scrolling text (schools, shops etc,.)
+LED Name badge
+LED Pixel art for ISCON, Cofee BAR, for others
+LED Floors
+LED Strips for home decoration and shop decoration
+LED animations(https://www.youtube.com/watch?v=cyKkk9CgKOo) .. Nameplates like this (http://temelelektronik.info/devre.aspx?devre=310)
+	Picture gifs, animated gifs, video gifs
+	http://photobucket.com/images/animated%20gifs *****
+	https://www.youtube.com/watch?v=Lq9ibgln0VM
+	http://www.google.com/doodles
+	http://www.neonsignworld.com/led_signs_with_animation.htm
+	http://www.amazon.com/Shaped-Reads-Animation-Switches-Business/dp/B00PMX01DQ
+	http://temelelektronik.info/devre.aspx?devre=310
+	http://320volt.com/pic16f877-94-ledli-ay-yildiz-yeni-devre/
+	http://320volt.com/pic-16f877-ledli-efekt-devresi-94-led-ay-yildiz/
+	Generic nameplates like salon, coffee bar etc,.
+	http://www.apogeekits.com/led_star_mk170.htm
+	https://www.google.co.in/search?q=Multi-Effect+LED+Star&oq=Multi-Effect+LED+Star&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8#q=Multi-Effect+LED+Star+diy
+	http://www.gavrieli.com/hairdressing-leds.html
+	http://sydneyledsigns.com.au/default/animated-led-sign-nail-0013-60-x-30-cm-140.html?___SID=U
+	https://www.google.co.in/search?q=led+animation&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwibqPra7LDMAhUUWY4KHU4eAWEQsAQIGg#imgrc=wtKJwvaS9i9KrM%3A
+	https://www.youtube.com/watch?v=SfS2YngKtH4
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+sign+animation
+LED Games http://www.instructables.com/id/900-LED-display/?ALLSTEPS
+Using LED strips make LED Panels
+Marriage market
+beat-synced visuals, pixel girls, pixels animals etc,. (https://dvjvision.com/downloads/)
+	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=Pixel+animation
+	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=animated+gif+girl
+	http://giphy.com/gifs/sexy-hot-IgBQVdmmZnzS8
+http://www.ad-sun.net/
+https://www.google.co.in/search?q=led+panel+control+software&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwil3IPJkbHMAhUFPo4KHWVkCZkQsAQIPA#imgrc=XYZ_xDEYU_ZBrM%3A
+https://learn.adafruit.com/diy-led-video-cube
+https://learn.adafruit.com/raspi-animated-gif-picture-frame/overview
+	https://learn.adafruit.com/adafruit-io-connected-animated-gif-display/overview
+	https://learn.adafruit.com/raspi-animated-gif-picture-frame/gif-time
+	https://learn.adafruit.com/raspi-animated-gif-picture-frame/installing-the-pitft
+
+
 https://www.youtube.com/watch?v=YOMkQsLEACI
 LED Matrix DIGITAL CLOCK
 
@@ -2097,6 +2136,7 @@ https://www.google.co.in/search?q=ATTINY85+Arduino+General+Micro+USB+Development
 
 
 STM32 arm with arduino ... industry standard for 32bit MCUs
+http://stm32duino.com/viewtopic.php?t=23 *****
 http://www.ebay.com/sch/i.html?_from=R40&_trksid=p2046448.m570.l1313.TR0.TRC0.H0.TRS0&_nkw=STM32F103&_sacat=0
 http://www.stm32duino.com/
 http://forum.arduino.cc/index.php?PHPSESSID=gcrtbmsrs197f5u0b4brui9t55&topic=265904.0
@@ -2202,6 +2242,11 @@ http://forum.arduino.cc/index.php?topic=293008.msg2048515#msg2048515
 https://www.google.com/patents/US20090121988
 http://www.jameco.com/Jameco/workshop/JamecoBuilds/ledmatrixbuild.html
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=daisy+chaining+over+rows+led+dot+matrix+display
+https://github.com/hzeller/rpi-rgb-led-matrix
+https://github.com/hzeller/rpi-gpio-dma-demo
+https://github.com/hzeller/rpi-matrix-pixelpusher
+https://github.com/hzeller/rpi-rgb-led-matrix/tree/master/adapter
+
 
 ht1632c
 https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ht1632c+scrolling+text
@@ -2665,37 +2710,136 @@ https://www.google.co.in/search?q=3D8S_alpha.exe&oq=3D8S_alpha.exe&aqs=chrome..6
 https://forum.arduino.cc/index.php?topic=260320.0
 http://sotvorimvmeste.ru/viewtopic.php?f=33&t=194
 
-LED Scrolling text (schools, shops etc,.)
-LED Name badge
-LED Pixel art for ISCON, Cofee BAR, for others
-LED Floors
-LED Strips for home decoration and shop decoration
-LED animations(https://www.youtube.com/watch?v=cyKkk9CgKOo) .. Nameplates like this (http://temelelektronik.info/devre.aspx?devre=310)
-	Picture gifs, animated gifs, video gifs
-	http://photobucket.com/images/animated%20gifs *****
-	https://www.youtube.com/watch?v=Lq9ibgln0VM
-	http://www.google.com/doodles
-	http://www.neonsignworld.com/led_signs_with_animation.htm
-	http://www.amazon.com/Shaped-Reads-Animation-Switches-Business/dp/B00PMX01DQ
-	http://temelelektronik.info/devre.aspx?devre=310
-	http://320volt.com/pic16f877-94-ledli-ay-yildiz-yeni-devre/
-	http://320volt.com/pic-16f877-ledli-efekt-devresi-94-led-ay-yildiz/
-	Generic nameplates like salon, coffee bar etc,.
-	http://www.apogeekits.com/led_star_mk170.htm
-	https://www.google.co.in/search?q=Multi-Effect+LED+Star&oq=Multi-Effect+LED+Star&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8#q=Multi-Effect+LED+Star+diy
-	http://www.gavrieli.com/hairdressing-leds.html
-	http://sydneyledsigns.com.au/default/animated-led-sign-nail-0013-60-x-30-cm-140.html?___SID=U
-	https://www.google.co.in/search?q=led+animation&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwibqPra7LDMAhUUWY4KHU4eAWEQsAQIGg#imgrc=wtKJwvaS9i9KrM%3A
-	https://www.youtube.com/watch?v=SfS2YngKtH4
-	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+sign+animation
-LED Games http://www.instructables.com/id/900-LED-display/?ALLSTEPS
-Using LED strips make LED Panels
-Marriage market
-beat-synced visuals, pixel girls, pixels animals etc,. (https://dvjvision.com/downloads/)
-	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=Pixel+animation
-	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=animated+gif+girl
-	http://giphy.com/gifs/sexy-hot-IgBQVdmmZnzS8
-http://www.ad-sun.net/
 
-888
-	
+LED Name badge for students
+led display for classroom
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+display+for+classroom
+http://www.adaptivedisplays.com/markets/schools-and-universities
+http://www.samsung.com/us/business/by-industry/education-solutions/samsung-school
+
+
+
+Daisy chain memory 
+http://shukra.cedt.iisc.ernet.in/edwiki/Reading_and_writing_to_a_file_on_sd_card_using_stm32_discovery_kit
+http://mightydevices.com/?p=144
+http://electronics.stackexchange.com/questions/43006/solutions-for-implementing-a-usb-mass-storage-device
+http://wiki.chibios.org/dokuwiki/doku.php?id=chibios:community:plans:external_ram
+http://hackaday.com/2011/09/07/want-2-megabytes-of-sram-for-your-arduino/
+http://electronics.stackexchange.com/questions/10720/mcu-saving-data-directy-on-flash-whats-the-advantage
+http://www.aliexpress.com/item/LED-controller-X8-full-color-USB-port-SERIAL-port-led-controller-128-9999-PIXEL-for-full/32448516497.html?spm=2114.30010308.3.2.rGJXMJ&ws_ab_test=searchweb201556_10,searchweb201602_5_10034_10033_507_10032_10020_10017_10005_10006_10021_10022_10009_10008_10018_10019,searchweb201603_10&btsid=803dd2ab-c853-4d92-b09b-596b27e5274e
+
+
+http://www.aliexpress.com/item/LED-controller-X8-full-color-USB-port-SERIAL-port-led-controller-128-9999-PIXEL-for-full/32448516497.html?spm=2114.30010308.3.2.rGJXMJ&ws_ab_test=searchweb201556_10,searchweb201602_5_10034_10033_507_10032_10020_10017_10005_10006_10021_10022_10009_10008_10018_10019,searchweb201603_10&btsid=803dd2ab-c853-4d92-b09b-596b27e5274e
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=opensource+ledpanel+display+controller
+https://www.olimex.com/Products/Modules/LED/MOD-RGB/open-source-hardware
+http://listentech.en.alibaba.com/product/743236871-218402144/Free_LED_Display_control_software_for_led_sign_led_panel_billboard.html
+
+.exe
+https://mail.google.com/mail/u/0/#inbox
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=edit+.exe+files
+http://www.restuner.com/howto-openfile.htm
+https://www.reddit.com/r/software/comments/1w5x5r/need_a_program_that_will_allow_me_to_edit_a_exe/
+http://www.sweetscape.com/010editor/
+
+
+http://www.hongkiat.com/blog/ps-text-effects-2012/#
+http://www.psawesome.com/tutorials/create-an-editable-on-screen-text-effect-using-smart-objects#
+http://qubahq.com/2010/05/tutorial-scrolling-led-text/
+http://after-effects.wonderhowto.com/how-to/create-simple-scrolling-led-display-after-effects-383940/#
+
+Search terms
+led banner animation 
+create animations for led banner
+Animated LED Signage
+led billboard scroll text animation
+Animated Scrolling LED Text
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+scrolling+text+effect+generator
+https://www.google.co.in/search?q=led+scrolling+text+effect&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjc19zRobPMAhUWj44KHVffB90QsAQIQA#imgdii=ezrxPtitnULO6M%3A%3BezrxPtitnULO6M%3A%3Bvu_IJlETSjxs5M%3A&imgrc=ezrxPtitnULO6M%3A
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led%20scroll%20text%20designer
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%22photoshop%22+led+matrix++%22scroll%22
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=photoshop+scrolling+text+with+led+video+panel
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led%20ad%20text%20create
+https://www.youtube.com/results?search_query=led+banner+scroll+text+photoshop
+
+
+http://www.brightneonsigns.com/flashing-led-signs-a.html
+
+http://www.limpkin.fr/index.php?post/2011/05/12/Oops...-I-dit-it-again! **** matlab gif
+http://hackaday.com/2011/05/19/displaying-video-and-gifs-on-rgb-led-matrices/
+http://hacknmod.com/hack/stream-webcam-images-on-a-led-display/
+
+http://www.multitechav.com/
+http://www.creativebloq.com/photoshop/create-animated-banner-ad-31514568/2
+
+Adobe products
+http://www.adobe.com/in/products/catalog.html 
+some of them are
+Adobe Premiere Pro CC
+Adobe After Effects
+Adobe Experience Manager
+http://www.adobe.com/in/solutions/digital-media.html
+illustrator
+Muse
+Dreamweaver
+animate (flash pro)
+Audition
+Incopy
+
+
+
+
+open source led control
+https://www.openlighting.org/
+https://www.openlighting.org/ole/
+https://www.openlighting.org/ola/
+
+http://textanim.com/ <-- general text animation
+
+gif
+https://signanimations.com/product-category/animals/
+https://www.google.co.in/search?safe=active&tbs=isz:ex,iszw:32,iszh:32,itp:animated&tbm=isch&q=GIF&gws_rd=cr&ei=oRYjV8rVGtGcuQS8xr3QCQ#safe=active&tbs=itp:animated&tbm=isch&q=GIF+dancing++girl&imgrc=_
+https://www.google.co.in/search?safe=active&biw=1093&bih=514&tbs=itp:animated&tbm=isch&q=GIF+dancing+girl+silhouette&spell=1&sa=X&ved=0ahUKEwjKrY-ftLPMAhUWBY4KHR2qA1QQvwUIGCgA&dpr=1.25
+
+
+related to gifs to play on LED Matrix from adafruit
+https://learn.adafruit.com/smartmatrix-animated-gif-player/gifs *************
+https://learn.adafruit.com/creating-gifs-for-smartmatrix?view=all
+https://learn.adafruit.com/creating-gifs-for-smartmatrix/overview
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=adafruit%20gif
+https://github.com/pixelmatix/AnimatedGIFs/issues
+https://learn.adafruit.com/smartmatrix-animated-gif-player/troubleshooting
+
+
+Processing examples
+https://www.youtube.com/watch?v=6V0vy5SP1wE
+https://www.youtube.com/watch?v=_8DMEHxOLQE
+https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ
+
+download videos
+https://vimeo.com/18569723
+https://www.youtube.com/watch?v=A-HE603YhTs
+https://www.youtube.com/watch?v=1QnlnDv8KM0 ****
+https://www.youtube.com/watch?v=_8DMEHxOLQE
+https://vimeo.com/85913081
+https://www.youtube.com/watch?v=uOSRx7qP10M
+https://www.youtube.com/watch?v=I6H0tWgo16s
+https://youtu.be/HlV_5tC8GUc
+https://www.youtube.com/watch?v=JQ7ev6QWa_4
+https://www.youtube.com/watch?v=qZzbhT-pkOQ
+https://www.youtube.com/watch?v=kAMF4eUUPmU ****
+https://www.youtube.com/watch?v=TcWbwC_vhrc ****
+https://www.youtube.com/watch?v=C913enLWYxE
+https://www.youtube.com/watch?v=AQ8xW-NQp6E
+https://www.youtube.com/watch?v=1QnlnDv8KM0
+https://www.youtube.com/watch?v=DexISpymwdY
+
+Search terms
+after effects text animation
+premier pro text animation
+
+***********
+https://www.youtube.com/watch?time_continue=62&v=89-QXqhOJXg
+Bare panel on the left, mounted in an 8"x8" shadow box frame with frosted acrylic diffuser on the right.
+
+http://www.colourlovers.com/
+https://color.adobe.com/create/color-wheel/
