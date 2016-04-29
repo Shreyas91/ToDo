@@ -35,7 +35,64 @@ https://learn.adafruit.com/raspi-animated-gif-picture-frame/overview
 	https://learn.adafruit.com/adafruit-io-connected-animated-gif-display/overview
 	https://learn.adafruit.com/raspi-animated-gif-picture-frame/gif-time
 	https://learn.adafruit.com/raspi-animated-gif-picture-frame/installing-the-pitft
+Digital advertisement stands
 
+
+LED Scroll Business model
+1. simple one time configured no additional effect scroller
+2. text changing using android and bluetooth
+	Freely at first or
+	precode some serial keys(say,100) unique to each panel + send single serial passkey everytime they want to change the text
+	(Recurring income)
+3. text effects added (like chinese led softwares)
+4. Border effects added (like chinese led softwares)
+5. Divide the led panel size to submodules, and individual effects for these sub modules (like LEDShowTW software)
+6. custom animated text - one time (using after effects, premiere pro)
+7. custom animate text + some cool graphics (like starwar graphics)
+7. animated Gifs of their company (their advertisements availble online)
+8. videos
+9. change animation ..request sent to us.. we configure it via internet (wifi module on LED panel + wifi hotspot)
+	(Recurring income) (add wifi module only if they esnt this kind of model + add extra cost for including this module)
+
+Software end
+Need to develop android apps
+Need to develop web interface to reconfigure the LED panels on rewuest (LED panels are connected at client end using wifi module)
+
+
+Hardware end
+Modular control card (or STM32 Board)..such that it is easy to increase the display size
+	Teensy is better than STM32(only w.r.t memory, if memory of STM32 is enough for you then stick with that only, because
+	it has good community support (because compatible with arduino)), but price is higher...get it cloned in Mysore or Bangalore
+		http://www.searchingfaculty.com/jobid/EleComEngAstPro/instID/55501.html?utm_source=Indeed&utm_medium=organic&utm_campaign=Indeed
+		https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=teensy%20opensource
+		http://www.pjrc.com/store/ic_mkl02.html
+		http://www.appfruits.com/2015/03/building-your-own-custom-teensy/ *****
+		https://github.com/appfruits/Custom-Teensy
+		https://www.pjrc.com/teensy/loader.html
+		https://www.google.co.in/search?q=MKL04+chip&oq=MKL04+chip&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=MCU+cloning+bootloader
+		https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=clone+teensy+bootloader&tbs=qdr:y
+		https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=teensy+3.2+clones
+		https://blog.adafruit.com/2011/02/04/counterfeit-teensy-usb-boards-not-open-source-cloned-any-way/
+		https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=teensy%203.2%20buy
+		https://www.adafruit.com/product/2756
+		https://forum.pjrc.com/threads/23601-Official-Distributors
+		https://forum.pjrc.com/threads/32674-Teensy-3-2-open-source-code-hardware
+		http://stm32duino.com/viewtopic.php?t=612
+		http://www.stm32duino.com/viewtopic.php?f=28&t=117
+		Everything of the Teensy 3.2 is readily available except the bootloader chip, see how to purchase only one of such 
+		kind from pjrc and clone the rest
+Current things
+Testing (Ageing, electric shock, lightening, Rain, Dust, Temperature, power variations)
+Testing mechanical strength of the Panel stand
+Wifi Internet Connection (Easy + success every time on every possible network connection)
+
+
+jumping to bootloader via software
+https://www.pjrc.com/teensy/jump_to_bootloader.html
+
+
+http://www.instructables.com/id/How-to-fix-bad-Chinese-Arduino-clones/
+http://www.instructables.com/id/2-Arduino-the-ATMEGA328-As-a-Stand-alone-Easy-Chea/
 
 https://www.youtube.com/watch?v=YOMkQsLEACI
 LED Matrix DIGITAL CLOCK
