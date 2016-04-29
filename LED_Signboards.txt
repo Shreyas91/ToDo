@@ -1,3 +1,15 @@
+Idea related to LED was first talked with Guruprasad in Benne Dose Shop near my room in
+	Nandini layout on March 31st morning(We were on bangalore that day to attend "Think Nano" 
+	conference at IISc). It was a very vague, non deep conversation of just a minute or two.
+	The thing we talked was to build the led minki minki that are used in the DEVERA Photo in buses!!.
+Then while frustrated on non progress on the raspberry pi based minicpu, i was looking for other ideas todo. At that
+	time it suddenly recalled in my head about the conversation we had in the tiffin centre. This was on April 5th.
+	From then i started to look LED display related things
+Github repo was started on April 13th (by that time, already few contents were there in this notes)
+
+I took a pause on works related to this from 30th April.
+
+
 LED Scrolling text (schools, shops etc,.)
 LED Name badge
 LED Pixel art for ISCON, Cofee BAR, for others
@@ -2903,3 +2915,24 @@ Bare panel on the left, mounted in an 8"x8" shadow box frame with frosted acryli
 
 http://www.colourlovers.com/
 https://color.adobe.com/create/color-wheel/
+
+
+
+========================================================================================================
+LED Name Badge [Sanjeev Jain, +919323204999, Bombay]
+Colors: Blue, green, yellow, orange, white
+Blue, white <-- usual colors
+Blue - Rs.700 for bulk, Rs.900 for single piece + delivery charge(Rs.100 - Rs.150) [cash on delivery]
+white - Rs.850 for bulk
+
+Yellow, orange, Blue --> cheaper
+Green , white --> expensive
+
+Package --> [LED Badge + Software + Data Cable + Extra battery]
+Only right to left + speed <-- only 2 configurations
+1 inch vs 4 inch
+7 x 29 Leds
+Button cell --> 2 to 3 cells
+Button cell --> 3V (Rs.2 to Rs.3)
+7 to 8 hours of operational life for single battery unit
+========================================================================================================
