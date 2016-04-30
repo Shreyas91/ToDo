@@ -53,6 +53,23 @@ Digital advertisement stands
 Stadium LED Diplay
 Stadium perimeter advertising display
 For other possiblities .. See some pdfs that are stored in this folder
+ABC weds DFG, abaka weds kaKagaGa, Heart LED symbol in the middle (in the nameboard arch in the entry of chatra, replace flowered names with LED names)
+	Do like this http://temelelektronik.info/devre.aspx?devre=310 (Turkish Flag Animation Circuit (16f877))
+		https://www.youtube.com/watch?v=r1CZ8GD4O3k <-- Finished product
+		https://www.youtube.com/watch?v=M-mvb0Sxg0E	<-- Finished product
+		https://www.youtube.com/watch?v=zqW4iXIWifw (another guy)
+		or use randon sequence generators in the code (like Random PN sequence generator <-- simplest + series unique
+		long sequence) to create randomness effect
+	Leds only on the perimeter of each letter (gap inside or flower inside)
+	Leds fill each letter (leds in a horizontol line are all in parallel <-- simplest config(code of the above case is enough to drive this configuration))
+	Create PCB layout(Home made PCB <-- only if there are there autodrilling machines) other wise use
+		dotted PCB boards --> cut it in required shape by going saw mill's or granite shop's cutters --> soldering
+		is outsourced to electrical shops/diploma freshers or use DIP soldering machine
+	See if you can modularize the production and coding
+https://www.youtube.com/watch?v=HCcn-x09mY0
+	Floor: 80x615cm and 80x530cm aluminum composite panels 
+	Letters: letters LED illuminated plexiglass box 
+	Animation: 750 30mm pixel LED module
 
 LED Scroll Business model
 1. Text + one time configured + Non Scrolling + Whole text string ON and OFF type
@@ -113,7 +130,7 @@ Stand to hold panels
 
 Legal things
 Register firm + TIN Number
-Get certification and M.R.P for your product(Some very high price)
+Get certification and M.R.P for your product(Mark it as some very high price)
 
 Few marketing things
 Say it is imported from Japan, Korea, Taiwan (Not Chinese)
@@ -2891,9 +2908,16 @@ https://www.openlighting.org/ola/
 http://textanim.com/ <-- general text animation
 
 gif
-https://signanimations.com/product-category/animals/
+https://signanimations.com/product-category/animals/ **
 https://www.google.co.in/search?safe=active&tbs=isz:ex,iszw:32,iszh:32,itp:animated&tbm=isch&q=GIF&gws_rd=cr&ei=oRYjV8rVGtGcuQS8xr3QCQ#safe=active&tbs=itp:animated&tbm=isch&q=GIF+dancing++girl&imgrc=_
 https://www.google.co.in/search?safe=active&biw=1093&bih=514&tbs=itp:animated&tbm=isch&q=GIF+dancing+girl+silhouette&spell=1&sa=X&ved=0ahUKEwjKrY-ftLPMAhUWBY4KHR2qA1QQvwUIGCgA&dpr=1.25
+https://www.google.co.in/search?q=gif+logo+animation&oq=gif+logo+an&aqs=chrome.0.0j69i57j0l4.4327j0j7&sourceid=chrome&ie=UTF-8
+http://gifmaker.me/ **
+https://dribbble.com/ **
+http://www.howdesign.com/featured/animated-logos/
+http://www.webdesignerdepot.com/2013/07/50-inspiring-animated-gifs/
+http://digitalsynopsis.com/design/creative-logo-animations/
+https://www.google.co.in/search?q=Dribbble&oq=Dribbble&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
 
 
 related to gifs to play on LED Matrix from adafruit
@@ -2910,7 +2934,7 @@ https://www.youtube.com/watch?v=6V0vy5SP1wE
 https://www.youtube.com/watch?v=_8DMEHxOLQE
 https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ
 
-download videos
+download videos ... after effects + premier pro
 https://vimeo.com/18569723
 https://www.youtube.com/watch?v=A-HE603YhTs
 https://www.youtube.com/watch?v=1QnlnDv8KM0 ****
@@ -2927,6 +2951,18 @@ https://www.youtube.com/watch?v=C913enLWYxE
 https://www.youtube.com/watch?v=AQ8xW-NQp6E
 https://www.youtube.com/watch?v=1QnlnDv8KM0
 https://www.youtube.com/watch?v=DexISpymwdY
+https://www.youtube.com/watch?v=c6sgaOVVJf8 **** Led text as if it is captured from an angle
+https://www.youtube.com/watch?v=-XADWfdiAv8 **** Background effects for the LED scroll
+https://www.youtube.com/results?q=led+scroll+border+animation+after+effects
+https://www.youtube.com/results?search_query=after+effects+logo+animation ************
+https://www.youtube.com/watch?v=8_QFzXDK588
+https://www.youtube.com/watch?v=UbU04LgR5dQ See annotations
+https://www.youtube.com/watch?v=-HEbnR3QEWg **** awesome [Can also be used to create the move up, move down etc,. effects]
+	https://www.youtube.com/watch?v=F02wWBgmZi4&src_vid=-HEbnR3QEWg&annotation_id=annotation_2877209929&feature=iv
+https://www.youtube.com/watch?v=w-JG1n_Yeo8 ****
+https://www.youtube.com/watch?v=fevHErfYbjA **** Logo animation
+https://www.youtube.com/watch?v=X_wIyLaywcA
+
 
 Search terms
 after effects text animation
