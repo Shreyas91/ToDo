@@ -9,7 +9,7 @@ Github repo was started on April 13th (by that time, already few contents were t
 [I had to write to tests for 2 subjects of M.tech (one test was postponed for me because of the bike mishap in which
 	i injured right leg)]
 
-I took a pause on works related to this from 30th April, to resume my M.Tech reated works on full scale.
+I took a pause on works related to this from 1st May, to resume my M.Tech reated works on full scale.
 
 
 LED Scrolling text (schools, shops etc,.)
