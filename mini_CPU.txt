@@ -138,6 +138,10 @@ https://www.google.co.in/?gfe_rd=cr&ei=HKoDV_SlFpPI8AfM8ouIBw#q=how+to+make+case
 http://www.open-electronics.org/how-to-design-and-3d-print-a-case-for-an-electronic-board/
 https://www.tinkercad.com/things/iCwqVLUxm0A-terrific-blad-wolt/edit
 
+https://en.wikipedia.org/wiki/Printed_circuit_board#Assembly
+https://en.wikipedia.org/wiki/Surface-mount_technology#Advantages
+https://en.wikipedia.org/wiki/SMT_placement_equipment
+https://en.wikipedia.org/wiki/Category:Printed_circuit_board_manufacturing
 
 Arduino Pro Mini Atmega 328p(Compatible) Board smaller than Nano,UNO Rs.195
 Arduino nano
