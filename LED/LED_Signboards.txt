@@ -9,12 +9,12 @@ Github repo was started on April 13th (by that time, already few contents were t
 [I had to write to tests for 2 subjects of M.tech (one test was postponed for me because of the bike mishap in which
 	i injured right leg)]
 
-I took a pause on works related to this from 1st May, to resume my M.Tech reated works on full scale.
+I took a pause on works related to this from 2nd May, to resume my M.Tech reated works on full scale.
 
 
 LED Scrolling text (schools, shops etc,.)
 LED Name badge (Companies, conferences, Schools(union days), Hotels etc,.)
-LED Pixel art for ISCON, Cofee BAR, for others
+LED Pixel art for ISCON (KrishPad), Cofee BAR, for others
 LED Floors
 LED Strips for home decoration and shop decoration
 LED animations(https://www.youtube.com/watch?v=cyKkk9CgKOo) .. Nameplates like this (http://temelelektronik.info/devre.aspx?devre=310)
@@ -3110,3 +3110,198 @@ http://www.startbizindia.in/llp_taxation.php
 
 
 Proprietorship, partnership, LLP(Limited Liability Partnership), Company ... Pvt. Ltd, OPC(One person company)
+
+
+Atmel Atmega
+https://en.wikipedia.org/wiki/Atmel_AVR_ATtiny_comparison_chart
+https://en.wikipedia.org/wiki/Atmel_AVR#Basic_families
+https://en.wikipedia.org/wiki/AVR32
+https://hackaday.io/project/3052-avr32-arduino ... Avr32 arduino
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+%22avr32%22
+
+
+https://www.obdev.at/products/vusb/index.html
+https://www.youtube.com/watch?v=bTlM27jzOIQ
+
+
+=========================================================================================================
+=========================================================================================================
+http://www.rogerclark.net/stm32f103-and-maple-maple-mini-with-arduino-1-5-x-ide/
+
+https://github.com/leaflabs/maplemini
+https://github.com/leaflabs
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple.html
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple-mini.html
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple-native-beta.html
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple-mini.html#maple-mini-hardware ****
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple-mini.html#maple-mini-pin-map-master
+
+
+STM32 generic board pcb clone schematic
+http://www.diygoodies.org.ua/?p=322
+http://hackaday.com/2011/08/03/an-arm-dev-board-you-can-make-at-home/
+http://www.diygoodies.org.ua/?p=289
+
+http://www.artekit.eu/resources/ak-stm32-dip36/doc/AK-STM32-DIP36-Schematics-Rev1.pdf ***
+****
+Schematic of bluepill
+http://www.stm32duino.com/viewtopic.php?t=117&start=30 (Search for schematic) (BluePill-6-STM32F103C8T6原理图.pdf)
+(See comments..some errors in schematic)
+http://www.diystompboxes.com/smfforum/index.php?topic=82609.25;wap2
+
+Red Board vs Blueboard
+http://stm32duino.com/viewtopic.php?t=117
+
+buy schematic
+http://www.ensogo.com.my/deals/stm32f103vet6-pcb-board-schematic-design-file-stm32f103-sd-sp3232-designed-by-altium-designer-ad-diy-kit
+
+buy boards
+ebay, aliexpress, 
+https://vcc-gnd.world.taobao.com/ <-- site from bluepill schematic was taken
+
+datasheets
+http://www.jotrin.com/product/list?keyword=stm32f103&searchType=HeadSearch#details
+Maybe STM32F103C8T6: 	STM32F103C8 -> heading onf datasheet STM32F103x8
+						STM32F103T6 -> gives number of gpio pins, spi blocks etc,. see p.g.10(Device Overview)
+SEE ORDERING INFROMATION PAGE OF DATASHEET --> to get meaning of the naming(STM32F103c8T6)
+
+
+
+STM32 MCU selection guide
+STMCU selecting guide (2014-08).pdf
+
+http://www.cnczone.com/forums/archive/index.php/t-283428.html
+
+***************
+https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Programming-an-STM32F103XXX-with-a-generic-%22ST-Link-V2%22-programmer-from-Linux
+https://github.com/rogerclarkmelbourne/STM32duino-bootloader/tree/master/STM32F1/binaries
+
+bootloader ******
+http://www.stm32duino.com/viewforum.php?f=32
+http://www.stm32duino.com/viewforum.php?f=28&sid=b0ad0c5ad95cadf25be89a0c9620adb5
+http://www.stm32duino.com/viewtopic.php?f=28&t=947
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=generic%20stm32%20boards%20bootloader
+
+https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Uploading
+https://github.com/rogerclarkmelbourne/Arduino_STM32
+https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki
+https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/stm32duino-bootloader
+https://www.hackster.io/rayburne/4-dollar-90-mips-32-bit-72-mhz-arm-arduino-f6e5c9
+https://en.wikipedia.org/wiki/STM32#STM32
+http://www2.st.com/content/st_com/en/products/development-tools/hardware-development-tools/development-tool-hardware-for-mcus/debug-hardware-for-mcus/debug-hardware-for-stm32-mcus/st-link-v2.html?sc=internet/evalboard/product/251168.jsp
+http://electronics.stackexchange.com/questions/206521/how-to-use-external-st-link-to-debug-program-stm32f103-mcu
+
+
+
+PCB assembling machine
+https://en.wikipedia.org/wiki/SMT_placement_equipment
+
+
+youtube channel
+https://www.youtube.com/user/synergie8/videos
+
+https://community.arm.com/thread/8782
+http://forum.arduino.cc/index.php?topic=310743.30
+https://ourduino.wordpress.com/category/arm/cortex-m3/ ***
+
+https://www.google.co.in/search?q=stm32+diy+board&espv=2&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiZ1sfah7nMAhUCX5QKHaWiBdgQsAQIIg#tbm=isch&q=stm32f103+generic+board+%22schematic%22&imgrc=8Yp9yojLOCY9rM%3A
+https://www.google.co.in/search?q=bluepill+schematic&oq=bluepill+schematic&aqs=chrome..69i57.5247j0j4&sourceid=chrome&ie=UTF-8#q=stm32f103c8++gerber+files
+https://www.google.co.in/search?q=stm32f103+++board+files&biw=1093&bih=514&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjAueippbnMAhUHKKYKHUceDM0QsAQIIQ#tbm=isch&q=stm32f103c8+gerber+files
+
+
+Generic STM32 boards need additional hardware for programming and with Maplemini we can directly jump to Arduino ide
+	Hello,
+	sadly some "wise" sellers updated their product description headline and sell generic STM32 boards as maple mini:
+	example:
+	http://www.aliexpress.com/item/leaf-lab ... 4.2.kX8nH8
+	As you can see on the photo, this is a "blue pill" (also supported, but different in hardware), but NOT a maple mini! So you can't use it without additional hardware (ST-link, serial-USB converter)
+http://www.stm32duino.com/viewtopic.php?t=341
+Generic --> famous one has STM32F103C8T6 --> 64 KB Flash
+Maplemini  -->  STM32F103RCBT6 --> 128KB Flash
+
+
+https://www.hackster.io/rayburne/maple-mini-clone-update-74468b
+
+Maple mini original Bootloader 
+http://leaflabs.com/
+http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/bootloader.html
+Maple mini Bootlader ..edited version
+https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Bootloader
+[	Pin D23 is the USB D+ line, and D24 is the USB D- line. To use them as GPIOs, your program
+	will need to disable SerialUSB first. Be aware, however, that disabling SerialUSB means that
+	the bootloader won’t work properly, and you’ll need to use Perpetual Bootloader Mode to make
+	your next upload.
+	http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/hardware/maple-mini.html ]
+
+
+http://www.stm32duino.com/viewtopic.php?t=466
+http://forum.arduino.cc/index.php?topic=265904.0
+
+Options
+1. Maple mini
+	a. Buy them from stores (Preloaded with bootloader -> Direct usage with arduino IDE (Hardware
+		support libraries should be place first in the corresponding folders))
+	b. Clone them from PCB manufacturers in karnataka
+		Load Bootloader(Original one or edited one (Edited one is good w.r.t memory things, it was
+		edited some expert and is avaliable online..link is above somewhere)) --> Then jump to Arduino IDE (Hardware
+		support libraries should be place first in the corresponding folders)
+2. Generic STM32F103 Boards
+	a. Buy them online..NOt preloaded with Bootlader...Load it via serial port or ST-Link
+		Then go for Arduino IDE (Hardware support libraries should be place first in the
+		corresponding folders)
+	b. You have the schematics of the blue board in pdf format(they have some errors), get/draw eagle schematics,
+		Layout the PCB, Get it manufactured. Then same as 2.a.
+
+3.  Maple boards other than mini..for higher gpio pins, memory etc,.
+	Follow same steps as in Option 1
+
+4. Maple boards(mini, native, maple etc,.). just do some editing like replacing the STM32F103aaaa by
+	STM32F103bbbb.. Rest is same (No..maybe old maple bootloader will not work for it..EDit old maple bootloaders or
+	...Now you can view it as some feneric STM32 board & not specific to maple, so do the things that you
+	would do for Option2)
+
+5. Merge 2.b with 4
+
+6. See for the maplemini..don't do hardware changes..instead of using maple bootloader, use generic
+	bootloader..see if its advantageous..
+
+		^
+		|
+		|
+	Is OK for testing Purposes, for final product point of view, for the sake of ease of connections and
+	for driving more panels from the single MCU board..Do the below.
+***********
+Can GPIO pins can be used as SPI?
+	If so, get as many SPI pins as you want of the GPIOs....Connect them 16pin ISP headers on the PCB, so
+	that multiple rows of daisy chained panels can be driven by the MCU Board
+If not, STM32F103 boards have 2 SPI Blocks by default (Except STM32F103Tx), for them do the above 
+	atleast.
+Bitbanging
+	https://en.wikipedia.org/wiki/Bit_banging
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bitbanging+arm+spi
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bitbanging+arm+spi+arduino
+	http://stackoverflow.com/questions/30390157/bit-banging-for-spi-in-arm
+	https://github.com/uraimo/SwiftyGPIO
+
+Programming Maple boards(or STM32 Boards in general) with keil
+	http://electronics.stackexchange.com/questions/167665/how-can-stm32-on-maple-mini-leaflabs-be-programmed-using-keil
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+code+keil+
+	https://www.google.co.in/search?q=development+studio&oq=development+studio&aqs=chrome..69i57j69i60l2j69i65j69i61l2.4767j0j7&sourceid=chrome&ie=UTF-8#q=arm+ide+bootloader
+	https://en.wikipedia.org/wiki/List_of_ARM_Cortex-M_development_tools
+	https://www.google.co.in/search?q=arm+bootloader&oq=arm+bootloader+&aqs=chrome..69i57j69i60.3862j0j7&sourceid=chrome&ie=UTF-8
+	http://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device
+	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=maple%20mini%20keil
+	http://forums.leaflabs.com/topic.php?id=74083
+
+	
+By doing these
+	you eliminated using 8 bit Atmega...but are using an industry standard 32bit arm MCU(and higher memory)
+	you eliminated "Arduino IDE"
+	you may get cloning done by yourself for cheaper cost
+	Cost wise also..arm boards are worth than the atmega boards
+	Arm boards are better in formfactor wise too
+	By this you will combining the hardware strength of the arm, the software strength of the
+		Arduino, and IDE capabilities of Keil!!!
+=========================================================================================================
+=========================================================================================================
+
