@@ -13,7 +13,7 @@ I took a pause on works related to this from 1st May, to resume my M.Tech reated
 
 
 LED Scrolling text (schools, shops etc,.)
-LED Name badge
+LED Name badge (Companies, conferences, Schools(union days), Hotels etc,.)
 LED Pixel art for ISCON, Cofee BAR, for others
 LED Floors
 LED Strips for home decoration and shop decoration
@@ -92,6 +92,8 @@ LED Scroll Business model
 11. videos
 12. change animation ..request sent to us.. we configure it via internet (wifi module on LED panel + wifi hotspot)
 	(Recurring income) (add wifi module only if they esnt this kind of model + add extra cost for including this module)
+13. Online marketing: Flipkart, Snapdeal, Amazon, ebay.in, ebay.com, Aliexpress, Alibaba
+14. Salesmans
 
 Software end
 Need to develop android apps
@@ -135,6 +137,8 @@ Legal things
 Register firm + TIN Number
 Get certification and M.R.P for your product(Mark it as some very high price)
 
+
+
 Few marketing things
 Say it is imported from Japan, Korea, Taiwan (Not Chinese)
 Say cost as some odd number and not round figures (Ex. Not Rs.11,000, but Rs.11,368 or Rs.11,368)
@@ -144,6 +148,10 @@ Leave many business cards with them, manuall distribute business cards to potent
 For first few customers --> very high standard product and service delivery with moderate charges
 Keep local electrical and LED shops in loop (have good repo with them)(give commision)
 Use the photos and honour the great scientist related to LED, Electronics, Embedded, Software (Edison etc,) on the packaging (See if its legal)
+Name badge case: Create a brochure/phamphlet(digital+print)
+	Send e-copies to HR departments, Principals etc,.
+
+
 
 jumping to bootloader via software
 https://www.pjrc.com/teensy/jump_to_bootloader.html
@@ -3048,4 +3056,57 @@ LEDStudio -->  	Username: Roger
 				Company: Hot Electronics
 				password: 888888
 				168, (linsn,168), 888
-				
+		
+http://www.getdistributors.com/franchises-search.html
+
+Selling agency ads brochures
+http://www.sarojads.com/brochures-designing-services.html
+http://www.sarojads.com/graphics-designing-services.html
+http://www.dentsu.in/
+http://bangalore.yellowpages.co.in/Direct+Sales+Agency
+https://www.google.co.in/search?q=sales+agency+bangalore&oq=sales+agency+bangalore&aqs=chrome..69i57.5423j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=electronics%20sales%20agency
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=sell+your+product+through+salesman
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#cr=countryIN&tbs=ctr:countryIN&q=agencies+to+sell+your+product+bangalore
+
+Registering a company
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=register+a+firm+in+india
+https://www.quora.com/What-is-the-procedure-to-register-a-startup-company-in-India-and-how-much-will-it-cost
+http://trak.in/tags/business/2009/07/01/starting-business-in-india-simplified-process/
+http://mca.gov.in/MinistryV2/RegisterNewComp.html
+http://www.myonlineca.in/
+http://www.startupfreak.com/sole-proprietorship-procedure-business-licenses/
+
+firm vs llp vs company
+http://www.llponline.in/compare_llp_result.php
+http://www.indiafilings.com/learn/partnership-vs-llp-vs-private-limited-company/
+http://www.llponline.in/tax_llp.php
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=can%20govt%20employee%20be%20proprietorship
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=firm%20vs%20llp%20vs%20company
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=proprietorship+vs+firm+vs+company
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=llp%20taxation%20is%20on%20total%20transactions%20or%20just%20profit
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=opc%20vs%20pvt.%20ltd
+http://www.indiafilings.com/learn/one-person-company-vs-private-limited-company/
+
+
+Certification
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=electronic+product+certification&tbs=ctr:countryIN&cr=countryIN
+http://www.bis.org.in/middle1.asp?q=165
+http://www.bis.org.in/cert/prod_cert_scheme.asp
+http://www.business-standard.com/article/economy-policy/electronics-industry-facing-bis-certification-challenge-113061701010_1.html
+http://deity.gov.in/esdm/standards
+http://www.bis.org.in/home_product.asp
+
+
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=china+company+franchise+search
+http://www.alibaba.com/countrysearch/CN/franchise-for-sale.html
+http://www.franchisedirect.com/internationalfranchises/china/computer-internet-franchises/43/12/
+http://www.franchisedirect.com/computerinternetfranchises/ordersin-10259/
+
+https://www.google.co.in/search?q=llp+tax&oq=llp+tax&aqs=chrome..69i57j0l5.2735j0j7&sourceid=chrome&ie=UTF-8
+http://www.charteredclub.com/partnership-tax/
+http://www.indiafilings.com/learn/limited-liability-partnership-llp-taxation/
+http://www.startbizindia.in/llp_taxation.php
+
+
+Proprietorship, partnership, LLP(Limited Liability Partnership), Company ... Pvt. Ltd, OPC(One person company)
