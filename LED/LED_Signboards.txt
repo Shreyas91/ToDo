@@ -70,6 +70,9 @@ https://www.youtube.com/watch?v=HCcn-x09mY0
 	Floor: 80x615cm and 80x530cm aluminum composite panels 
 	Letters: letters LED illuminated plexiglass box 
 	Animation: 750 30mm pixel LED module
+https://www.youtube.com/watch?v=r7Da1LvxPy0
+	https://www.youtube.com/watch?v=i7BAGOd0pZE
+
 
 LED Scroll Business model
 1. Text + one time configured + Non Scrolling + Whole text string ON and OFF type
@@ -2937,7 +2940,6 @@ https://www.youtube.com/channel/UC_NaA2HkWDT6dliWVcvnkuQ
 download videos ... after effects + premier pro
 https://vimeo.com/18569723
 https://www.youtube.com/watch?v=A-HE603YhTs
-https://www.youtube.com/watch?v=1QnlnDv8KM0 ****
 https://www.youtube.com/watch?v=_8DMEHxOLQE
 https://vimeo.com/85913081
 https://www.youtube.com/watch?v=uOSRx7qP10M
@@ -2945,8 +2947,6 @@ https://www.youtube.com/watch?v=I6H0tWgo16s
 https://youtu.be/HlV_5tC8GUc
 https://www.youtube.com/watch?v=JQ7ev6QWa_4
 https://www.youtube.com/watch?v=qZzbhT-pkOQ
-https://www.youtube.com/watch?v=kAMF4eUUPmU ****
-https://www.youtube.com/watch?v=TcWbwC_vhrc ****
 https://www.youtube.com/watch?v=C913enLWYxE
 https://www.youtube.com/watch?v=AQ8xW-NQp6E
 https://www.youtube.com/watch?v=1QnlnDv8KM0
@@ -2962,6 +2962,9 @@ https://www.youtube.com/watch?v=-HEbnR3QEWg **** awesome [Can also be used to cr
 https://www.youtube.com/watch?v=w-JG1n_Yeo8 ****
 https://www.youtube.com/watch?v=fevHErfYbjA **** Logo animation
 https://www.youtube.com/watch?v=X_wIyLaywcA
+https://www.youtube.com/watch?v=4AKw_IaKcQE Flaming text
+https://www.youtube.com/watch?v=jpmFiC5JtG8 Cinamic titles
+https://www.youtube.com/watch?v=DE7WlNcYsEQ
 
 
 Search terms
@@ -3007,3 +3010,42 @@ eduimpulse [Its a english name (Good for market)]
 5. Have a symbol similar to Broadcom
 6. Symbol see gmail (search for eduimpulse symbol trademark) [Simple, Small, Meaningful]
 ========================================================================================================
+http://thecreatorsproject.vice.com/en_us
+http://www.intrawallpaper.com/background#static/images/violet-vector-leaves-circles-backgrounds-for-powerpoint_PdfkI4q.jpg
+http://feelgrafix.com/group/background-images.html
+
+
+Kannada fonts
+http://www.dafont.com/
+http://www.1001freefonts.com/
+http://stackoverflow.com/questions/19257422/where-does-adobe-cc-store-typekit-files-locally
+
+
+https://github.com/scanlime/fadecandy
+Glediator
+JInx
+Madrix
+LEDShowTW
+pixelcontroller
+Minotor
+
+
+Charlieplexing
+http://playground.arduino.cc/Code/Charlieplex
+https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=charlieplexed+led+matrix
+https://en.wikipedia.org/wiki/Charlieplexing
+http://www.instructables.com/id/Charlieplexing-LEDs--The-theory/
+Digital clock with charlieplexing --> https://www.youtube.com/watch?v=LrJBKeXeBc0
+Binary  clock -> https://www.youtube.com/watch?v=C4rBmDo5vx4
+
+
+https://forum.pjrc.com/archive/index.php/t-28211.html\
+https://www.youtube.com/watch?v=bNE8TCSc6R8
+
+
+LEDshowTW password 168,888
+LEDStudio -->  	Username: Roger
+				Company: Hot Electronics
+				password: 888888
+				168, (linsn,168), 888
+				
