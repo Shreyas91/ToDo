@@ -14,7 +14,8 @@ I took a pause on works related to this from 2nd May, to resume my M.Tech reated
 
 LED Scrolling text (schools, shops etc,.)
 LED Name badge (Companies, conferences, Schools(union days), Hotels etc,.)
-LED Pixel art for ISCON (KrishPad), Cofee BAR, for others
+LED Pixel art for ISCON (KrishPad), ChristPad(amazon.com, ebay.com, amazon.in etc,.), Cofee BAR, for others...
+	http://www.amazon.in/Merlin-7-Digital-photo-Frame/dp/B00OROG55Y?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=b9edb0a8-b741-4ef7-8a8f-8c27adbf7f14
 LED Floors
 LED Strips for home decoration and shop decoration
 LED animations(https://www.youtube.com/watch?v=cyKkk9CgKOo) .. Nameplates like this (http://temelelektronik.info/devre.aspx?devre=310)
@@ -37,7 +38,7 @@ LED animations(https://www.youtube.com/watch?v=cyKkk9CgKOo) .. Nameplates like t
 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=led+sign+animation
 LED Games http://www.instructables.com/id/900-LED-display/?ALLSTEPS
 Using LED strips make LED Panels
-Marriage market
+Marriage market(Led Video Walls made of strips/Panels)
 beat-synced visuals, pixel girls, pixels animals etc,. (https://dvjvision.com/downloads/)
 	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=Pixel+animation
 	https://www.google.co.in/search?q=Pixel+Girls&oq=Pixel+Girls&aqs=chrome..69i57j69i60l2&sourceid=chrome&ie=UTF-8#q=animated+gif+girl
@@ -3243,7 +3244,8 @@ Options
 		support libraries should be place first in the corresponding folders))
 	b. Clone them from PCB manufacturers in karnataka
 		Load Bootloader(Original one or edited one (Edited one is good w.r.t memory things, it was
-		edited some expert and is avaliable online..link is above somewhere)) --> Then jump to Arduino IDE (Hardware
+		edited some expert and is avaliable online..link is
+		https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Bootloader)) --> Then jump to Arduino IDE (Hardware
 		support libraries should be place first in the corresponding folders)
 		Note: PCB files need to be edited to add Jumpers(to enter serial bootloader mode), 4 angled
 		pin header for serial communication (STLink etc,.)
@@ -3307,6 +3309,58 @@ By doing these
 	Arm boards are better in formfactor wise too
 	By this you will combining the hardware strength of the arm, the software strength of the
 		Arduino, and IDE capabilities of Keil !!!
-=========================================================================================================
-=========================================================================================================
 
+Designing own PCB boards
+http://www.28pins.com/
+https://www.youtube.com/results?q=Design+Your+Own+PCB+Board&sp=EgIYAg%253D%253D
+https://www.google.co.in/search?q=Design+Your+Own+PCB+Board&oq=Design+Your+Own+PCB+Board&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8#q=Design+Your+Own+PCB+Board&tbm=vid&tbs=dur:l
+
+Altium tutorials
+https://www.youtube.com/results?search_query=altium+tutorial
+
+PCB
+https://www.google.co.in/search?q=pcb+layers&oq=pcb+layers&aqs=chrome.0.0l6.2151j0j7&sourceid=chrome&ie=UTF-8
+https://learn.sparkfun.com/tutorials/how-to-read-a-schematic
+https://learn.sparkfun.com/tutorials/pcb-basics
+http://www.pcb.electrosoft-engineering.com/04-articles-custom-system-design-and-pcb/01-printed-circuit-board-concepts/printed-circuit-board-pcb-concepts.html
+http://www.bitweenie.com/listings/pcb-layers/
+http://www.edaboard.com/thread209923.html
+http://www.edaboard.com/thread208719.html
+=========================================================================================================
+=========================================================================================================
+Fedeval academy
+https://www.youtube.com/user/matarofe/videos?sort=dd&view=0&flow=grid
+http://www.fedevel.com/
+http://www.fedevel.com/academy/
+http://www.fedevel.com/academy/course-comparison/
+
+
+https://www.youtube.com/user/matarofe/videos <-- Download the channel
+https://www.youtube.com/watch?v=CDAuCchchtI
+https://www.youtube.com/watch?v=6i4LeVzQqLk
+
+LED Panel schematics Reverse engineering
+https://bryanduxbury.com/category/open-source-hardware/
+http://www.reverse-engineer-service.com/replicate-led-panel-control-circuit-board/
+http://led-stuebchen.de/index.php?page=content&coID=10
+https://www.vogatek.com/electronic-projects/145/index.html
+https://www.google.co.in/#q=%22led%22+billboard+%22schematic%22+board+files&start=10
+https://www.google.co.in/?ion=1&espv=2#q=reverse+engineering+pcb+bangalore
+INDIA
+http://www.smdepl.com/reverse-engineering.html#rev
+http://www.smdepl.com/enquiry.php#contact
+http://www.renukaelectronics.com/reverse-engg
+
+
+
+http://prodisplay.com/products/lcd-advertising-screen/
+http://www.amazon.in/s/ref=bl_dp_s_web_976419031?ie=UTF8&node=976419031&field-brandtextbin=Merlin+Digital
+http://www.amscreen.eu/digital-signage/signage-solutions/digital-screens/
+http://prodisplay.com/products/lcd-advertising-screen/
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=0ahUKEwiiw43pj7vMAhUSj44KHcOXBzIQFghKMAM&url=http%3A%2F%2Fwww.display-innovations.com%2Fdisplays%2F6-17_digital.php&usg=AFQjCNE_EojG_sPai878f8N2hN2WlU0fUg&sig2=ev4A42hHlXmhrfmB1GY3Rw&bvm=bv.121070826,d.c2E&cad=rja
+
+
+http://docs.pixelmatix.com/SmartMatrix/shieldref.html
+http://docs.pixelmatix.com/SmartMatrix/
+https://github.com/pixelmatix/SmartMatrix
+https://plus.google.com/communities/105354523738870531811
