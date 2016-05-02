@@ -1,5 +1,5 @@
 Idea related to LED was first talked with Guruprasad in Benne Dose Shop near my room in
-	Nandini layout on March 31st morning(We were on bangalore that day to attend "Think Nano" 
+	Nandini layout on March 31st morning(We were on bangalore that day to attend "Think Nano"
 	conference at IISc). It was a very vague, non deep conversation of just a minute or two.
 	The thing we talked was to build the led minki minki that are used in the DEVERA Photo in buses!!.
 Then while frustrated on non progress on the raspberry pi based minicpu, i was looking for other ideas todo. At that
@@ -67,8 +67,8 @@ ABC weds DFG, abaka weds kaKagaGa, Heart LED symbol in the middle (in the namebo
 		is outsourced to electrical shops/diploma freshers or use DIP soldering machine
 	See if you can modularize the production and coding
 https://www.youtube.com/watch?v=HCcn-x09mY0
-	Floor: 80x615cm and 80x530cm aluminum composite panels 
-	Letters: letters LED illuminated plexiglass box 
+	Floor: 80x615cm and 80x530cm aluminum composite panels
+	Letters: letters LED illuminated plexiglass box
 	Animation: 750 30mm pixel LED module
 https://www.youtube.com/watch?v=r7Da1LvxPy0
 	https://www.youtube.com/watch?v=i7BAGOd0pZE
@@ -3056,7 +3056,7 @@ LEDStudio -->  	Username: Roger
 				Company: Hot Electronics
 				password: 888888
 				168, (linsn,168), 888
-		
+
 http://www.getdistributors.com/franchises-search.html
 
 Selling agency ads brochures
@@ -3156,7 +3156,7 @@ buy schematic
 http://www.ensogo.com.my/deals/stm32f103vet6-pcb-board-schematic-design-file-stm32f103-sd-sp3232-designed-by-altium-designer-ad-diy-kit
 
 buy boards
-ebay, aliexpress, 
+ebay, aliexpress,
 https://vcc-gnd.world.taobao.com/ <-- site from bluepill schematic was taken
 
 datasheets
@@ -3222,7 +3222,7 @@ Maplemini  -->  STM32F103RCBT6 --> 128KB Flash
 
 https://www.hackster.io/rayburne/maple-mini-clone-update-74468b
 
-Maple mini original Bootloader 
+Maple mini original Bootloader
 http://leaflabs.com/
 http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/latest/bootloader.html
 Maple mini Bootlader ..edited version
@@ -3245,6 +3245,8 @@ Options
 		Load Bootloader(Original one or edited one (Edited one is good w.r.t memory things, it was
 		edited some expert and is avaliable online..link is above somewhere)) --> Then jump to Arduino IDE (Hardware
 		support libraries should be place first in the corresponding folders)
+		Note: PCB files need to be edited to add Jumpers(to enter serial bootloader mode), 4 angled
+		pin header for serial communication (STLink etc,.)
 2. Generic STM32F103 Boards
 	a. Buy them online..NOt preloaded with Bootlader...Load it via serial port or ST-Link
 		Then go for Arduino IDE (Hardware support libraries should be place first in the
@@ -3274,7 +3276,7 @@ Options
 Can GPIO pins can be used as SPI?
 	If so, get as many SPI pins as you want of the GPIOs....Connect them 16pin ISP headers on the PCB, so
 	that multiple rows of daisy chained panels can be driven by the MCU Board
-If not, STM32F103 boards have 2 SPI Blocks by default (Except STM32F103Tx), for them do the above 
+If not, STM32F103 boards have 2 SPI Blocks by default (Except STM32F103Tx), for them do the above
 	atleast.
 Bitbanging
 	https://en.wikipedia.org/wiki/Bit_banging
@@ -3293,7 +3295,10 @@ Programming Maple boards(or STM32 Boards in general) with keil
 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=maple%20mini%20keil
 	http://forums.leaflabs.com/topic.php?id=74083
 
-	
+Maple and generic bootloaders with Keil?
+Arduino sketches with keil?(setup(),loop())?
+
+
 By doing these
 	you eliminated using 8 bit Atmega...but are using an industry standard 32bit arm MCU(and higher memory)
 	you eliminated "Arduino IDE"
@@ -3301,7 +3306,7 @@ By doing these
 	Cost wise also..arm boards are worth than the atmega boards
 	Arm boards are better in formfactor wise too
 	By this you will combining the hardware strength of the arm, the software strength of the
-		Arduino, and IDE capabilities of Keil!!!
+		Arduino, and IDE capabilities of Keil !!!
 =========================================================================================================
 =========================================================================================================
 
