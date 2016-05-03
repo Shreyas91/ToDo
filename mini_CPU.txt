@@ -42,6 +42,7 @@ http://stackoverflow.com/questions/16376957/raspberry-pi-embedded-programming-ex
 There are numerous companies that provide large varieties of open-source electronics such as 
 	Sparkfun
 	Adafruit
+	http://www.electronics-lab.com/
 https://en.wikipedia.org/wiki/Open-source_hardware
 	See the references section of the above
 https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
@@ -49,12 +50,31 @@ https://en.wikipedia.org/wiki/Category:Open-source_hardware
 opencores.org
 https://en.wikipedia.org/wiki/Open-source_computing_hardware
 
+http://opensourceecology.org/wiki/Open_Hardware_Repository
+	Instructables
+	MAKE:Projects
+	Thingiverse
+	Ponoko
+	Shapeways
+	i.Materialise
+	Content Central
+	1000k Garages
+	TinkerCAD
+	http://makerfaire.com/
+	http://www.liquidware.com/
+https://www.quora.com/What-are-the-best-examples-of-open-source-hardware
+http://www.e5.org/projects/commons-sensitive-economy/open-source-tech/open-hardware-projects/
+http://chumby.com/
+http://www.opencircuits.com/Main_Page
+
 http://dangerousprototypes.com/
 http://www.mouser.in/applications/open-source-hardware/
 http://waldenlabs.com/17-open-source-hardware-projects/
 http://www.shareable.net/blog/10-awesome-open-source-hardware-and-design-projects
 http://www.open-electronics.org/10-of-the-most-incredible-open-source-hardware-projects-born-in-2013/
 
+Power supply design
+https://www.youtube.com/playlist?list=PLo988HxyJgRGNLqzrah043oo6BJfm_QTY
 
 http://www.openinnovation.eu/open-innovation/
 http://openinnovation.net/

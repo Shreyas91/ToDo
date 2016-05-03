@@ -9,7 +9,7 @@ Github repo was started on April 13th (by that time, already few contents were t
 [I had to write to tests for 2 subjects of M.tech (one test was postponed for me because of the bike mishap in which
 	i injured right leg)]
 
-I took a pause on works related to this from 2nd May, to resume my M.Tech reated works on full scale.
+I took a pause on works related to this from 5th May, to resume my M.Tech reated works on full scale.
 
 
 LED Scrolling text (schools, shops etc,.)
@@ -73,6 +73,7 @@ https://www.youtube.com/watch?v=HCcn-x09mY0
 	Animation: 750 30mm pixel LED module
 https://www.youtube.com/watch?v=r7Da1LvxPy0
 	https://www.youtube.com/watch?v=i7BAGOd0pZE
+http://www.globalsources.com/gsol/I/Billboard/p/sm/1134992220.htm?&GSPAprodID=27883&GSPApos=vatosxf582894_D_PP_20160502_2of2&WT.Login_ID=vatosxf582894&WT.eDM_sent=20160502&WT.mc_id=2002085&pa_email_token=PksdbJYkj4XzTTRitRF2iWal4uo22faJmSkjfC4huuM%3D&TierType=Tier4&BuyerID=4006811861292#1134992220
 
 
 LED Scroll Business model
@@ -3034,9 +3035,22 @@ https://github.com/scanlime/fadecandy
 Glediator
 JInx
 Madrix
+eyetv
+QuickTicker http://schnickschnacksystems.com/en/products/software/quickticker/ see product descpritons, other details etc,.
+PixelPatch
+	https://www.youtube.com/user/schnickschnacksystem/videos
+	https://www.youtube.com/watch?v=gS_4X2M0OdI
+	https://www.youtube.com/watch?v=JSso6wWQkNQ
+	PixelPatch & QuickTicker are good softwares but couldn't get the serials
+emulator pro
+	http://www.elationlighting.com/ProductDetails.aspx?ItemNumber=1884
+	https://www.google.co.in/#q=emulator+pro+dj+crack
+	http://www.dailymotion.com/video/x2im3gh
+	https://torrentz.eu/search?q=emulation+pro
 LEDShowTW
 pixelcontroller
 Minotor
+
 
 
 Charlieplexing
@@ -3125,8 +3139,19 @@ https://www.obdev.at/products/vusb/index.html
 https://www.youtube.com/watch?v=bTlM27jzOIQ
 
 
+
+
+
 =========================================================================================================
 =========================================================================================================
+=========================================================================================================
+=========================================================================================================
+http://fw.hardijzer.nl/?p=223 <--- **************************************************************
+http://www.rayslogic.com/propeller/programming/AdafruitRGB/AdafruitRGB.htm
+http://bikerglen.com/projects/lighting/led-panel-1up/
+
+http://www.electronics-lab.com/?s=LED+matrix
+
 http://www.rogerclark.net/stm32f103-and-maple-maple-mini-with-arduino-1-5-x-ide/
 
 https://github.com/leaflabs/maplemini
@@ -3238,8 +3263,16 @@ https://github.com/rogerclarkmelbourne/Arduino_STM32/wiki/Bootloader
 http://www.stm32duino.com/viewtopic.php?t=466
 http://forum.arduino.cc/index.php?topic=265904.0
 
+Bootloaders
+http://www.stm32duino.com/viewforum.php?f=32&sid=424c8485af604e63a9cfbc666cfb509f
+http://www.stm32duino.com/viewforum.php?f=10&sid=424c8485af604e63a9cfbc666cfb509f
+http://www.stm32duino.com/viewforum.php?f=33&sid=424c8485af604e63a9cfbc666cfb509f
+
+
+https://en.wikipedia.org/wiki/STM32#Development_boards
+
 Options
-1. Maple mini
+1. Maple mini (STM32F103CBT6)
 	a. Buy them from stores (Preloaded with bootloader -> Direct usage with arduino IDE (Hardware
 		support libraries should be place first in the corresponding folders))
 	b. Clone them from PCB manufacturers in karnataka
@@ -3257,10 +3290,10 @@ Options
 		Layout the PCB, Get it manufactured. Then same as 2.a.
 
 3.  Maple boards other than mini..for higher gpio pins, memory etc,.
-	Follow same steps as in Option 1
+	Follow same steps as in Option 1 ..... (STM32F103RGT6 is better than any of the maples)
 
 4. Maple boards(mini, native, maple etc,.). just do some editing like replacing the STM32F103aaaa by
-	STM32F103bbbb.. Rest is same (No..maybe old maple bootloader will not work for it..EDit old maple bootloaders or
+	STM32F103bbbb.. Rest is same (No..maybe old maple bootloader will not work for it..Edit old maple bootloaders or
 	...Now you can view it as some feneric STM32 board & not specific to maple, so do the things that you
 	would do for Option2)
 
@@ -3268,6 +3301,35 @@ Options
 
 6. See for the maplemini..don't do hardware changes..instead of using maple bootloader, use generic
 	bootloader..see if its advantageous..
+
+7. FPGA
+
+8. STM32F103RGT6(1 MB Flash)
+	Nucleo board for STM32f103R8 is available...the shcematics files are open (
+		http://www2.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f1-series/stm32f103/stm32f103r8.html#samplebuy-scroll
+		http://www2.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-f103rb.html
+	)
+	Try to replace just the STM32f103R8 with STM32F103RGT6 (see the mechanical dimensions of both are same ... checked
+	...dimensions are same for same no. of pins MCU) in schematics,
+	and get a prototype printed and test it. (remove unwanted things for mass production, like stlink part etc,.)
+	Nucleo board NUCLEO-F103RB is around Rs.750 only
+		http://www.mouser.in/STMicroelectronics/Embedded-Solutions/Engineering-Tools/Embedded-Development-Tools/Embedded-Processor-Development-Kits/Development-Boards-Kits-ARM/_/N-cxd2t?P=1z0zpefZ1yzt8vxZ1yzf8svZ1yzf91eZ1yzud8sZ1yzoghdZ1yycc3mZ1yznf5v
+	
+	This Nucleoboard is a cuttable PCB
+		The STM32 Nucleo board is divided into two parts: ST-LINK part and target MCU part. The
+	ST-LINK part of the PCB can be cut out to reduce the board size.
+	Hence, you can remove the STlink part from the schematic and just get the remaining part manufactured.
+	
+	Or
+
+	Develop a small board like the maplemini one for this 64 pin MCU (By elimination some subsystems of the Nucleoboards)
+
+9. Rough bottomline for initial work --> 
+	A. BUY
+		Get a Maple mini and/or generic STM32 + STM32F103RGT6 Nucleo Board
+	B. Get manufactured
+		Maple mini and/or generic STM32 + STM32F103RGT6 Nucleo Board
+	C. Design and get manufactured small maplemini type board for STM32F103RGT6
 
 		^
 		|
@@ -3288,6 +3350,7 @@ Bitbanging
 	https://github.com/uraimo/SwiftyGPIO
 
 Programming Maple boards(or STM32 Boards in general) with keil
+	http://www.keil.com/forum/21803/
 	http://electronics.stackexchange.com/questions/167665/how-can-stm32-on-maple-mini-leaflabs-be-programmed-using-keil
 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=arduino+code+keil+
 	https://www.google.co.in/search?q=development+studio&oq=development+studio&aqs=chrome..69i57j69i60l2j69i65j69i61l2.4767j0j7&sourceid=chrome&ie=UTF-8#q=arm+ide+bootloader
@@ -3296,6 +3359,9 @@ Programming Maple boards(or STM32 Boards in general) with keil
 	http://stackoverflow.com/questions/15548004/why-do-we-need-a-bootloader-in-an-embedded-device
 	https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=maple%20mini%20keil
 	http://forums.leaflabs.com/topic.php?id=74083
+	http://www.keil.com/forum/58365/
+
+https://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus#Intel_Enhanced_Serial_Peripheral_Interface_Bus
 
 Maple and generic bootloaders with Keil?
 Arduino sketches with keil?(setup(),loop())?
@@ -3326,8 +3392,43 @@ http://www.pcb.electrosoft-engineering.com/04-articles-custom-system-design-and-
 http://www.bitweenie.com/listings/pcb-layers/
 http://www.edaboard.com/thread209923.html
 http://www.edaboard.com/thread208719.html
+
+FPGA
+http://electronics.stackexchange.com/search?q=user:1681+[fpga]
+https://www.google.co.in/#q=Driving+LED+matrix+displays+with+an+FPGA
+https://learn.adafruit.com/fpga-rgb-matrix/overview
+http://www.electronics-lab.com/driving-led-matrix-displays-with-an-fpga/
+http://www.eevblog.com/forum/microcontrollers/driving-led-matrix-displays-with-an-fpga/
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=0ahUKEwiz-eizr7vMAhWLBY4KHUr_BOkQFghQMAc&url=https%3A%2F%2Fburnt-traces.com%2F%3Fp%3D199&usg=AFQjCNHdfT33Q2HPDNXCVmkfNkiNKI1pFQ&sig2=hLViA1DA3OHbEGJoRQm77A&cad=rja
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwiz-eizr7vMAhWLBY4KHUr_BOkQFghdMAk&url=https%3A%2F%2Fgithub.com%2FDuinoPilot%2Frgbmatrix-fpga&usg=AFQjCNG3HQMtNhBZm4ekKzJ1_ZLQ0L_LEw&sig2=25SfY0Z_T1kd7xe-WMgtww&cad=rja
+
+STM32F4 Series
+STM32F4 MCU series with ARM Cortex-M4 processor including DSP and FPU reaches 225 DMIPS and 608 CoreMark with 180 MHz operating frequency.
+
+http://www2.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32f4-series.html?querycriteria=productId=SS1577
+https://www.youtube.com/watch?v=ATTahQlbBME
+http://stm32f4-discovery.com/
+http://stm32f4-discovery.com/stm32f4-links/
+
+
+Making diffusor for led display
+http://www.instructables.com/id/How-to-make-a-diffusor-for-your-LED-Matrix/?ALLSTEPS
+
+
+STM32F103 boards with 1MB flash
+	STM32F103xF, STM32F103xG (3 SPI, 2 I2S, 112 GPIOs, but still 72 MHz), has inbuilt SDCard interface
+
+See if you can send data via USB,I2c, UART, USART, CAN etc,. along with the SPI interface.
+
+http://www.mikroe.com/easymx-pro/stm32/
+http://www.mikroe.com/stm32/development-boards/
+https://www.arm.com/support/university/students/embedded/embedded-systemsmcus-development-boards-for-students.php
 =========================================================================================================
 =========================================================================================================
+=========================================================================================================
+=========================================================================================================
+
+
 Fedeval academy
 https://www.youtube.com/user/matarofe/videos?sort=dd&view=0&flow=grid
 http://www.fedevel.com/
