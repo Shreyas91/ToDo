@@ -74,6 +74,9 @@ https://www.youtube.com/watch?v=HCcn-x09mY0
 https://www.youtube.com/watch?v=r7Da1LvxPy0
 	https://www.youtube.com/watch?v=i7BAGOd0pZE
 http://www.globalsources.com/gsol/I/Billboard/p/sm/1134992220.htm?&GSPAprodID=27883&GSPApos=vatosxf582894_D_PP_20160502_2of2&WT.Login_ID=vatosxf582894&WT.eDM_sent=20160502&WT.mc_id=2002085&pa_email_token=PksdbJYkj4XzTTRitRF2iWal4uo22faJmSkjfC4huuM%3D&TierType=Tier4&BuyerID=4006811861292#1134992220
+http://www.globalsources.com/gsol/GeneralManager?catalog_id=2000000003844&language=en&action=GetSupplier&page=supplier/ProductDetail&supplier_id=6008849288728&product_id=1138642137&action=GetProduct&PAsource=PASE302_20160505&WT.mc_id=4018001&pa_email_token=PksdbJYkj4XzTTRitRF2iYoYkFs1fyiV5eKCwNKcrxU%3D
+http://www.globalsources.com/gsol/GeneralManager?catalog_id=2000000003844&language=en&action=GetSupplier&page=supplier/ProductDetail&supplier_id=6008802175854&product_id=1088531722&action=GetProduct&PAsource=PASE302_20160505&WT.mc_id=4018001&pa_email_token=PksdbJYkj4XzTTRitRF2iYoYkFs1fyiV5eKCwNKcrxU%3D
+http://www.globalsources.com/gsol/GeneralManager?catalog_id=2000000003844&language=en&action=GetSupplier&page=supplier/ProductDetail&supplier_id=6008825032033&product_id=1132442576&action=GetProduct&PAsource=PASE302_20160505&WT.mc_id=4018001&pa_email_token=PksdbJYkj4XzTTRitRF2iYoYkFs1fyiV5eKCwNKcrxU%3D
 
 
 LED Scroll Business model
@@ -3349,6 +3352,9 @@ Bitbanging
 	http://stackoverflow.com/questions/30390157/bit-banging-for-spi-in-arm
 	https://github.com/uraimo/SwiftyGPIO
 
+en.DM00160482.pdf (AN4655)
+Virtually increasing the number of serial communication peripherals in STM32 applications
+
 Programming Maple boards(or STM32 Boards in general) with keil
 	http://www.keil.com/forum/21803/
 	http://electronics.stackexchange.com/questions/167665/how-can-stm32-on-maple-mini-leaflabs-be-programmed-using-keil
@@ -3423,6 +3429,18 @@ See if you can send data via USB,I2c, UART, USART, CAN etc,. along with the SPI 
 http://www.mikroe.com/easymx-pro/stm32/
 http://www.mikroe.com/stm32/development-boards/
 https://www.arm.com/support/university/students/embedded/embedded-systemsmcus-development-boards-for-students.php
+
+ARM
+https://www.arm.com/support/university/
+https://www.google.co.in/#q=The+ARM+University+Program&tbm=vid&tbs=dur:l
+https://sites.google.com/site/learningeclipsearm/home
+
+ARM Bootloader
+http://www2.st.com/content/st_com/en/search.html#q=bootloader-t=keywords-page=1 *****
+http://www.cse.hcmut.edu.vn/~bvhieu/index.php/vi/student-s-projects-2/computer-engineering-projects-fall-2013/23-home-automation-remote-reprogramming *****
+http://robotics.stackexchange.com/questions/8722/microcontroller-flashing-itself
+http://www.chibios.com/forum/viewtopic.php?t=3058&p=23738
+http://www2.st.com/content/st_com/en/search.html#q=bootloader-t=keywords-page=1
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
@@ -3465,3 +3483,19 @@ http://docs.pixelmatix.com/SmartMatrix/shieldref.html
 http://docs.pixelmatix.com/SmartMatrix/
 https://github.com/pixelmatix/SmartMatrix
 https://plus.google.com/communities/105354523738870531811
+
+
+
+GIF
+https://www.google.co.in/?ion=1&espv=2#q=text+effect+generator+plugin+after+effects
+http://aescripts.com/dojo-text-generator/
+http://filmmakeriq.com/2008/12/aftereffects-plug-in-round-up/comment-page-1/
+http://www.flashvortex.com/signUp.php
+http://en.bloggif.com/text?id=51565b760092d149ff2f1294b249c1ea
+http://softadvice.informer.com/Scrolling_Text_Gif_Creator_Software.html
+http://windows.podnova.com/trends/scrolling_text_animated_gif.html
+http://www.winsite.com/scroll/scroll+gif+text/
+http://www.gifntext.com/
+http://www.bing.com/search?q=windows+GIF+maker+text+scrolling+effects&go=Submit&qs=n&form=QBRE&pq=windows+gif+maker+text+scrolling+effects&sc=1-32&sp=-1&sk=&cvid=6642A74849F9449EB83DDF46B573F6F5
+http://www.pixelan.com/movie-maker/titlefx-text-effects-wizard.htm
+https://www.google.co.in/#q=GIF+maker+text+scrolling+effects
