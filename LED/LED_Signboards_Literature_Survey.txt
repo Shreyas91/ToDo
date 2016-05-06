@@ -3441,6 +3441,14 @@ http://www.cse.hcmut.edu.vn/~bvhieu/index.php/vi/student-s-projects-2/computer-e
 http://robotics.stackexchange.com/questions/8722/microcontroller-flashing-itself
 http://www.chibios.com/forum/viewtopic.php?t=3058&p=23738
 http://www2.st.com/content/st_com/en/search.html#q=bootloader-t=keywords-page=1
+
+Easily build android apps
+http://appinventor.mit.edu/explore/
+http://appinventor.mit.edu/explore/ai2/tutorials.html
+http://appinventor.mit.edu/explore/get-started.html
+https://www.google.co.in/#q=MIT+App+Inventor
+http://ai2.appinventor.mit.edu/
+http://www.appinventor.org/
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
