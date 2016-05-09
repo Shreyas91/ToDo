@@ -3327,6 +3327,17 @@ Options
 
 	Develop a small board like the maplemini one for this 64 pin MCU (By elimination some subsystems of the Nucleoboards)
 
+8*. SMT32f427...Netduino(STM32F427VIT6) (Open Source)... <-- Highest memory, 32-bit Cortex®-M4 CPU, 180 MHz, Up to 6 SPIs
+		http://www.netduino.com/netduino3wifi/specs.htm
+		http://www.netduino.com/netduino3ethernet/specs.htm
+		http://www.mouser.in/new/stmicroelectronics/stm32f4/
+		https://www.google.co.in/?ion=1&espv=2#q=netduino+wiki
+		http://electronics.stackexchange.com/questions/5773/should-i-buy-a-netduino-or-arduino
+		https://en.wikipedia.org/wiki/Netduino
+		http://www.netduino.com/downloads/
+	Just generate a development board PCB for STM32f427 like MCU using nucleo boards or F4 Discovery boards
+	
+
 9. Rough bottomline for initial work --> 
 	A. BUY
 		Get a Maple mini and/or generic STM32 + STM32F103RGT6 Nucleo Board
@@ -3449,6 +3460,33 @@ http://appinventor.mit.edu/explore/get-started.html
 https://www.google.co.in/#q=MIT+App+Inventor
 http://ai2.appinventor.mit.edu/
 http://www.appinventor.org/
+
+
+Overclocking(performance).... increasing the cpu frequency..external clock..PLL
+Underclocking --> power saving
+https://www.google.co.in/#q=stm32f103%20external%20clock&rct=j
+https://www.google.co.in/#q=stm32f103%20increase%20cpu%20frequency&rct=j
+https://www.google.co.in/#q=maximum%20clock%20frequency%20stm32&rct=j
+https://www.google.co.in/#q=stm32+increase+cpu+frequency
+https://www.google.co.in/#q=overclocking+stm32
+http://www.stm32duino.com/viewtopic.php?f=17&t=432
+http://stm32f4-discovery.com/2014/11/overclock-stm32f4-device-up-to-250mhz/
+http://blog.tkjelectronics.dk/2010/02/stm32-overclocking/
+http://electronics.stackexchange.com/questions/58863/how-config-stm32-with-two-different-clock-speeds
+https://forums.xilinx.com/t5/Embedded-Linux/Increase-ARM-CPU-Clock-Frequency-from-667MHz-to-800-MHz/td-p/406769
+https://www.google.co.in/#q=stm32f103+external+clock+to+increase+cpu+frequency
+https://en.wikipedia.org/wiki/Overclocking
+https://en.wikipedia.org/wiki/CPU_multiplier
+https://www.google.co.in/#q=stm32+cpu+multiplier
+
+
+LED Module Manufacturing
+Ready the schematics for both the SMD version and DIP LED version
+SMT --> Automated PCB assembly sevices will be usually there
+DIP --> Automated through hole assembly is needed
+
+https://www.google.co.in/#q=solar+powered+led+billboards
+https://www.alibaba.com/showroom/solar-powered-electronic-billboards.html
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
