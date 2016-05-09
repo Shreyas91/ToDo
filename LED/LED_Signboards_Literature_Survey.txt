@@ -3317,12 +3317,12 @@ Options
 	and get a prototype printed and test it. (remove unwanted things for mass production, like stlink part etc,.)
 	Nucleo board NUCLEO-F103RB is around Rs.750 only
 		http://www.mouser.in/STMicroelectronics/Embedded-Solutions/Engineering-Tools/Embedded-Development-Tools/Embedded-Processor-Development-Kits/Development-Boards-Kits-ARM/_/N-cxd2t?P=1z0zpefZ1yzt8vxZ1yzf8svZ1yzf91eZ1yzud8sZ1yzoghdZ1yycc3mZ1yznf5v
-	
+
 	This Nucleoboard is a cuttable PCB
 		The STM32 Nucleo board is divided into two parts: ST-LINK part and target MCU part. The
 	ST-LINK part of the PCB can be cut out to reduce the board size.
 	Hence, you can remove the STlink part from the schematic and just get the remaining part manufactured.
-	
+
 	Or
 
 	Develop a small board like the maplemini one for this 64 pin MCU (By elimination some subsystems of the Nucleoboards)
@@ -3336,9 +3336,9 @@ Options
 		https://en.wikipedia.org/wiki/Netduino
 		http://www.netduino.com/downloads/
 	Just generate a development board PCB for STM32f427 like MCU using nucleo boards or F4 Discovery boards
-	
 
-9. Rough bottomline for initial work --> 
+
+9. Rough bottomline for initial work -->
 	A. BUY
 		Get a Maple mini and/or generic STM32 + STM32F103RGT6 Nucleo Board
 	B. Get manufactured
