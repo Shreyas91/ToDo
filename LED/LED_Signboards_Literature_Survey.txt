@@ -3487,6 +3487,42 @@ DIP --> Automated through hole assembly is needed
 
 https://www.google.co.in/#q=solar+powered+led+billboards
 https://www.alibaba.com/showroom/solar-powered-electronic-billboards.html
+
+http://www.rogerclark.net/work-around-for-arduino-stm32-with-ide-v-1-6-3-or-newer/
+
+http://www.gigadevice.com/product-category/1.html?locale=en_US
+http://gd32mcu.21ic.com/
+https://community.arm.com/docs/DOC-6201
+
+
+Arduino Tre --> 1 GHz Arduino
+
+
+SECURITY
+	https://www.google.co.in/?ion=1&espv=2#q=stm32+crypto+security
+	http://www2.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries-expansions/stm32-cryp-lib.html
+	https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
+	http://www.codeproject.com/Articles/592275/OTP-One-Time-Password-Demystified
+	http://www.designnews.com/author.asp?section_id=1386&doc_id=279117
+	http://www.atmel.com/devices/ATSHA204A.aspx?tab=documents
+	http://www.atmel.com/products/microcontrollers/ARM/default.aspx
+	http://www.digikey.com/en/articles/techzone/2014/dec/protect-your-mcu-design-from-copying-and-reverse-engineering
+	http://www.onarm.com/forum/15723/
+	https://www.google.co.in/#q=arm%20stm32%20software%20protection&rct=j
+	https://www.google.co.in/#q=arm%20program%20one%20time%20authentication%20lifetime&rct=j
+	https://www.google.co.in/#q=Protect+Your+MCU+Design+from+Copying+and+Reverse+Engine
+	http://www.st.com/st-web-ui/static/active/cn/resource/technical/document/user_manual/CD00208802.pdf
+
+	https://blog.arduino.cc/2014/05/13/arduino-tre-developer-edition/
+	http://e2e.ti.com/blogs_/b/toolsinsider/archive/2013/10/03/introducing-arduino-tre
+
+	http://www.st.com/web/en/fragment/corporate/event_information/event_image/Securing_Assets_Micro_Designs.pdf ********
+	http://www.embedded.com/design/safety-and-security/4409575/Building-a-security-optimized-embedded-design-using-protected-key-storage- *****
+	http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.dai0179b/CHDFDFIG.html
+	http://www.arm.com/products/processors/technologies/trustzone/
+	http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka12723.html
+	https://github.com/libopencm3/libopencm3-examples/tree/master/examples/stm32/f4/other/crypto-basic
+	http://www.oryx-embedded.com/cyclone_ssl.html
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
