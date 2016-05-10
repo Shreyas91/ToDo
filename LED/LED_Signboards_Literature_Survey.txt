@@ -3499,6 +3499,10 @@ Arduino Tre --> 1 GHz Arduino
 
 
 SECURITY
+https://www.google.co.in/?ion=1&espv=2#q=atsha204a+tutorial
+https://learn.sparkfun.com/tutorials/crypto-shield-hookup-guide
+https://www.sparkfun.com/products/retired/11551
+https://learn.sparkfun.com/tutorials/crypto-shield-hookup-guide/all
 	https://www.google.co.in/?ion=1&espv=2#q=stm32+crypto+security
 	http://www2.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries-expansions/stm32-cryp-lib.html
 	https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
@@ -3523,6 +3527,14 @@ SECURITY
 	http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.faqs/ka12723.html
 	https://github.com/libopencm3/libopencm3-examples/tree/master/examples/stm32/f4/other/crypto-basic
 	http://www.oryx-embedded.com/cyclone_ssl.html
+
+I think "Unique Device ID" comes to use in case of having security
+Atmel AT88CK490 evaluation kit, CryptoAuth Xplained Pro Development Kit etc,. (Atmel-8804-CryptoAuth-Kit-Guide-Flyer.pdf)
+
+Step1:	Use security features given by ARM MCU itself
+(MUST)							+
+		Software that somehow enables a once in lifetime authentication
+Step2: Additionally, go for ATSHA204A
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
