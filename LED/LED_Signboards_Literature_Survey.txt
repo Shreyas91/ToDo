@@ -3503,6 +3503,14 @@ https://www.google.co.in/?ion=1&espv=2#q=atsha204a+tutorial
 https://learn.sparkfun.com/tutorials/crypto-shield-hookup-guide
 https://www.sparkfun.com/products/retired/11551
 https://learn.sparkfun.com/tutorials/crypto-shield-hookup-guide/all
+http://www.atmel.com/products/security-ics/cryptoauthentication/start-now.aspx
+http://www.atmel.com/tools/CryptoAuthLib.aspx
+https://github.com/search?utf8=%E2%9C%93&q=atsha&type=Repositories&ref=searchresults
+http://forum.arduino.cc/index.php?topic=352993.0
+https://gist.github.com/ghedo/6751045
+https://www.google.co.in/?ion=1&espv=2#q=CryptoAuthLib+tutorial
+https://www.google.co.in/?ion=1&espv=2#q=atsha204a+arduino+library
+https://www.google.co.in/?ion=1&espv=2#q=CryptoAuthLib+usage
 	https://www.google.co.in/?ion=1&espv=2#q=stm32+crypto+security
 	http://www2.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries-expansions/stm32-cryp-lib.html
 	https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
@@ -3535,10 +3543,17 @@ Step1:	Use security features given by ARM MCU itself
 (MUST)							+
 		Software that somehow enables a once in lifetime authentication
 Step2: Additionally, go for ATSHA204A
+
+
+
+Arduino Forum: LEDs and Multiplexing
+http://forum.arduino.cc/index.php?board=6.0
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
+
+http://forum.arduino.cc/ ********
 
 
 Fedeval academy
