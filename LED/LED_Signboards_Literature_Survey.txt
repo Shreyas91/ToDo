@@ -3548,6 +3548,42 @@ Step2: Additionally, go for ATSHA204A
 
 Arduino Forum: LEDs and Multiplexing
 http://forum.arduino.cc/index.php?board=6.0
+
+
+OTP, Password software based
+https://www.arm.com/products/security-on-arm/index.php
+https://github.com/ARM-software/arm-trusted-firmware
+https://www.google.co.in/?ion=1&espv=2#q=arduino+one+time+authentication+
+https://blog.arduino.cc/2012/07/16/time-based-otp-with-arduino/
+http://hackaday.com/2013/09/14/using-google-authenticator-with-an-arduino/
+http://www.lucadentella.it/en/2013/09/14/serratura-otp/
+https://github.com/lucadentella/ArduinoLib_TOTP
+http://forum.arduino.cc/index.php?topic=262848.0
+http://hackaday.com/2012/07/11/time-based-one-time-passwords-with-an-arduino/
+https://www.arm.com/products/processors/technologies/trustzone/tee-smc.php
+http://electronics.stackexchange.com/questions/198274/storing-a-secure-key-in-an-embedded-devices-memory
+https://www.google.co.in/?ion=1&espv=2#q=stm32+arm+authentication+program
+http://embeddedrandomnotes.blogspot.in/2014/08/remotely-program-stm32-discovery-board.html
+
+
+
+Schematic of 64*64 LED Display, LED Array, LED module *****
+TI Reference designs in general
+	http://www.ti.com/general/docs/refdesignsearchresults.tsp?DCMP=tidesigns-en&HQS=tidesigns-vanityurl-en
+http://www.ti.com/tool/TIDA-00161
+http://www.ti.com/product/TLC5958/toolssoftware
+http://www.ti.com/product/TLC5958
+http://www.ti.com/product/TLC5958/compare
+https://www.google.co.in/#q=reference%20design%20led%20array&start=10&rct=j
+https://www.google.co.in/?ion=1&espv=2#q=led%20array%20schematic
+https://www.google.co.in/?ion=1&espv=2#q=led+p6+schematic
+https://www.google.co.in/#q=TLC5958+LED+Panel
+http://www.prnewswire.com/news-releases/ti-introduces-industrys-first-fully-integrated-led-matrix-manager-for-adaptive-automotive-headlight-systems-279441852.html
+http://e2e.ti.com/blogs_/b/powerhouse/archive/2016/02/26/driving-leds-topology-matters
+http://www.edn.com/design/led/4432914/How-to-design-LED-signage-and-LED-matrix-displays--Part-1
+https://designcontent.live.altium.com/ReferenceDesignDetail/LedMatrixDisplay
+https://www.circuitlab.com/browse/by-tag/led-array/
+http://led.linear1.org/led.wiz
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
