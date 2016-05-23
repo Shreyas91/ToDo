@@ -3567,10 +3567,11 @@ http://embeddedrandomnotes.blogspot.in/2014/08/remotely-program-stm32-discovery-
 
 
 
-Schematic of 64*64 LED Display, LED Array, LED module *****
+Schematic of 64*64 RGB p2.5 LED Display, LED Array, LED module *****
 TI Reference designs in general
 	http://www.ti.com/general/docs/refdesignsearchresults.tsp?DCMP=tidesigns-en&HQS=tidesigns-vanityurl-en
 http://www.ti.com/tool/TIDA-00161
+http://www.ti.com/lsds/ti/power-management/signage-linear-overview.page
 http://www.ti.com/product/TLC5958/toolssoftware
 http://www.ti.com/product/TLC5958
 http://www.ti.com/product/TLC5958/compare
@@ -3584,6 +3585,20 @@ http://www.edn.com/design/led/4432914/How-to-design-LED-signage-and-LED-matrix-d
 https://designcontent.live.altium.com/ReferenceDesignDetail/LedMatrixDisplay
 https://www.circuitlab.com/browse/by-tag/led-array/
 http://led.linear1.org/led.wiz
+
+
+https://e2e.ti.com/support/dsp/omap_applications_processors/f/447/p/207989/743897#743897
+http://forum.arduino.cc/index.php?topic=74149.0
+https://www.google.co.in/?ion=1&espv=2#q=reference+design+%22monochrome%22+ti+led+matrix
+https://www.google.co.in/?ion=1&espv=2#q=reference+design+tlc5946&start=10
+
+
+conformal coating
+Environmental Protection Conformal Coating
+environmental protection...water proofing...PVA conformal coating...Resin Encapsulation
+https://www.youtube.com/watch?v=JObKqKUhzxU *****
+https://www.youtube.com/watch?v=8-XKH_OW8Us
+
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
@@ -3615,7 +3630,7 @@ http://www.smdepl.com/reverse-engineering.html#rev
 http://www.smdepl.com/enquiry.php#contact
 http://www.renukaelectronics.com/reverse-engg
 
-
+http://www.instructables.com/id/Android-Motion-Sensing-Smart-Mirror/?ALLSTEPS
 
 http://prodisplay.com/products/lcd-advertising-screen/
 http://www.amazon.in/s/ref=bl_dp_s_web_976419031?ie=UTF8&node=976419031&field-brandtextbin=Merlin+Digital
@@ -3644,3 +3659,11 @@ http://www.gifntext.com/
 http://www.bing.com/search?q=windows+GIF+maker+text+scrolling+effects&go=Submit&qs=n&form=QBRE&pq=windows+gif+maker+text+scrolling+effects&sc=1-32&sp=-1&sk=&cvid=6642A74849F9449EB83DDF46B573F6F5
 http://www.pixelan.com/movie-maker/titlefx-text-effects-wizard.htm
 https://www.google.co.in/#q=GIF+maker+text+scrolling+effects
+
+
+http://www.appelsiini.net/2011/how-does-led-matrix-work
+
+https://www.google.co.in/?ion=1&espv=2#q=led+display+billboard+cabinet+design
+http://www.outdoorledwall.com/led-billboard-tech.html
+https://www.google.co.in/?ion=1&espv=2#q=electronics+cabinet+manufacturers+in+bangalore
+http://www.justdial.com/Bangalore/Electronic-Enclosure-Manufacturers-%3Cnear%3E-S-P-Road/ct-1000002909
