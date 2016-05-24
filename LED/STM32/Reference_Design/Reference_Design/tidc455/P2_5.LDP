@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\DATASHEET\TLC5958\LED panel\P2_5.pcb
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=p2_5.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Mid1_Blind_Vias|DrillFile=|LayerPairs=gtl,g1
