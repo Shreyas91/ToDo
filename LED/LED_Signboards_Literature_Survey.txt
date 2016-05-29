@@ -3141,9 +3141,16 @@ https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=a
 https://www.obdev.at/products/vusb/index.html
 https://www.youtube.com/watch?v=bTlM27jzOIQ
 
+Arduino IDE extension for Atmel Studio
+http://playground.arduino.cc/Code/VisualMicro
 
+https://www.arrow.com/en/reference-designs
 
-
+Altium library problem solution - open source altium library
+https://github.com/issus/altium-library
+https://github.com/Altium-Designer-addons/scripts-libraries
+https://www.google.co.in/#q=Altium+Database+libraries
+http://www.fedevel.com/designhelp/forum/main-forum/altium/2369-altium-database-libraries-dblib
 
 =========================================================================================================
 =========================================================================================================
@@ -3152,6 +3159,8 @@ https://www.youtube.com/watch?v=bTlM27jzOIQ
 http://fw.hardijzer.nl/?p=223 <--- **************************************************************
 http://www.rayslogic.com/propeller/programming/AdafruitRGB/AdafruitRGB.htm
 http://bikerglen.com/projects/lighting/led-panel-1up/
+
+http://www.altium.com/products/downloads
 
 http://www.electronics-lab.com/?s=LED+matrix
 
@@ -3170,6 +3179,14 @@ STM32 generic board pcb clone schematic
 http://www.diygoodies.org.ua/?p=322
 http://hackaday.com/2011/08/03/an-arm-dev-board-you-can-make-at-home/
 http://www.diygoodies.org.ua/?p=289
+
+Acryloc signage
+http://www.aliexpress.com/popular/channel-letter-bender.html
+https://www.google.co.in/#q=Sign+Bending+Machine
+https://www.google.co.in/#q=channel+letter+bending+machine
+http://dir.indiamart.com/impcat/channel-letter-bending-machine.html
+
+
 
 http://www.artekit.eu/resources/ak-stm32-dip36/doc/AK-STM32-DIP36-Schematics-Rev1.pdf ***
 ****
@@ -3622,13 +3639,52 @@ https://www.google.co.in/?ion=1&espv=2#q=after+effects+text+plugin
 https://www.google.co.in/?ion=1&espv=2#q=ae%20text%20presets%20free
 https://motionarray.com/tutorials/installing-and-using-after-effects-presets
 
+altium Library problem
+https://mail.google.com/mail/u/0/#inbox
+https://techdocs.altium.com/display/ADOH/Download+Libraries
+https://www.snapeda.com/
+https://www.snapeda.com/libraries/
+https://www.google.co.in/?ion=1&espv=2#q=altium+designer+vault+crack
+https://www.google.co.in/?ion=1&espv=2#q=can+eagle+libraries+be+used+with+altium
+https://www.google.co.in/#q=Altium+Designer%27s+EAGLE+Importer
+https://www.quora.com/How-can-I-download-components-library-from-Altiums-official-website
+http://webench.ti.com/cad/
+https://www.google.co.in/#q=Altium+PCAD+(import
+https://techdocs.altium.com/display/ADOH/Moving+to+Altium+Designer+From+P-CAD#MovingtoAltiumDesignerFromP-CAD-UsingtheImportWizardforP-CADFiles
+https://techdocs.altium.com/display/ADOH/Importing+and+Exporting+Design+Files
+https://www.google.co.in/?ion=1&espv=2#q=altium%20importer%20download%20crack
+
+Some import tool offered by TI
+http://webench.ti.com/cad/
+Ultra Librarian software
+
+chinese LED IC (ex.chipone company)
+http://www.chiponeic.com/index.php/website/products/led
+http://www.chiponeic.com/index.php/website/contact
+http://www.linear.com/product/LT8500
+https://www.google.co.in/?ion=1&espv=2#lr=lang_en&tbs=lr:lang_1en&q=%22icn2012%22+led+ic
+https://www.google.co.in/#q=chinese+led+display+ic&start=10
+https://www.google.co.in/#q=china%2048%20channel%20led%20ic&rct=j
+https://www.google.co.in/?ion=1&espv=2#q=chinese+IC+chips
+http://www.made-in-china.com/products-search/hot-china-products/Integrated_Circuit.html
+http://www.chinasuppliers.globalsources.com/china-suppliers/IC.htm
+http://www.manufacturers.com.tw/electronics/led-driver-ic.html
+http://www.ledinside.com/news/2014/12/exodus_of_chinese_led_chip_manufacturers_during_the_last_5_years
+https://www.google.co.in/#q=Ranking+of+LED+Chip+Manufacturers+in+China
+http://www.danforelighting.com/Products/LED%20Panel%20Light/R801/706.html
+http://www.ledinside.com/node/24123
+http://press.ihs.com/press-release/technology/first-chinese-supplier-breaks-top-10-led-rankings-2013
+http://www.simco-groups.com/market_segment/led-chip-manufacturing/
+http://www.gpiled.com/
+https://www.google.co.in/?ion=1&espv=2#q=chinese+LED+IC+manufacturers
+
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
 
 http://forum.arduino.cc/ ********
-
+http://www.freeduino.org/
 
 Fedeval academy
 https://www.youtube.com/user/matarofe/videos?sort=dd&view=0&flow=grid
@@ -3690,3 +3746,29 @@ https://www.google.co.in/?ion=1&espv=2#q=led+display+billboard+cabinet+design
 http://www.outdoorledwall.com/led-billboard-tech.html
 https://www.google.co.in/?ion=1&espv=2#q=electronics+cabinet+manufacturers+in+bangalore
 http://www.justdial.com/Bangalore/Electronic-Enclosure-Manufacturers-%3Cnear%3E-S-P-Road/ct-1000002909
+
+
+
+http://www.instructables.com/community/10-Best-Electronics-Suppliers/
+http://www.strategies-u.com/articles/2015/03/takeaways-2015-china-signage.html
+http://www.vipprogrammer.com/
+https://www.taydaelectronics.com/
+https://world.taobao.com/search/search.htm?_ksTS=1464493474416_20&spm=a21bp.7806943.20151106.1&_input_charset=utf-8&navigator=all&json=on&q=led%20display%20mpdule&callback=__jsonp_cb&cna=Y5TPD%20SvCwgCAXXQmZO9jeg3&abtest=_AB-LR517-LR854-LR895-PR517-PR854-PV895_2462
+http://taobaofieldguide.com/category/cool-stuff-to-buy-on-taobao
+http://oneworldled.com/led-solutions/
+http://oneworldled.com/led/led-selections/
+http://oneworldled.com/products/adverpost/
+https://adverpost.com/
+
+
+The top Chinese signage system players
+top 5 signage system suppliers
+Unilumin
+LianTronics
+Absen
+Shenzhen RuiTuo
+
+http://www.signagebangalore.com/ *****
+http://www.ledrawmaterialdelhi.com/management.php
+http://www.ledrawmaterialdelhi.com/Designing_Packing.php
+http://www.hitechvision.in/led-sign-boards/

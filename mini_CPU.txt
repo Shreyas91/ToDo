@@ -42,6 +42,7 @@ http://stackoverflow.com/questions/16376957/raspberry-pi-embedded-programming-ex
 There are numerous companies that provide large varieties of open-source electronics such as 
 	Sparkfun
 	Adafruit
+	https://www.arrow.com/en/reference-designs
 	http://www.electronics-lab.com/
 https://en.wikipedia.org/wiki/Open-source_hardware
 	See the references section of the above
