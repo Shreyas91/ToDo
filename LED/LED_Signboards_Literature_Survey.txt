@@ -3712,6 +3712,48 @@ http://www.importexportmarketing.in/question-category/import-from-china/
 https://www.quora.com/Which-is-the-most-profitable-product-to-import-from-China-and-sell-in-India
 http://startupbros.com/how-you-can-make-big-money-importing-from-china-the-rise-and-fall-of-my-empire/
 
+https://www.quora.com/Which-website-is-the-Chinese-equivalent-of-YouTube
+http://www.soku.com/search_video/q_+led%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%A8%A1%E7%BB%84%E8%AE%BE%E8%AE%A1_orderby_1_limitdate_0?site=14&_lg=10&lengthtype=4
+
+http://www.chinacheckup.com/resources/alibaba-alternatives
+
+https://www.shopify.in/blog/16665772-alibaba-101-how-to-safely-source-products-from-the-worlds-biggest-supplier-directory
+http://www.instructables.com/id/How-to-Buy-from-the-Greatest-Store-The-World-Has-E/?ALLSTEPS
+Shipping: ask them to include Express (aka Courier) transport with the price. the term "FOB" means 
+"shipping not included", while "CIF" means "shipping and insurance included". Express / Courier means 
+they will use whichever of Fedex, UPS, DHL or TNT they have an account with, and their rates are 
+nearly always better than yours. 
+
+http://www.chinaebuys.com/#!how-it-works/k18ur
+
+
+LED SUPPLIER INDIA...MUMBAI ***********
+http://www.tauruselectronics.in/moving-display-leds.html
+http://www.tauruselectronics.in/5050-smd-led.html
+http://www.tauruselectronics.in/enquiry.html
+
+http://www.imperalab.com/led-displays/led-displays-introduction/ ****
+https://ledsignsolution.com.au/led-signs-basics/led-pixel-pitch-resolution
+http://www.outdoorintelligence.com.au/#!faq/cz76
+http://www.light.fi/blog/how-to-choose-the-right-led/
+https://www.linkedin.com/pulse/comparison-differences-between-led-technologies-dip-vs-doris-li
+
+The viewing angle of SMD LED display screen is about 160°(H)/120°(V) when the DIP LED display screen is about 110°(H)/60°(V). So for indoor LED display screens, we usually choose SMD type LED display screen for a wider viewing angle. But for outdoor LED display screen we usually choose DIP type LED display screens for its durable performance. When we want both wider viewing angle and good weather resistance capability, we can choose SMD3535 LED modules. 
+[http://www.led-displays-china.com/learnCenter/angle-distance_418.html]
+http://www.daktronics.com/en-us/learning-and-resources/led-learning-center
+
+What SMD LED to use for what pitch (**************)
+http://www.led-displays-china.com/indoor-P4-P6.html
+	Pixel pitch			P3mm			P4mm			P5mm			P6mm			P7.62mm			P8mm			P10mm
+	Pixel configuration	SMD2020 3in1	SMD2020 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1
+http://www.avledscreen.com/productn.asp?ArticleID=1909
+Don't follow the above religiously...see what type of SMD is cheapest and use it.
+
+https://scholar.google.co.in/scholar?hl=en&q=+control+system+for+full-color+LED+display&btnG=
+http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1730971 .. see and download its references too
+
+DIP SMD COB MCOB MCCOB
+http://ledlights-reviews.com/led-lighting-evolution
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
@@ -3781,7 +3823,7 @@ http://www.outdoorledwall.com/led-billboard-tech.html
 https://www.google.co.in/?ion=1&espv=2#q=electronics+cabinet+manufacturers+in+bangalore
 http://www.justdial.com/Bangalore/Electronic-Enclosure-Manufacturers-%3Cnear%3E-S-P-Road/ct-1000002909
 
-
+http://www.theledlight.com/technical1.html
 
 http://www.instructables.com/community/10-Best-Electronics-Suppliers/
 http://www.strategies-u.com/articles/2015/03/takeaways-2015-china-signage.html
