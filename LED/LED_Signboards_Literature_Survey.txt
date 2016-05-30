@@ -3748,12 +3748,18 @@ http://www.led-displays-china.com/indoor-P4-P6.html
 	Pixel configuration	SMD2020 3in1	SMD2020 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1	SMD3528 3in1
 http://www.avledscreen.com/productn.asp?ArticleID=1909
 Don't follow the above religiously...see what type of SMD is cheapest and use it.
+https://www.instyleled.co.uk/comparison-3528-smds-5050-smds/
 
 https://scholar.google.co.in/scholar?hl=en&q=+control+system+for+full-color+LED+display&btnG=
 http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1730971 .. see and download its references too
 
 DIP SMD COB MCOB MCCOB
 http://ledlights-reviews.com/led-lighting-evolution
+
+Telegraphic transfer (tt) payment
+http://escrow.aliexpress.com/escrow-faq/payment/What-is-TT-payment.html
+http://escrow.aliexpress.com/escrow-faq/payment/how-do-i-pay-using-bank-transfers.html
+
 =========================================================================================================
 =========================================================================================================
 =========================================================================================================
